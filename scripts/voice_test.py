@@ -52,7 +52,7 @@ for name, voice_id in VOICES.items():
         headers={"xi-api-key": API_KEY, "Content-Type": "application/json"},
         json={
             "text": SAMPLE_TEXT,
-            "model_id": "eleven_multilingual_v2",
+            "model_id": "eleven_flash_v2_5",
             "voice_settings": VOICE_SETTINGS,
         },
     )

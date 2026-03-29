@@ -147,7 +147,7 @@ def generate_audio(text, voice_id):
         headers={"xi-api-key": API_KEY, "Content-Type": "application/json"},
         json={
             "text": text,
-            "model_id": "eleven_multilingual_v2",
+            "model_id": "eleven_flash_v2_5",
             "voice_settings": VOICE_SETTINGS,
         },
     )
