@@ -1,0 +1,248 @@
+/* Once Upon a Savannah — Bedtime Storybook Styles */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Nunito:wght@400;600;700&display=swap');
+
+/* Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Base */
+:root {
+  --cream: #FDF6EC;
+  --cream-light: #FFFBF5;
+  --brown: #3B2F2F;
+  --brown-light: #6B5B4F;
+  --gold: #D4A847;
+  --gold-light: #E8C96A;
+  --rose: #C98686;
+  --shadow-warm: rgba(139, 90, 43, 0.1);
+  --font-heading: 'Lora', Georgia, serif;
+  --font-body: 'Nunito', -apple-system, sans-serif;
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--brown);
+  background: var(--cream);
+  line-height: 1.6;
+  min-height: 100vh;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Top accent bar */
+body::before {
+  content: '';
+  display: block;
+  height: 4px;
+  background: linear-gradient(90deg, var(--gold), var(--rose), var(--gold));
+}
+
+/* Layout */
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+}
+
+/* ========== HOME PAGE ========== */
+
+.site-header {
+  text-align: center;
+  padding: 2.5rem 0 1.5rem;
+}
+
+.site-header h1 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--brown);
+  margin-bottom: 0.25rem;
+}
+
+.site-header .subtitle {
+  font-size: 1rem;
+  color: var(--brown-light);
+  font-style: italic;
+}
+
+/* Story list */
+.story-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem 0 2rem;
+}
+
+.story-card {
+  display: block;
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  background: var(--cream-light);
+  box-shadow: 0 2px 8px var(--shadow-warm);
+  text-decoration: none;
+  color: inherit;
+  border-left: 4px solid var(--gold);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.story-card:hover,
+.story-card:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px var(--shadow-warm);
+  outline: none;
+}
+
+.story-card h2 {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.story-card .meta {
+  font-size: 0.85rem;
+  color: var(--brown-light);
+}
+
+.audio-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--rose);
+  background: rgba(201, 134, 134, 0.12);
+  padding: 0.15rem 0.5rem;
+  border-radius: 6px;
+  margin-top: 0.4rem;
+}
+
+/* ========== STORY PAGE ========== */
+
+.back-link {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: var(--gold);
+  text-decoration: none;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.back-link:hover {
+  color: var(--brown);
+}
+
+.story-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.story-header h1 {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.story-header .meta {
+  font-size: 0.85rem;
+  color: var(--brown-light);
+}
+
+/* Decorative separator */
+.story-header::after {
+  content: '~ \2726 ~';
+  display: block;
+  margin-top: 1.25rem;
+  font-size: 1rem;
+  color: var(--gold);
+  letter-spacing: 0.3em;
+}
+
+/* Audio player */
+.audio-player {
+  background: var(--cream-light);
+  padding: 1rem 1.25rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 4px var(--shadow-warm);
+}
+
+.audio-player p {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--brown-light);
+  margin-bottom: 0.5rem;
+}
+
+.audio-player audio {
+  width: 100%;
+  border-radius: 6px;
+}
+
+/* Story body */
+.story-body {
+  line-height: 1.85;
+  font-size: 1.05rem;
+}
+
+.story-body p {
+  margin-bottom: 1.25rem;
+}
+
+.story-body em {
+  font-style: italic;
+  color: var(--brown-light);
+}
+
+.story-body hr {
+  border: none;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.story-body hr::before {
+  content: '~ \2726 ~';
+  font-size: 0.9rem;
+  color: var(--gold);
+  letter-spacing: 0.3em;
+}
+
+/* ========== FOOTER ========== */
+
+.site-footer {
+  text-align: center;
+  padding: 2rem 0 1.5rem;
+  font-size: 0.8rem;
+  color: var(--brown-light);
+  border-top: 1px solid rgba(139, 90, 43, 0.1);
+  margin-top: 2rem;
+}
+
+/* ========== RESPONSIVE ========== */
+
+@media (max-width: 480px) {
+  html {
+    font-size: 16px;
+  }
+
+  .site-header h1 {
+    font-size: 1.7rem;
+  }
+
+  .story-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .container {
+    padding: 1.5rem 1rem;
+  }
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{title}} — Once Upon a Savannah</title>
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <a href="../../" class="back-link">&larr; All Stories</a>
+    </nav>
+
+    <header class="story-header">
+      <h1>{{title}}</h1>
+      <p class="meta">{{reading_time}} &middot; {{characters}}</p>
+    </header>
+
+    <main>
+      {{audio_player}}
+
+      <div class="story-body">
+        {{story_html}}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      Made with love for Savannah
+    </footer>
+  </div>
+</body>
+</html>
