@@ -1,7 +1,7 @@
 # Outline: Luna the Dragon
 
 **Based on:** Original fairy tale outline from reference material
-**Characters:** Princess Savannah, Luna, Big Al, Wilma, Opossum, Raccoon, Bat
+**Characters:** Princess Savannah, Luna, Big Al, Wilma, Ollie the Opossum, Rascal the Raccoon, Bramble the Bat
 
 ## Beats
 

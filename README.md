@@ -2,7 +2,7 @@
 
 Bedtime fairy tales for Savannah.
 
-Stories where she's the princess, surrounded by woodland critters, with her grandparents woven in as wise and loving figures. Every story ends happily. Every story is meant to be read aloud, repeated, and remembered.
+Stories where she's the princess, surrounded by woodland critters and a loyal dragon, with her grandparents woven in as wise and loving figures. Every story ends happily. Every story is meant to be read aloud, repeated, and remembered.
 
 ## What This Is
 
@@ -12,32 +12,35 @@ A collection of original fairy tales written as a gift. Savannah's grandparents 
 
 - Pick a story from `stories/` and read it aloud at bedtime
 - Stories are designed to be 5-10 minutes when read at a comfortable pace
-- Use `/new-tale` in Claude Code to generate a new story from a simple premise
+- Use the commands below in Claude Code to brainstorm, generate, review, and revise stories
 
 ## Project Structure
 
 ```
 once-upon-a-savannah/
 ├── stories/              ← finished stories, ready to read
-│   └── luna-the-dragon/
+│   ├── luna-the-dragon/
+│   └── luna-in-the-fog/
 ├── characters.md         ← the cast and their personalities
 ├── templates/            ← story template for generating new tales
-├── future/               ← wishlist items (illustrations, audio, etc.)
-└── reference/            ← earlier drafts and source material
+└── future/               ← wishlist items (illustrations, audio, etc.)
 ```
 
 ## Characters
 
 - **Princess Savannah** — the hero, always
-- **Luna the Dragon** — mysterious but friendly, based on their real black standard poodle
+- **Luna the Dragon** — brave, cuddly, loud, and loyal. Based on their real black standard poodle
 - **Big Al** — big, strong, wise grandpa figure
 - **Wilma** — elegant, beautiful, wise grandma figure
-- **Woodland critters** — opossum, raccoon, bat, and friends
-
-See `characters.md` for the full character bible.
+- **Mom (Melissa) & Dad (Rick)** — Savannah's parents, available for future stories
+- **Woodland critters** — a flexible cast (opossum, raccoon, bat, owl, fox, and more). See `characters.md`
 
 ## Commands
 
 | Command | What it does |
 |---|---|
-| `/new-tale` | Generate a new fairy tale from a simple premise |
+| `/story-idea` | Brainstorm 5 story premises — no files created, just ideas to pick from |
+| `/new-tale` | Generate a new fairy tale — shows an outline for approval, then writes the full draft |
+| `/read-aloud-check` | Review a draft for bedtime pacing, rhythm, and flow |
+| `/revise` | Edit an existing story based on feedback |
+| `/bedtime` | Pick a random story from the collection, ready to read aloud |

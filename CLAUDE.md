@@ -13,9 +13,11 @@ Bedtime fairy tales for Savannah. This is a gift project — every creative deci
 ## The Rules
 
 - **Princess Savannah is always the hero.** She's kind, brave, and adventurous. She solves problems through courage and friendship, never through violence or cruelty.
-- **Luna is always a dragon.** Black-scaled, initially mysterious or seemingly scary, always turns out to be gentle and friendly. Based on their real black standard poodle — Luna should have that same loyal, slightly goofy, loving energy underneath the dragon exterior.
-- **Big Al and Wilma are always wise, loving figures.** They can appear as dragon experts, magicians, kingdom elders, forest sages — whatever fits the story. But they should always feel like the real people: Al is big, strong, burly, protective. Wilma is elegant, beautiful, gentle, knowing. They are grandparent figures and should radiate that energy.
-- **Woodland critters are the supporting cast.** Opossum, raccoon, and bat are the core crew. Others can join. Their personalities are still developing — keep them loose and let them evolve across stories.
+- **Luna is always a dragon** — but she's not always the twist. She can be the mystery, the sidekick, the comic relief, or just part of the crew from the start. Black-scaled, brave, smart, cuddly, loud, and demanding. Based on their real black standard poodle — she should always feel like the real Luna underneath the dragon exterior.
+- **Big Al and Wilma are always wise, loving figures.** They can appear as dragon experts, magicians, kingdom elders, forest sages — whatever fits the story. Keep the relationship fairy-tale-abstract — they're magical elders who guide and protect Savannah, not explicitly grandparents. But they should always *feel* like the real people: Al is big, strong, burly, protective. Wilma is elegant, beautiful, gentle, knowing.
+- **Mom (Melissa) and Dad (Rick)** are available but not yet developed. Include them only when the story calls for it.
+- **Woodland critters are the supporting cast.** There's no fixed crew — each story picks 2-4 critters that fit the adventure. See `characters.md` for the full palette. New critters can be invented as needed.
+- **Settings vary.** A kingdom one story, a forest village the next, a seaside town after that. Don't lock into one world — let each tale build its own place.
 - **Stories should be 1,000-2,000 words.** Readable aloud in 5-10 minutes at a comfortable bedtime pace.
 - **Stories should be repeatable.** Simple enough to memorize the beats. Comforting enough to hear many times. The structure should feel familiar even as the specific adventure changes.
 
@@ -27,7 +29,7 @@ Every story follows this basic shape (with room for variation):
 2. **The problem** — something small and solvable disrupts the peace (never truly dangerous)
 3. **The call** — Savannah decides to help, gathers her friends
 4. **The adventure** — journey, discovery, helpers along the way
-5. **The twist** — the "scary" thing is actually friendly or helpful (often Luna)
+5. **The twist** — the "scary" thing is actually friendly or helpful, or the problem turns out to have a sweet solution
 6. **The resolution** — the problem is solved through kindness and friendship
 7. **Happily ever after** — everyone is safe, warm, and together
 
@@ -36,6 +38,8 @@ Every story follows this basic shape (with room for variation):
 - Don't make it scary. Even the "problem" should feel manageable, not threatening.
 - Don't add moral lessons unless they emerge naturally. This isn't didactic — it's comfort.
 - Don't make the language literary or complex. Read every sentence aloud — if it stumbles, simplify it.
+- Don't include food guilt, body shaming, or anything in that territory. No "ate too much," no comments about size or appearance being a problem, no diet talk, no food restriction framing. Characters can eat and enjoy food freely. Keep it joyful and uncomplicated.
+- Don't include any toxic messaging — no shaming of any kind, no put-downs played for laughs, no "you're not enough" undertones. These stories should only ever build a kid up.
 - Don't forget who this is for. Savannah misses her grandparents' bedtime stories. These are meant to carry that feeling forward.
 
 ## Characters
@@ -43,7 +47,8 @@ Every story follows this basic shape (with room for variation):
 See `characters.md` for the full character bible. Key references:
 
 - Savannah = princess, hero, kind and brave
-- Luna = black dragon, seems scary, actually a sweetheart (their real poodle)
+- Luna = black dragon, brave and cuddly and loud (their real poodle)
 - Big Al = grandpa, big and strong and wise
 - Wilma = grandma, elegant and beautiful and knowing
-- Critters = opossum, raccoon, bat (names and personalities TBD)
+- Mom (Melissa) & Dad (Rick) = parents, not yet fleshed out
+- Critters = flexible cast, pick from the palette in characters.md or invent new ones
