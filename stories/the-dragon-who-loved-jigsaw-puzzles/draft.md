@@ -22,13 +22,13 @@ It was the kind of morning where nothing needed to happen, and that was exactly 
 
 But then one night, a big rainstorm came.
 
-It rained and rained and rained. Thunder rumbled over the lake. Lightning flickered behind the hills. The water rose and churned, and when morning came and the storm had passed, the lake had pulled back from the shore, farther than anyone could remember.
+It rained and rained and rained. Thunder grumbled softly over the lake. Lightning winked behind the hills. The water rose and churned, and when morning came and the storm had passed, the lake had pulled back from the shore, farther than anyone could remember.
 
 And it had uncovered something.
 
 Luna found it first. Of course she did.
 
-When Savannah arrived at the shore that morning, Luna was already there, knee-deep in the mud, sniffing and nudging and pawing at the ground. Hundreds of flat stone pieces lay scattered in the wet earth — all different shapes, all different sizes, covered in faded colors of blue and gold and black and green.
+When Savannah arrived at the shore that morning, Luna was already there, knee-deep in the mud, sniffing and nudging and pawing at the ground. Hundreds of flat stone pieces lay scattered in the wet earth — all different shapes, all different sizes. They were covered in faded colors — blue and gold and black and green.
 
 Luna had already arranged a dozen of them into a little cluster, pushing them together with her nose. Her tail thumped the ground. Her eyes were wide and bright. She growled softly at the pile — not an angry growl, but a thinking growl, the kind she made when she was figuring something out.
 
@@ -82,7 +82,7 @@ Luna looked up from her work. She tilted her head. Then she thumped her tail twi
 
 And so they got to work.
 
-It took all day to carry the stone pieces from the shore to the village green. Savannah organized teams. Villagers brought baskets. Everyone helped.
+It took all day to carry the stone pieces from the shore to the village green. Savannah organized teams. Villagers brought baskets. Children ran back and forth. Everyone helped.
 
 Ollie helped too — dramatically.
 
@@ -92,7 +92,7 @@ Then he picked up three more pieces and carried them all the way to the green wi
 
 Mossy was slow, as Mossy always was. But he never dropped a single piece. He carried each one carefully, setting it down gently in the sorting area, and then turning around to go get another. Step by step. Stone by stone. That was Mossy's way.
 
-And Clover appeared silently with a basket balanced perfectly on her back, set it down at the edge of the green without a word, and disappeared to get another. Then another. Then another. She never asked for thanks. She never made a fuss. She was just there, every time they needed her, steady as the dawn.
+And Clover appeared silently with a basket balanced on her back. She set it down at the edge of the green without a word, and disappeared to get another. Then another. Then another. She never asked for thanks. She never made a fuss. She was just there, every time they needed her, steady as the dawn.
 
 By afternoon, the village green looked like a giant colorful carpet. Thousands of stone pieces spread across the grass, sorted into piles — blues here, golds there, greens along the edge, blacks in the middle.
 
@@ -103,6 +103,8 @@ Savannah set up a system. The sorters would find pieces that might match, hold t
 If Luna nodded — a big, slow nod with her whole head — the piece was right, and she would take it gently in her mouth and place it herself.
 
 If Luna snorted — a sharp huff through her nostrils — the piece went back to the pile.
+
+"She rejected mine three times," Ollie whispered to Savannah. "I think she's doing it on purpose now."
 
 It became a game. The whole village got into it. People cheered when a piece fit. They groaned and laughed when Luna rejected one. Children held up pieces and called, "How about this one, Luna?" and Luna would look very seriously at each one before deciding.
 
@@ -140,13 +142,13 @@ Everyone stepped back.
 
 And there it was.
 
-A dragon. Black scales shining with flecks of gold. Bright, knowing eyes. Wings stretched wide as if ready to fly. A face that was fierce and kind at the same time — the face of someone who was brave enough to be gentle.
+A dragon. Black scales shining with flecks of gold. Bright, knowing eyes. Wings stretched wide as if ready to fly. A face that was strong and kind at the same time — the face of someone who was brave enough to be gentle.
 
 She looked exactly like Luna.
 
 The village was still. The evening light fell golden across the green, and the mosaic glowed as if it had been waiting all those long, buried years for this exact moment.
 
-This picture had been made long, long ago — a monument to the very first dragon who had ever befriended the kingdom. And that dragon, painted in stone before anyone alive could remember, looked just like the one standing over her portrait right now.
+This picture had been made long, long ago — a monument to the very first dragon who had ever befriended the kingdom. And that dragon, painted in stone long before anyone could remember, looked just like Luna.
 
 Luna stared at the mosaic for a long time.
 
@@ -162,7 +164,7 @@ Ollie curled up against Luna's side, tucking himself in tight. Clover settled in
 
 Savannah smiled and leaned her head against Luna's shoulder. "Of course she did."
 
-The village decided, right then and there, to keep the mosaic on the green forever. They would build a low stone wall around it to protect it, and set little lanterns at its corners, and everyone would know the story — how a dragon named Luna had found the kingdom's oldest treasure, buried by the lake, waiting for her all along.
+The village decided, right then and there, to keep the mosaic on the green forever. They would keep it right there on the green, where everyone could see it — the kingdom's oldest treasure, found by its newest dragon.
 
 That evening, the whole village gathered on the green under the first stars. Someone brought blankets. Someone brought tea. The fireflies came out over the lake, blinking their tiny lights like a second sky.
 

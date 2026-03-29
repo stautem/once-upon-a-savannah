@@ -12,7 +12,7 @@ She always woke up early. She liked to sit at the tall window in her tower room 
 
 Today she had her paints out and ready. Her brushes were lined up. Her water cup was full. Today, she was going to paint the sunrise.
 
-Luna was curled at the foot of the bed, snoring. She was a great black dragon with shining scales and a long tail and wings that folded neatly against her back, and she snored like a thunderstorm in a teacup.
+Luna was curled at the foot of the bed, snoring. She was a great black dragon with shining scales and a long tail and wings that folded neatly against her back, and she snored like a very small thunderstorm.
 
 Savannah smiled and looked out the window.
 
@@ -86,7 +86,7 @@ She placed a small, empty glass jar in Savannah's hands.
 
 Savannah tucked the jar into her satchel. Wilma smiled — that smile that made you feel like everything was going to be all right. "You'll do just fine," she said. "You always do."
 
-So Savannah pressed on. The trail grew brighter and brighter. The drops became puddles. The puddles became streaks — sunset orange and forest green and purple so deep it looked like it had fallen out of the night sky.
+So Savannah pressed on. The trail grew brighter and brighter. The drops became puddles. The puddles became streaks — sunset orange and forest green and purple as deep as the night sky.
 
 And then the trail ended.
 
@@ -108,7 +108,7 @@ Luna leaned in and sniffed loudly. The chameleon flinched.
 
 "Easy, Luna," Savannah murmured.
 
-This was Petal. She was a chameleon who changed color with her feelings. And she had been so afraid of being seen — so afraid of standing out, of being too much — that she had curled up tight and tried to make herself invisible. But the harder she tried to hide, the more color she pulled in from the world around her. She had taken the whole kingdom's color trying to disappear.
+This was Petal. She was a chameleon who changed color with her feelings. She had been so afraid of being seen. So afraid of being noticed. She had curled up tight and tried to disappear. But the harder she tried to hide, the more color she pulled in.
 
 She hadn't meant to. She was just scared.
 
@@ -150,7 +150,7 @@ And as she uncurled — as she stopped squeezing, stopped hiding, stopped trying
 
 They drifted off like dandelion seeds.
 
-Pink floated up toward the sky, and the sky blushed with it. Gold settled into the sunlight. Green drifted down to the grass. Blue slipped away like a ribbon on the breeze, and the river caught it and began to sparkle.
+Pink floated up, and the sky blushed. Gold settled down, and the sunlight warmed. Green drifted low, and the grass woke up. Blue slipped away, and the river sparkled.
 
 One by one, the colors returned to where they belonged. Not because anyone forced them. But because Petal wasn't trying to hide anymore.
 
@@ -186,16 +186,14 @@ Then Luna sneezed.
 
 It was a tremendous sneeze — the kind that shakes the leaves off trees and startles birds three meadows over. Petal flew up into the air, spun twice, and landed right back on Luna's nose, holding on with all four tiny feet.
 
-Everyone laughed. Even Clover let out a soft huff that was her way of laughing. Luna looked extremely offended. And then she sneezed again.
+Everyone laughed. Even Clover let out a soft huff that was her way of laughing.
 
-Savannah laughed until her sides hurt. Then she picked up her paints — every pot full again, brimming with color — and sat down in the meadow with Luna beside her and Clover nearby and Petal riding on Luna's nose like a very small captain of a very large, very grumpy ship.
+Then Savannah picked up her paints — every pot full again, brimming with color. She sat down in the meadow with Luna beside her and Clover nearby. And Petal rode on Luna's nose like a very small captain of a very large, very grumpy ship.
 
 And she painted the sunrise.
 
 She painted the pinks and the golds and the blues. She painted the green meadow and the dark, shining dragon and the deer standing quietly at the edge. And right in the middle, she painted a tiny, bright chameleon, no bigger than a thumbprint, glowing with every color in the world.
 
-And Petal — the smallest, shyest creature in the whole kingdom — never disappeared again. She didn't need to. She had friends now. She had a place on Luna's nose and a spot in the meadow and a princess who had sat down in the moss and told her she was beautiful.
-
-And when you have friends like that, you don't need to hide. You can just be yourself — every color, all at once — and that is more than enough.
+And Petal — the smallest, shyest creature in the whole kingdom — never disappeared again. She didn't need to. She had friends now. And that was more than enough.
 
 And they all lived happily ever after.

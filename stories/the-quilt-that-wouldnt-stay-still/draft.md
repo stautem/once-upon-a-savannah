@@ -10,7 +10,7 @@ Once upon a time, in a cozy little cottage at the edge of a meadow, Princess Sav
 
 Not just any quilt. A special quilt. A quilt for Big Al.
 
-She wanted it to be perfect. Every square told a little piece of what made Big Al who he was. A square with a tall, tall mountain — for his strength. A square with a silver fish — for his love of the river. A square with a bluebird singing on a branch — because Big Al always whistled in the morning, the same tune, as sure as the sunrise.
+She wanted it to be perfect. Every square told a little piece of what made Big Al who he was. A square with a tall, tall mountain — for his strength. A square with a silver fish — for his love of the river. A square with a bluebird singing on a branch — because Big Al always whistled in the morning, the same tune, every single day.
 
 Savannah hummed while she worked. One stitch, then another, then another.
 
@@ -134,7 +134,7 @@ It ruffled its fabric wings and settled in.
 
 The fish was next.
 
-The little cloth fish had found the garden stream and was having the time of its life. It darted between the real minnows, flicking its thread tail, tumbling through the current like a tiny silver acrobat.
+The little cloth fish had found the garden stream and was having the time of its life. It darted between the real minnows, flicking its thread tail, tumbling through the current like a tiny silver leaf.
 
 "Someone has to go in after it," said Savannah.
 
@@ -150,7 +150,7 @@ Luna nudged him toward the stream with her nose. It was not a gentle nudge.
 
 "Fine!" said Ollie. "Fine, fine, fine."
 
-He crept to the edge of the stream. He put one paw in. He winced. He put another paw in. He whimpered. He waded in belly-deep, holding his tail straight up in the air, making a face like the whole world was ending.
+He crept to the edge of the stream. He put one paw in. He winced. He put another paw in. He whimpered. He waded in belly-deep. He held his tail straight up in the air. He made a face like the whole world was ending.
 
 "It's cold," he announced. "It's wet. I would like everyone to know that I am very unhappy."
 
@@ -192,7 +192,7 @@ Back at the cottage, Savannah spread the empty squares across the big wooden tab
 
 She began to sew them into place.
 
-But the bluebird wriggled. The fish squirmed. The mountain pebbles shifted and slid. Every stitch she made, they pulled against. They would not stay still.
+But the bluebird wriggled. The fish squirmed. The mountain pebbles shifted and slid. She tried pinning them down with her thumbs. The bluebird pecked at her fingers. It was no use. Every stitch she made, they pulled against. They would not stay still.
 
 Savannah sat back and pressed her hands against her face.
 
@@ -220,11 +220,11 @@ The bluebird ruffled its wings, as if to say, *Yes, exactly.*
 
 Savannah picked up her needle and got to work.
 
-She rearranged every square so they all connected. The bird perched on a branch above the river. The fish swam in water that flowed down from the mountain. The mountain rose tall behind them all. She stitched golden threads between each square, linking one picture to the next, so there were no edges, no gaps, no lonely squares. Just one big, beautiful scene.
+She rearranged every square so they all connected. The bird perched on a branch above the river. The fish swam in water that flowed down from the mountain. The mountain rose tall behind them all. She stitched golden threads between each square, linking one picture to the next. No edges. No gaps. No lonely squares. Just one big, beautiful scene.
 
 And as each piece found its place beside the others, it settled in — happily, quietly, like a sigh.
 
-Then Savannah did something she hadn't planned. Right in the center, she stitched one more figure. A big, warm bear — broad-shouldered and tall, standing in the middle of everything, holding it all together. If you looked closely, the bear had kind eyes and a gentle smile. He looked an awful lot like someone Savannah loved very much.
+Then Savannah did something she hadn't planned. Right in the center, she stitched one more figure. A big, warm bear — big and tall, standing in the middle of everything, holding it all together. If you looked closely, the bear had kind eyes and a gentle smile. He looked an awful lot like someone Savannah loved very much.
 
 She tied the last knot. She snipped the thread.
 
