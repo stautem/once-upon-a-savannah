@@ -63,7 +63,7 @@ once-upon-a-savannah/
 
 ## Narration Voices
 
-Audio narration is generated with [ElevenLabs](https://elevenlabs.io/) using the flash model (`eleven_flash_v2_5`).
+Audio narration is generated with [ElevenLabs](https://elevenlabs.io/) using the flash model (`eleven_flash_v2_5`). The default voice is **Imogen** (warm British storyteller). Pass `--voice <id>` to the narrate script to use a different one.
 
 | Voice | ID | Style |
 |---|---|---|
@@ -91,6 +91,20 @@ Reserved for future multi-voice narration (character voices):
 | `/revise` | Edit an existing story based on feedback |
 | `/narrate` | Generate audio narration for a story using ElevenLabs |
 | `/bedtime` | Pick a random story from the collection, ready to read aloud |
+
+### Command details
+
+**`/story-idea [theme]`** — Pass an optional theme or direction (e.g., `/story-idea ocean`, `/story-idea something with fireflies`). Generates 5 premises. No files created.
+
+**`/new-tale [premise]`** — Pass an optional premise (e.g., `/new-tale Luna accidentally freezes the garden`). Creates an outline for approval, then writes the full draft.
+
+**`/read-aloud-check [story-name]`** — Pass a story name or leave blank to pick from a list. Reviews pacing, rhythm, stumble words, and rule compliance. Read-only — suggests fixes but doesn't edit.
+
+**`/revise [story-name — feedback]`** — Pass a story name and optional revision notes (e.g., `/revise luna-the-dragon — make the ending longer`). Edits the draft in place.
+
+**`/narrate [story-name | all]`** — Pass a story name, or `all` to narrate every story missing audio. Default voice is Imogen (warm British storyteller). Use `--voice <voice-id>` in the script to override. Run `/narrate --list-voices` to see available voices.
+
+**`/bedtime [preference]`** — Pass an optional filter (e.g., `/bedtime something with Luna`, `/bedtime a short one`). Picks a random matching story and presents it ready to read aloud.
 
 ## Setup
 

@@ -6,7 +6,7 @@ Usage:
 
 Examples:
     python scripts/narrate.py the-dragon-who-loved-jigsaw-puzzles
-    python scripts/narrate.py the-quilt-that-wouldnt-stay-still --voice XB0fDUnXU5powFXDhCwa
+    python scripts/narrate.py the-quilt-that-wouldnt-stay-still --voice jv41DhCf464zw0TI7I1w
     python scripts/narrate.py --list-voices
 """
 
@@ -25,8 +25,8 @@ load_dotenv(PROJECT_ROOT / ".env")
 API_KEY = os.getenv("ELEVENLABS_API_KEY")
 STORIES_DIR = PROJECT_ROOT / "stories"
 
-# Default voice: Charlotte (calm, British, storybook)
-DEFAULT_VOICE_ID = "XB0fDUnXU5powFXDhCwa"
+# Default voice: Imogen (warm British storyteller)
+DEFAULT_VOICE_ID = "jv41DhCf464zw0TI7I1w"
 
 # ElevenLabs max chars per request
 MAX_CHUNK_CHARS = 5000

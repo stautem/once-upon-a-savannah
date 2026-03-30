@@ -22,7 +22,8 @@ Generate an audio narration of a bedtime story using ElevenLabs text-to-speech.
 ## Options
 - To use a different voice: `python scripts/narrate.py <story-name> --voice <voice-id>`
 - To list available voices: `python scripts/narrate.py --list-voices`
-- Default voice is Charlotte (calm, British, storybook feel)
+- Default voice is Imogen (`jv41DhCf464zw0TI7I1w` — warm British storyteller)
+- If `$ARGUMENTS` includes a voice name (e.g., "narrate luna-the-dragon with Tarquin"), look up the voice ID from the table in `README.md` and pass it with `--voice`
 
 ## Rules
 - Don't edit any story files. This is audio generation only.
