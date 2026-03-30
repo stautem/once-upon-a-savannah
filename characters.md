@@ -65,4 +65,9 @@ The supporting cast. Every story picks whichever critters fit the adventure — 
 **Mossy the Turtle** — Slow, steady, patient. The voice of "let's think about this for a minute."
 **The Fireflies** — Not a single character but a collective. They light the way, make things magical, turn dark moments bright.
 
+**Pepper the Skunk** — Sweet-natured, a little self-conscious about her reputation. Tries very hard to be delicate and polite. Surprisingly brave when her friends need her — and her secret weapon has saved the day more than once.
+**Cora the Crow** — Bold, loud, collects shiny things. Knows all the gossip in the forest. Dramatic storyteller — everything she reports sounds like breaking news. Loyal to the bone underneath all the flair.
+**Pip the Jumping Spider** — Tiny, bright-eyed, endlessly curious. Bounces everywhere. Sees details nobody else notices. Not scary at all — more like a fuzzy little acrobat with too much energy and a huge heart.
+**Digby the Mole** — Soft, round, velvety. Knows every tunnel and hidden path underground. Speaks quietly, thinks deeply, and always knows a shortcut. Comforting to be around, like a warm blanket with paws.
+
 *Any critter can appear in any story. New ones can be invented as needed — hedgehogs, frogs, squirrels, whatever the tale calls for. The list above is a starting palette, not a limit.*
