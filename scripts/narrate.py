@@ -36,6 +36,7 @@ VOICE_SETTINGS = {
     "stability": 0.65,        # slightly more expressive than default
     "similarity_boost": 0.75,
     "style": 0.3,             # gentle storytelling style
+    "speed": 0.85,            # unhurried bedtime pace
     "use_speaker_boost": True,
 }
 
@@ -75,21 +76,25 @@ def extract_story_text(draft_path):
     title_match = re.search(r"^#\s+(?:Story:\s*)?(.+)$", text, flags=re.MULTILINE)
     title = title_match.group(1).strip() if title_match else None
 
-    # Remove YAML-style frontmatter (everything before first ---)
-    # The story text starts after the second --- separator
-    parts = text.split("---")
-    if len(parts) >= 3:
-        story_text = "---".join(parts[2:]).strip()
+    # Remove header block (title, metadata, and the --- separator)
+    # The story text starts after the FIRST --- separator; any later ---
+    # are scene breaks within the story and must be preserved.
+    first_sep = text.find("\n---\n")
+    if first_sep != -1:
+        story_text = text[first_sep + 5:]  # skip past "\n---\n"
     else:
-        # No frontmatter, just use everything after the first blank line
+        # No separator, just use everything after the first blank line
         story_text = text.strip()
 
     # Remove any markdown headers that aren't part of the story
     story_text = re.sub(r"^#{1,3}\s+.*$", "", story_text, flags=re.MULTILINE)
 
+    # Replace --- scene breaks with paragraph pauses (not read aloud)
+    story_text = re.sub(r"^\s*---\s*$", "", story_text, flags=re.MULTILINE)
+
     # Clean up markdown formatting
-    story_text = re.sub(r"\*([^*]+)\*", r"\1", story_text)  # remove italics
     story_text = re.sub(r"\*\*([^*]+)\*\*", r"\1", story_text)  # remove bold
+    story_text = re.sub(r"\*([^*]+)\*", r"\1", story_text)  # remove italics
 
     # Collapse multiple blank lines
     story_text = re.sub(r"\n{3,}", "\n\n", story_text)
@@ -138,18 +143,24 @@ def chunk_text(text, max_chars=MAX_CHUNK_CHARS):
     return chunks
 
 
-def generate_audio(text, voice_id):
+def generate_audio(text, voice_id, previous_text=None, next_text=None):
     """Send text to ElevenLabs and return audio bytes."""
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+
+    payload = {
+        "text": text,
+        "model_id": "eleven_flash_v2_5",
+        "voice_settings": VOICE_SETTINGS,
+    }
+    if previous_text:
+        payload["previous_text"] = previous_text
+    if next_text:
+        payload["next_text"] = next_text
 
     r = requests.post(
         url,
         headers={"xi-api-key": API_KEY, "Content-Type": "application/json"},
-        json={
-            "text": text,
-            "model_id": "eleven_flash_v2_5",
-            "voice_settings": VOICE_SETTINGS,
-        },
+        json=payload,
     )
 
     if r.status_code != 200:
@@ -176,11 +187,13 @@ def narrate_story(story_name, voice_id=DEFAULT_VOICE_ID):
     chunks = chunk_text(story_text)
     print(f"Split into {len(chunks)} chunk(s)")
 
-    # Generate audio for each chunk
+    # Generate audio for each chunk, passing adjacent text for continuity
     audio_parts = []
     for i, chunk in enumerate(chunks):
+        prev_text = chunks[i - 1][-300:] if i > 0 else None
+        next_text = chunks[i + 1][:300] if i < len(chunks) - 1 else None
         print(f"  Generating chunk {i + 1}/{len(chunks)} ({len(chunk):,} chars)...", end=" ", flush=True)
-        audio = generate_audio(chunk, voice_id)
+        audio = generate_audio(chunk, voice_id, previous_text=prev_text, next_text=next_text)
         audio_parts.append(audio)
         print(f"done ({len(audio):,} bytes)")
 
