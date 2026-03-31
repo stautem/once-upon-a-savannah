@@ -51,7 +51,7 @@ once-upon-a-savannah/
 ├── docs/                 ← GitHub Pages site (built from stories/)
 ├── scripts/
 │   ├── build_site.py     ← generates the website from story files
-│   ├── narrate.py        ← generates audio narration via ElevenLabs
+│   ├── narrate.py        ← generates audio narration via ElevenLabs with AWS Polly fallback
 │   └── voice_test.py     ← voice comparison tool
 ├── site-templates/       ← HTML/CSS templates for the website
 ├── characters.md         ← the cast and their personalities
@@ -69,7 +69,7 @@ once-upon-a-savannah/
 
 ## Narration Voices
 
-Audio narration is generated with [ElevenLabs](https://elevenlabs.io/) using the flash model (`eleven_flash_v2_5`). The default voice is **Imogen** (warm British storyteller). Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Pass `--voice <id>` to the narrate script to use a different one.
+Audio narration is generated with `scripts/narrate.py`. By default it runs in `auto` mode: it tries [ElevenLabs](https://elevenlabs.io/) first using the flash model (`eleven_flash_v2_5`), then falls back to AWS Polly if ElevenLabs returns a quota, credit, or rate-limit style error. The default ElevenLabs voice is **Imogen** (warm British storyteller). The default Polly fallback voice is **Amy**. Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style.
 
 | Voice | ID | Style |
 |---|---|---|
@@ -87,6 +87,11 @@ Reserved for future multi-voice narration (character voices):
 | Crazy Eddie | `OTMqA7lryJHXgAnPIQYt` | Raspy cartoon gangster |
 | Declan | `1BfrkuYXmEwp8AWqSLWk` | Dark Irish horror narrator |
 
+Fallback provider:
+| Provider | Voice | ID | Style |
+|---|---|---|---|
+| AWS Polly | Amy | `Amy` | Warm British storyteller fallback |
+
 ## Commands
 
 | Command | What it does |
@@ -95,7 +100,7 @@ Reserved for future multi-voice narration (character voices):
 | `/new-tale` | Generate a new fairy tale — outline for approval, then full draft |
 | `/read-aloud-check` | Review a draft for bedtime pacing, rhythm, and flow |
 | `/revise` | Edit an existing story based on feedback |
-| `/narrate` | Generate audio narration for a story using ElevenLabs |
+| `/narrate` | Generate audio narration for a story using ElevenLabs with AWS Polly fallback |
 | `/bedtime` | Pick a random story from the collection, ready to read aloud |
 | `/commit` | Stage and commit changes with a well-formatted message |
 | `/update-docs` | Update documentation to reflect recent changes |
@@ -110,7 +115,7 @@ Reserved for future multi-voice narration (character voices):
 
 **`/revise [story-name — feedback]`** — Pass a story name and optional revision notes (e.g., `/revise luna-the-dragon — make the ending longer`). Edits the draft in place.
 
-**`/narrate [story-name | all]`** — Pass a story name, or `all` to narrate every story missing audio. Default voice is Imogen (warm British storyteller). Use `--voice <voice-id>` in the script to override. Run `/narrate --list-voices` to see available voices.
+**`/narrate [story-name | all]`** — Pass a story name, or `all` to narrate every story missing audio. Default mode is `--provider auto`, which uses ElevenLabs first and falls back to AWS Polly on quota / usage-limit failures. Default ElevenLabs voice is Imogen. Use `--provider elevenlabs --voice <voice-id>` to force an ElevenLabs voice, or `--provider polly --fallback-voice <voice-id>` to force Polly. Run `/narrate --list-voices --provider elevenlabs` to see ElevenLabs voices.
 
 **`/bedtime [preference]`** — Pass an optional filter (e.g., `/bedtime something with Luna`, `/bedtime a short one`). Picks a random matching story and presents it ready to read aloud.
 
@@ -120,7 +125,7 @@ Reserved for future multi-voice narration (character voices):
 
 ## Setup
 
-To generate audio narration, add your ElevenLabs API key:
+To generate audio narration with ElevenLabs, add your ElevenLabs API key:
 
 ```
 cp .env.example .env
@@ -131,4 +136,10 @@ To rebuild the website after adding or editing stories:
 
 ```
 python scripts/build_site.py
+```
+
+To enable the AWS Polly fallback, also set AWS credentials in `.env` and install:
+
+```bash
+pip install boto3
 ```

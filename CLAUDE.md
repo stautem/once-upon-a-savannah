@@ -55,17 +55,22 @@ See `characters.md` for the full character bible. Key references:
 
 ## Audio Narration
 
-Stories can be narrated via ElevenLabs TTS using `scripts/narrate.py`.
+Stories can be narrated via `scripts/narrate.py` with either ElevenLabs or AWS Polly.
 
-- Default voice: Imogen (warm British storyteller)
+- Default mode: `auto` — tries ElevenLabs first, then falls back to AWS Polly only on ElevenLabs quota / credit / rate-limit failures
+- Default ElevenLabs voice: Imogen (warm British storyteller)
+- Default Polly fallback voice: Amy
 - Run: `python scripts/narrate.py <story-name>`
-- All voices: `python scripts/narrate.py --list-voices`
-- Custom voice: `python scripts/narrate.py <story-name> --voice <voice-id>`
+- Force provider: `python scripts/narrate.py <story-name> --provider polly`
+- All voices: `python scripts/narrate.py --list-voices --provider elevenlabs`
+- Custom ElevenLabs voice: `python scripts/narrate.py <story-name> --provider elevenlabs --voice <voice-id>`
+- Custom Polly voice: `python scripts/narrate.py <story-name> --provider polly --fallback-voice <voice-id>`
 - See `README.md` for the full voice table
-- Requires `ELEVENLABS_API_KEY` in `.env`
+- Requires `ELEVENLABS_API_KEY` in `.env` for ElevenLabs narration
+- Requires AWS credentials plus `boto3` for Polly narration: `pip install boto3`
 - Output: `stories/{name}/narration.mp3` (gitignored)
-- Voice settings: stability 0.65, similarity 0.75, style 0.3, speed 0.85, speaker boost on
-- Cross-chunk context: passes adjacent text between API calls for smoother transitions
+- ElevenLabs voice settings: stability 0.65, similarity 0.75, style 0.3, speed 0.85, speaker boost on
+- Cross-chunk context: ElevenLabs passes adjacent text between API calls for smoother transitions
 - Story text extraction strips the header block (up to first `---`), scene break `---` lines, and markdown formatting
 
 ## Documentation Map
