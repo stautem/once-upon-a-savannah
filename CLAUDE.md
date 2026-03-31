@@ -52,3 +52,31 @@ See `characters.md` for the full character bible. Key references:
 - Wilma = grandma, elegant and beautiful and knowing
 - Mom (Melissa) & Dad (Rick) = parents, not yet fleshed out
 - Critters = flexible cast, pick from the palette in characters.md or invent new ones
+
+## Audio Narration
+
+Stories can be narrated via ElevenLabs TTS using `scripts/narrate.py`.
+
+- Default voice: Imogen (warm British storyteller)
+- Run: `python scripts/narrate.py <story-name>`
+- All voices: `python scripts/narrate.py --list-voices`
+- Custom voice: `python scripts/narrate.py <story-name> --voice <voice-id>`
+- See `README.md` for the full voice table
+- Requires `ELEVENLABS_API_KEY` in `.env`
+- Output: `stories/{name}/narration.mp3` (gitignored)
+
+## Documentation Map
+
+<!-- update-docs reads this section. Keep it current when docs are added or removed. -->
+
+| Doc | Audience | Role | Covers |
+|-----|----------|------|--------|
+| `CLAUDE.md` | AI | canonical:ai-instructions | voice/tone, rules, story structure, characters, narration |
+| `README.md` | Human | canonical:navigation | project intro, stories table, commands, voice table, setup |
+| `characters.md` | Human+AI | canonical:characters | character bible |
+| `.claude/commands/*.md` | AI/System | reference | skill definitions |
+
+### Derivation Rules
+- CLAUDE.md is source of truth for voice/tone → README summarizes
+- characters.md is source of truth for characters → CLAUDE.md and README summarize
+- README command table must match available skills (local + global)

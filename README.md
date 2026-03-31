@@ -91,6 +91,8 @@ Reserved for future multi-voice narration (character voices):
 | `/revise` | Edit an existing story based on feedback |
 | `/narrate` | Generate audio narration for a story using ElevenLabs |
 | `/bedtime` | Pick a random story from the collection, ready to read aloud |
+| `/commit` | Stage and commit changes with a well-formatted message |
+| `/update-docs` | Update documentation to reflect recent changes |
 
 ### Command details
 
@@ -105,6 +107,10 @@ Reserved for future multi-voice narration (character voices):
 **`/narrate [story-name | all]`** — Pass a story name, or `all` to narrate every story missing audio. Default voice is Imogen (warm British storyteller). Use `--voice <voice-id>` in the script to override. Run `/narrate --list-voices` to see available voices.
 
 **`/bedtime [preference]`** — Pass an optional filter (e.g., `/bedtime something with Luna`, `/bedtime a short one`). Picks a random matching story and presents it ready to read aloud.
+
+**`/commit`** — Stages changes and creates a commit with a descriptive message. Reviews the diff before committing.
+
+**`/update-docs [change | audit]`** — Updates all project documentation to reflect a described change, or pass `audit` for a full consistency review.
 
 ## Setup
 
