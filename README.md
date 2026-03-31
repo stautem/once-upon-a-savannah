@@ -25,6 +25,12 @@ A collection of original fairy tales written as a gift. Savannah's grandparents 
 | The Colors That Went Missing | ~7 min | Imogen |
 | The Lantern Festival | ~8 min | Morgan |
 | The Moonlight Garden | ~8 min | Grandma Rachel |
+| The Seeds That Sang | ~8 min | — |
+| The Garden That Grew Backwards | ~8 min | — |
+| The Enchanted Music Faire | ~8 min | — |
+| The Song the Kingdom Forgot | ~8 min | — |
+| The Whispering Woods | ~9 min | — |
+| The Lantern Trail | ~7 min | — |
 
 ## How to Use
 
