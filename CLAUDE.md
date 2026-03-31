@@ -64,6 +64,9 @@ Stories can be narrated via ElevenLabs TTS using `scripts/narrate.py`.
 - See `README.md` for the full voice table
 - Requires `ELEVENLABS_API_KEY` in `.env`
 - Output: `stories/{name}/narration.mp3` (gitignored)
+- Voice settings: stability 0.65, similarity 0.75, style 0.3, speed 0.85, speaker boost on
+- Cross-chunk context: passes adjacent text between API calls for smoother transitions
+- Story text extraction strips the header block (up to first `---`), scene break `---` lines, and markdown formatting
 
 ## Documentation Map
 
@@ -75,6 +78,7 @@ Stories can be narrated via ElevenLabs TTS using `scripts/narrate.py`.
 | `README.md` | Human | canonical:navigation | project intro, stories table, commands, voice table, setup |
 | `characters.md` | Human+AI | canonical:characters | character bible |
 | `.claude/commands/*.md` | AI/System | reference | skill definitions |
+| `future/WISHLIST.md` | Human | reference | future feature ideas, some completed |
 
 ### Derivation Rules
 - CLAUDE.md is source of truth for voice/tone → README summarizes

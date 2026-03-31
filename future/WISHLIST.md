@@ -14,25 +14,13 @@ Generate images for stories using AI image generation (DALL-E, Midjourney, or si
 - Format — inline with the text, or separate image files?
 - Tool — DALL-E API, Midjourney, Stable Diffusion, or commission a real artist?
 
-## Phone-Accessible Reading
+## ~~Phone-Accessible Reading~~ ✅ Done
 
-Make stories accessible on phones for bedtime reading without needing a laptop.
+Built as a GitHub Pages site with audio playback: [stautem.github.io/once-upon-a-savannah](https://stautem.github.io/once-upon-a-savannah/)
 
-**Options:**
-- **GitHub Pages** — render the repo as a simple website. Free, automatic, version-controlled.
-- **Simple PWA** — a basic web app that works offline. Could cache stories for reading without internet.
-- **Shared Google Doc** — simplest option. Just paste stories into a shared doc.
-- **Notion / Obsidian** — if already using these tools, just sync the markdown.
+## ~~Text-to-Speech Audio~~ ✅ Done
 
-## Text-to-Speech Audio
-
-Generate audio narration of stories so Savannah can listen instead of (or in addition to) being read to.
-
-**Options:**
-- **ElevenLabs** — high-quality, natural-sounding TTS. Multiple voice options. API available.
-- **Google Cloud TTS** — good quality, already set up if using GCP. Multiple voices and languages.
-- **OpenAI TTS** — simple API, good quality.
-- Could build a `/narrate` command that takes a story and generates an audio file.
+Built with ElevenLabs TTS via `scripts/narrate.py`. Multiple voices, `/narrate` command, flash model for cost savings.
 
 ## Voice Cloning (Moonshot)
 
@@ -61,7 +49,7 @@ Compile stories into a printable book format. A physical book of fairy tales wou
 
 ## Story Generator Improvements
 
-- A `/bedtime` command that picks a random story or generates one on the fly
+- ~~A `/bedtime` command that picks a random story or generates one on the fly~~ ✅ Done
 - Seasonal stories (Christmas tale, birthday tale, etc.)
 - Stories that incorporate real events ("the time Luna chased a squirrel" → fairy tale version)
 - A way for Savannah to request stories by theme ("tell me one about the ocean")

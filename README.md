@@ -69,7 +69,7 @@ once-upon-a-savannah/
 
 ## Narration Voices
 
-Audio narration is generated with [ElevenLabs](https://elevenlabs.io/) using the flash model (`eleven_flash_v2_5`). The default voice is **Imogen** (warm British storyteller). Pass `--voice <id>` to the narrate script to use a different one.
+Audio narration is generated with [ElevenLabs](https://elevenlabs.io/) using the flash model (`eleven_flash_v2_5`). The default voice is **Imogen** (warm British storyteller). Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Pass `--voice <id>` to the narrate script to use a different one.
 
 | Voice | ID | Style |
 |---|---|---|
