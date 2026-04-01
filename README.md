@@ -42,6 +42,8 @@ A collection of original fairy tales written as a gift. Savannah's grandparents 
 
 ```
 once-upon-a-savannah/
+├── AGENTS.md             ← shared instructions for coding agents
+├── CLAUDE.md             ← Claude-specific wrapper + documentation map
 ├── stories/              ← stories with outlines, drafts, and audio
 │   ├── luna-the-dragon/
 │   │   ├── outline.md
