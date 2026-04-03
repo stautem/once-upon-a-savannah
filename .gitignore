@@ -3,3 +3,4 @@
 !docs/**/*.mp3
 voice-tests/
 .claude/worktrees/
+.vuln-check-baseline.json
