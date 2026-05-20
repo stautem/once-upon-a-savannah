@@ -16,7 +16,9 @@ Examples:
 import os
 import re
 import sys
+import json
 import argparse
+from datetime import datetime, timezone
 import requests
 from pathlib import Path
 from dotenv import load_dotenv
@@ -41,8 +43,9 @@ MAX_CHUNK_CHARS_ELEVENLABS = 5000
 # with no more than 3000 billed characters. Use a conservative cap.
 MAX_CHUNK_CHARS_POLLY = 2800
 
-# Voice settings tuned for bedtime narration
-VOICE_SETTINGS = {
+# Default voice settings tuned for bedtime narration. Override per run with
+# --stability, --similarity, --style, --speed on the CLI.
+DEFAULT_VOICE_SETTINGS = {
     "stability": 0.65,        # slightly more expressive than default
     "similarity_boost": 0.75,
     "style": 0.3,             # gentle storytelling style
@@ -250,14 +253,14 @@ def is_elevenlabs_failover_error(status_code, text):
     return status_code in {402, 429} or any(term in body for term in failover_terms)
 
 
-def generate_audio_elevenlabs(text, voice_id, previous_text=None, next_text=None):
+def generate_audio_elevenlabs(text, voice_id, voice_settings, previous_text=None, next_text=None):
     """Send text to ElevenLabs and return audio bytes."""
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
 
     payload = {
         "text": text,
         "model_id": "eleven_flash_v2_5",
-        "voice_settings": VOICE_SETTINGS,
+        "voice_settings": voice_settings,
     }
     if previous_text:
         payload["previous_text"] = previous_text
@@ -314,11 +317,15 @@ def narrate_story(
     *,
     provider=DEFAULT_PROVIDER,
     voice_id=DEFAULT_VOICE_ID,
+    voice_settings=None,
     fallback_provider=DEFAULT_FALLBACK_PROVIDER,
     fallback_voice=DEFAULT_POLLY_VOICE,
     region_name=AWS_REGION,
 ):
     """Generate narration for a story and save as MP3."""
+    if voice_settings is None:
+        voice_settings = dict(DEFAULT_VOICE_SETTINGS)
+
     story_dir = STORIES_DIR / story_name
     draft_path = story_dir / "draft.md"
 
@@ -366,6 +373,7 @@ def narrate_story(
                 audio = generate_audio_elevenlabs(
                     chunk,
                     voice_id,
+                    voice_settings,
                     previous_text=prev_text,
                     next_text=next_text,
                 )
@@ -399,13 +407,59 @@ def narrate_story(
     print(f"\nSaved: {output_path}")
     print(f"Total size: {total_bytes:,} bytes ({total_bytes / 1024:.0f} KB)")
     print(f"Characters used: {total_chars:,}")
+    unique_providers = list(dict.fromkeys(providers_used)) if providers_used else []
     if providers_used:
-        unique_providers = list(dict.fromkeys(providers_used))
         print(f"Providers used: {', '.join(unique_providers)}")
         if len(set(providers_used)) > 1:
             print("Warning: narration mixed multiple providers, so the voice may shift between chunks.")
 
+    record_narration(
+        story_name,
+        providers_used=unique_providers,
+        elevenlabs_voice=voice_id,
+        elevenlabs_settings=voice_settings,
+        polly_voice=fallback_voice,
+        chars=total_chars,
+        bytes_=total_bytes,
+    )
+
     return output_path
+
+
+def record_narration(story_name, *, providers_used, elevenlabs_voice, elevenlabs_settings, polly_voice, chars, bytes_):
+    """Append a one-line record of this narration run to stories/narration-log.json.
+
+    The log is a list of objects, newest last. Lets us answer "which provider
+    voiced which story?" without inspecting mp3 headers.
+    """
+    if not providers_used:
+        return
+
+    log_path = STORIES_DIR / "narration-log.json"
+    try:
+        existing = json.loads(log_path.read_text(encoding="utf-8")) if log_path.exists() else []
+    except json.JSONDecodeError:
+        existing = []
+
+    voices = {}
+    if "elevenlabs" in providers_used:
+        voices["elevenlabs"] = elevenlabs_voice
+    if "polly" in providers_used:
+        voices["polly"] = polly_voice
+
+    entry = {
+        "story": story_name,
+        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "providers": providers_used,
+        "voices": voices,
+        "chars": chars,
+        "bytes": bytes_,
+    }
+    if "elevenlabs" in providers_used:
+        entry["elevenlabs_settings"] = dict(elevenlabs_settings)
+    existing.append(entry)
+
+    log_path.write_text(json.dumps(existing, indent=2) + "\n", encoding="utf-8")
 
 
 def main():
@@ -418,6 +472,10 @@ def main():
         help="TTS provider to use. 'auto' tries ElevenLabs first, then Polly on provider-limit errors.",
     )
     parser.add_argument("--voice", default=DEFAULT_VOICE_ID, help="ElevenLabs voice ID")
+    parser.add_argument("--stability", type=float, help="ElevenLabs stability (0.0-1.0)")
+    parser.add_argument("--similarity", type=float, help="ElevenLabs similarity_boost (0.0-1.0)")
+    parser.add_argument("--style", type=float, help="ElevenLabs style (0.0-1.0)")
+    parser.add_argument("--speed", type=float, help="ElevenLabs speech speed (0.7-1.2)")
     parser.add_argument(
         "--fallback-provider",
         choices=["polly"],
@@ -453,10 +511,21 @@ def main():
         print(f"\nUsage: python scripts/narrate.py <story-name>")
         return
 
+    voice_settings = dict(DEFAULT_VOICE_SETTINGS)
+    if args.stability is not None:
+        voice_settings["stability"] = args.stability
+    if args.similarity is not None:
+        voice_settings["similarity_boost"] = args.similarity
+    if args.style is not None:
+        voice_settings["style"] = args.style
+    if args.speed is not None:
+        voice_settings["speed"] = args.speed
+
     narrate_story(
         args.story,
         provider=args.provider,
         voice_id=args.voice,
+        voice_settings=voice_settings,
         fallback_provider=args.fallback_provider,
         fallback_voice=args.fallback_voice,
         region_name=args.region,

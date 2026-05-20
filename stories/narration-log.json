@@ -1,0 +1,468 @@
+[
+  {
+    "story": "luna-in-the-fog",
+    "timestamp": "2026-03-31T14:27:36+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": null,
+    "bytes": 14993999,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 1 LIII, 128 kbps, 44100 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "luna-the-dragon",
+    "timestamp": "2026-03-31T14:27:59+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": null,
+    "bytes": 12160192,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 1 LIII, 128 kbps, 44100 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-colors-that-went-missing",
+    "timestamp": "2026-03-31T23:03:52+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4003963,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-dragon-who-loved-jigsaw-puzzles",
+    "timestamp": "2026-03-31T23:03:25+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4201963,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-enchanted-music-faire",
+    "timestamp": "2026-03-31T23:04:49+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4412301,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-garden-that-grew-backwards",
+    "timestamp": "2026-03-31T23:04:34+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4470919,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-grand-riddle-faire",
+    "timestamp": "2026-03-31T22:54:14+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4268105,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-lantern-festival",
+    "timestamp": "2026-03-31T23:03:10+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4320296,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-lantern-trail",
+    "timestamp": "2026-03-31T23:05:35+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4100825,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-locked-up-lullabies",
+    "timestamp": "2026-03-31T14:28:29+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": null,
+    "bytes": 16672941,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 1 LIII, 128 kbps, 44100 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-mixed-up-map",
+    "timestamp": "2026-03-31T23:00:46+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": null,
+    "bytes": 7178615,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 1 LIII, 128 kbps, 44100 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-moonlight-garden",
+    "timestamp": "2026-03-31T23:04:06+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4604300,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-puzzle-garden",
+    "timestamp": "2026-03-31T14:29:02+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": null,
+    "bytes": 18595553,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 1 LIII, 128 kbps, 44100 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-quilt-that-wouldnt-stay-still",
+    "timestamp": "2026-03-31T23:03:39+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4724047,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-seeds-that-sang",
+    "timestamp": "2026-03-31T23:04:20+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4064932,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-song-the-kingdom-forgot",
+    "timestamp": "2026-03-31T23:05:03+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4319200,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-whispering-woods",
+    "timestamp": "2026-03-31T23:05:19+00:00",
+    "providers": [
+      "polly"
+    ],
+    "voices": {
+      "polly": "Amy"
+    },
+    "chars": null,
+    "bytes": 4516529,
+    "source": "backfill",
+    "backfill_note": "Provider classified from mp3 header (MPEG 2 LIII, 48 kbps, 22050 Hz); voice assumed default. Timestamp is file mtime."
+  },
+  {
+    "story": "the-quilt-that-wouldnt-stay-still",
+    "timestamp": "2026-05-11T17:03:35+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "dqeC346wqPMG2jTndp5c"
+    },
+    "chars": 12262,
+    "bytes": 16490292,
+    "elevenlabs_settings": {
+      "stability": 0.75,
+      "similarity_boost": 0.5,
+      "style": 0.3,
+      "speed": 0.84,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-colors-that-went-missing",
+    "timestamp": "2026-05-20T13:57:53+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10433,
+    "bytes": 15822393,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-dragon-who-loved-jigsaw-puzzles",
+    "timestamp": "2026-05-20T13:59:21+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11206,
+    "bytes": 16200646,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-enchanted-music-faire",
+    "timestamp": "2026-05-20T13:59:47+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11568,
+    "bytes": 17238857,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-garden-that-grew-backwards",
+    "timestamp": "2026-05-20T14:00:15+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11676,
+    "bytes": 17672699,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-grand-riddle-faire",
+    "timestamp": "2026-05-20T14:00:41+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11343,
+    "bytes": 16494889,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-lantern-festival",
+    "timestamp": "2026-05-20T14:01:08+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11547,
+    "bytes": 16739396,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-lantern-trail",
+    "timestamp": "2026-05-20T14:01:34+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10724,
+    "bytes": 16665417,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-moonlight-garden",
+    "timestamp": "2026-05-20T14:02:03+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 12014,
+    "bytes": 18299220,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-seeds-that-sang",
+    "timestamp": "2026-05-20T14:02:29+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10772,
+    "bytes": 16420075,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-song-the-kingdom-forgot",
+    "timestamp": "2026-05-20T14:02:56+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11392,
+    "bytes": 17119739,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-whispering-woods",
+    "timestamp": "2026-05-20T14:03:24+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 12025,
+    "bytes": 17940192,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  }
+]
