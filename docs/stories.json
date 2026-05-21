@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "luna-in-the-fog",
+    "title": "Luna in the Fog",
+    "url": "stories/luna-in-the-fog/",
+    "audio": "stories/luna-in-the-fog/narration.mp3",
+    "duration": 937
+  },
+  {
+    "slug": "luna-the-dragon",
+    "title": "Luna the Dragon",
+    "url": "stories/luna-the-dragon/",
+    "audio": "stories/luna-the-dragon/narration.mp3",
+    "duration": 760
+  },
+  {
+    "slug": "the-colors-that-went-missing",
+    "title": "The Colors That Went Missing",
+    "url": "stories/the-colors-that-went-missing/",
+    "audio": "stories/the-colors-that-went-missing/narration.mp3",
+    "duration": 989
+  },
+  {
+    "slug": "the-dragon-who-loved-jigsaw-puzzles",
+    "title": "The Dragon Who Loved Jigsaw Puzzles",
+    "url": "stories/the-dragon-who-loved-jigsaw-puzzles/",
+    "audio": "stories/the-dragon-who-loved-jigsaw-puzzles/narration.mp3",
+    "duration": 1013
+  },
+  {
+    "slug": "the-enchanted-music-faire",
+    "title": "The Enchanted Music Faire",
+    "url": "stories/the-enchanted-music-faire/",
+    "audio": "stories/the-enchanted-music-faire/narration.mp3",
+    "duration": 1077
+  },
+  {
+    "slug": "the-garden-that-grew-backwards",
+    "title": "The Garden That Grew Backwards",
+    "url": "stories/the-garden-that-grew-backwards/",
+    "audio": "stories/the-garden-that-grew-backwards/narration.mp3",
+    "duration": 1105
+  },
+  {
+    "slug": "the-grand-riddle-faire",
+    "title": "The Grand Riddle Faire",
+    "url": "stories/the-grand-riddle-faire/",
+    "audio": "stories/the-grand-riddle-faire/narration.mp3",
+    "duration": 1031
+  },
+  {
+    "slug": "the-lantern-festival",
+    "title": "The Lantern Festival",
+    "url": "stories/the-lantern-festival/",
+    "audio": "stories/the-lantern-festival/narration.mp3",
+    "duration": 1046
+  },
+  {
+    "slug": "the-lantern-trail",
+    "title": "The Lantern Trail",
+    "url": "stories/the-lantern-trail/",
+    "audio": "stories/the-lantern-trail/narration.mp3",
+    "duration": 1042
+  },
+  {
+    "slug": "the-locked-up-lullabies",
+    "title": "The Locked-Up Lullabies",
+    "url": "stories/the-locked-up-lullabies/",
+    "audio": "stories/the-locked-up-lullabies/narration.mp3",
+    "duration": 1042
+  },
+  {
+    "slug": "the-mixed-up-map",
+    "title": "The Mixed-Up Map",
+    "url": "stories/the-mixed-up-map/",
+    "audio": "stories/the-mixed-up-map/narration.mp3",
+    "duration": 449
+  },
+  {
+    "slug": "the-moonlight-garden",
+    "title": "The Moonlight Garden",
+    "url": "stories/the-moonlight-garden/",
+    "audio": "stories/the-moonlight-garden/narration.mp3",
+    "duration": 1144
+  },
+  {
+    "slug": "the-puzzle-garden",
+    "title": "The Puzzle Garden",
+    "url": "stories/the-puzzle-garden/",
+    "audio": "stories/the-puzzle-garden/narration.mp3",
+    "duration": 1162
+  },
+  {
+    "slug": "the-quilt-that-wouldnt-stay-still",
+    "title": "The Quilt That Wouldn't Stay Still",
+    "url": "stories/the-quilt-that-wouldnt-stay-still/",
+    "audio": "stories/the-quilt-that-wouldnt-stay-still/narration.mp3",
+    "duration": 1031
+  },
+  {
+    "slug": "the-seeds-that-sang",
+    "title": "The Seeds That Sang",
+    "url": "stories/the-seeds-that-sang/",
+    "audio": "stories/the-seeds-that-sang/narration.mp3",
+    "duration": 1026
+  },
+  {
+    "slug": "the-song-the-kingdom-forgot",
+    "title": "The Song the Kingdom Forgot",
+    "url": "stories/the-song-the-kingdom-forgot/",
+    "audio": "stories/the-song-the-kingdom-forgot/narration.mp3",
+    "duration": 1070
+  },
+  {
+    "slug": "the-whispering-woods",
+    "title": "The Whispering Woods",
+    "url": "stories/the-whispering-woods/",
+    "audio": "stories/the-whispering-woods/narration.mp3",
+    "duration": 1121
+  }
+]

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sleep Mix — Once Upon a Savannah</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <a href="./" class="back-link">&larr; All Stories</a>
+    </nav>
+
+    <header class="story-header">
+      <h1>Sleep Mix</h1>
+      <p class="meta" id="mix-progress">Loading…</p>
+    </header>
+
+    <main>
+      <div class="audio-player mix-now-playing" id="now-playing">
+        <p>Now playing: <span id="now-playing-title">…</span></p>
+        <audio id="mix-audio" controls></audio>
+      </div>
+
+      <div class="mix-up-next" id="up-next">
+        <p class="mix-up-next-label">Up next</p>
+        <ol id="up-next-list"></ol>
+      </div>
+
+      <div class="mix-done" id="mix-done" hidden>
+        <p>Sweet dreams.</p>
+        <a href="./" class="back-link">Back to all stories</a>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      Made with love for Savannah
+    </footer>
+  </div>
+  <script>
+    (async function () {
+      const params = new URLSearchParams(location.search);
+      const slugs = (params.get('q') || '').split(',').map(s => s.trim()).filter(Boolean);
+      let index = parseInt(params.get('i') || '0', 10);
+      if (!Number.isFinite(index) || index < 0) index = 0;
+
+      const progressEl = document.getElementById('mix-progress');
+      const titleEl = document.getElementById('now-playing-title');
+      const audioEl = document.getElementById('mix-audio');
+      const upNextEl = document.getElementById('up-next');
+      const upNextList = document.getElementById('up-next-list');
+      const nowPlayingEl = document.getElementById('now-playing');
+      const doneEl = document.getElementById('mix-done');
+
+      if (slugs.length === 0) {
+        progressEl.textContent = 'No mix to play.';
+        nowPlayingEl.hidden = true;
+        upNextEl.hidden = true;
+        return;
+      }
+
+      let manifest;
+      try {
+        const response = await fetch('stories.json');
+        manifest = await response.json();
+      } catch (err) {
+        progressEl.textContent = 'Could not load stories.';
+        return;
+      }
+
+      const bySlug = new Map(manifest.map(s => [s.slug, s]));
+      const queue = slugs.map(slug => bySlug.get(slug)).filter(Boolean);
+      if (queue.length === 0) {
+        progressEl.textContent = 'No mix to play.';
+        nowPlayingEl.hidden = true;
+        upNextEl.hidden = true;
+        return;
+      }
+      if (index >= queue.length) index = queue.length - 1;
+
+      function renderUpNext() {
+        const remaining = queue.slice(index + 1);
+        if (remaining.length === 0) {
+          upNextEl.hidden = true;
+          return;
+        }
+        upNextEl.hidden = false;
+        upNextList.innerHTML = '';
+        for (const story of remaining) {
+          const li = document.createElement('li');
+          li.textContent = story.title;
+          upNextList.appendChild(li);
+        }
+      }
+
+      function syncUrl() {
+        const next = new URLSearchParams(location.search);
+        next.set('q', slugs.join(','));
+        next.set('i', String(index));
+        history.replaceState(null, '', '?' + next.toString());
+      }
+
+      function showDone() {
+        nowPlayingEl.hidden = true;
+        upNextEl.hidden = true;
+        doneEl.hidden = false;
+        progressEl.textContent = 'All done.';
+      }
+
+      function loadCurrent(autoplay) {
+        const story = queue[index];
+        titleEl.textContent = story.title;
+        progressEl.textContent = 'Story ' + (index + 1) + ' of ' + queue.length;
+        audioEl.src = story.audio;
+        renderUpNext();
+        syncUrl();
+        if (autoplay) {
+          audioEl.play().catch(() => {});
+        }
+      }
+
+      audioEl.addEventListener('ended', () => {
+        if (index + 1 >= queue.length) {
+          showDone();
+          return;
+        }
+        index += 1;
+        loadCurrent(true);
+      });
+
+      loadCurrent(true);
+    })();
+  </script>
+</body>
+</html>

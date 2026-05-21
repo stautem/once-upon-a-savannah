@@ -253,5 +253,11 @@
       Made with love for Savannah
     </footer>
   </div>
+  <script>
+    if (new URLSearchParams(location.search).get('autoplay') === '1') {
+      const audio = document.querySelector('.audio-player audio');
+      if (audio) audio.play().catch(() => {});
+    }
+  </script>
 </body>
 </html>

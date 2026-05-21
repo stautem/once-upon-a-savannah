@@ -75,6 +75,37 @@ body::before {
   font-style: italic;
 }
 
+/* Site controls (shuffle + sleep mix) */
+.site-controls {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0 0 0.5rem;
+}
+
+.site-control {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--brown);
+  background: var(--gold);
+  border: none;
+  border-radius: 999px;
+  padding: 0.55rem 1.4rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px var(--shadow-warm);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.site-control:hover,
+.site-control:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px var(--shadow-warm);
+  background: var(--gold-light);
+  outline: none;
+}
+
 /* Story list */
 .story-list {
   display: flex;
@@ -214,6 +245,58 @@ body::before {
   font-size: 0.9rem;
   color: var(--gold);
   letter-spacing: 0.3em;
+}
+
+/* ========== SLEEP MIX PAGE ========== */
+
+.mix-now-playing p {
+  font-size: 0.9rem;
+}
+
+.mix-now-playing #now-playing-title {
+  font-weight: 700;
+  color: var(--brown);
+}
+
+.mix-up-next {
+  background: var(--cream-light);
+  padding: 1rem 1.25rem;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px var(--shadow-warm);
+  margin-bottom: 2rem;
+}
+
+.mix-up-next-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--brown-light);
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.mix-up-next ol {
+  margin: 0;
+  padding-left: 1.25rem;
+  color: var(--brown-light);
+  font-size: 0.95rem;
+}
+
+.mix-up-next li {
+  padding: 0.2rem 0;
+}
+
+.mix-done {
+  text-align: center;
+  padding: 3rem 0 2rem;
+  font-family: var(--font-heading);
+  font-style: italic;
+  font-size: 1.4rem;
+  color: var(--brown-light);
+}
+
+.mix-done p {
+  margin-bottom: 1.5rem;
 }
 
 /* ========== FOOTER ========== */

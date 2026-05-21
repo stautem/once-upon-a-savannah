@@ -34,7 +34,8 @@ A collection of original fairy tales written as a gift. Savannah's grandparents 
 
 ## How to Use
 
-- **Online:** Visit the [website](https://stautem.github.io/once-upon-a-savannah/) on any phone or tablet — read along or tap play to listen
+- **Online:** Visit the [website](https://stautem.github.io/once-upon-a-savannah/) on any phone or tablet — read along, tap play to listen, tap **Shuffle** for a random story, or tap **Sleep mix** for ~1 hour of stories in a row
+
 - **In person:** Pick a story from `stories/` and read it aloud at bedtime
 - **With Claude Code:** Use the commands below to brainstorm, generate, review, revise, and narrate stories
 
