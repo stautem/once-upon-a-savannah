@@ -71,3 +71,14 @@ The supporting cast. Every story picks whichever critters fit the adventure — 
 **Digby the Mole** — Soft, round, velvety. Knows every tunnel and hidden path underground. Speaks quietly, thinks deeply, and always knows a shortcut. Comforting to be around, like a warm blanket with paws.
 
 *Any critter can appear in any story. New ones can be invented as needed — hedgehogs, frogs, squirrels, whatever the tale calls for. The list above is a starting palette, not a limit.*
+
+---
+
+## Grand Journey Characters
+
+Introduced in the Grand Journey set (2026). Each is tied to a home place, but any can return when a story visits — or wander into a new tale if it fits.
+
+**Pia the Peacock** — Keeper of the peace in the Garden of Stone Lanterns. Tall, graceful, a little vain in the most forgivable way. When quarrels break out, she fans her hundred-eyed tail and everyone remembers to be gentle — but she knows the tail only reminds folks of the peace they already want; the listening is the real peacekeeping.
+**Otto the Otter** — The old tinker who keeps the Wish-Whirl at the Harbor Market. Whiskery, spectacled, clever-pawed, unflappable. Speaks in warm practicalities. Guardian of the market's oldest secret: wish-marbles never land wrong.
+**Greta the Badger** — Solvik's retired baker, now living in a magical log cabin across the bay (the door opens before you knock; the kettle is always singing). Round, flour-dusted, sharp-eyed, warm. Old sailing friend of Big Al. She split the sunbread recipe among the village families on purpose: no one bakes sunbread alone.
+**The Eldest Tree** — The vast, ancient heart of the Green Island's rainforest. Speaks like wind through a thousand years of leaves, laughs like the world's largest rocking chair. She calls the island's silver rain, and after a thousand years of listening to every story in the forest, Savannah now owes her one new story every year.

@@ -31,6 +31,11 @@ A collection of original fairy tales written as a gift. Savannah's grandparents 
 | The Song the Kingdom Forgot | ~8 min | Imogen |
 | The Whispering Woods | ~9 min | Imogen |
 | The Lantern Trail | ~7 min | Imogen |
+| The Wandering Wagon | ~8 min | Imogen |
+| The Forest of the Oldest Trees | ~8 min | Imogen |
+| Pia the Peacekeeper | ~8 min | Imogen |
+| The Market Where Fish Fly | ~8 min | Imogen |
+| The Village of the Friendly Longboats | ~8 min | Imogen |
 
 ## How to Use
 

@@ -14,6 +14,13 @@
     "duration": 760
   },
   {
+    "slug": "pia-the-peacekeeper",
+    "title": "Pia the Peacekeeper",
+    "url": "stories/pia-the-peacekeeper/",
+    "audio": "stories/pia-the-peacekeeper/narration.mp3",
+    "duration": 967
+  },
+  {
     "slug": "the-colors-that-went-missing",
     "title": "The Colors That Went Missing",
     "url": "stories/the-colors-that-went-missing/",
@@ -33,6 +40,13 @@
     "url": "stories/the-enchanted-music-faire/",
     "audio": "stories/the-enchanted-music-faire/narration.mp3",
     "duration": 1077
+  },
+  {
+    "slug": "the-forest-of-the-oldest-trees",
+    "title": "The Forest of the Oldest Trees",
+    "url": "stories/the-forest-of-the-oldest-trees/",
+    "audio": "stories/the-forest-of-the-oldest-trees/narration.mp3",
+    "duration": 1033
   },
   {
     "slug": "the-garden-that-grew-backwards",
@@ -68,6 +82,13 @@
     "url": "stories/the-locked-up-lullabies/",
     "audio": "stories/the-locked-up-lullabies/narration.mp3",
     "duration": 1042
+  },
+  {
+    "slug": "the-market-where-fish-fly",
+    "title": "The Market Where Fish Fly",
+    "url": "stories/the-market-where-fish-fly/",
+    "audio": "stories/the-market-where-fish-fly/narration.mp3",
+    "duration": 1016
   },
   {
     "slug": "the-mixed-up-map",
@@ -110,6 +131,20 @@
     "url": "stories/the-song-the-kingdom-forgot/",
     "audio": "stories/the-song-the-kingdom-forgot/narration.mp3",
     "duration": 1070
+  },
+  {
+    "slug": "the-village-of-the-friendly-longboats",
+    "title": "The Village of the Friendly Longboats",
+    "url": "stories/the-village-of-the-friendly-longboats/",
+    "audio": "stories/the-village-of-the-friendly-longboats/narration.mp3",
+    "duration": 988
+  },
+  {
+    "slug": "the-wandering-wagon",
+    "title": "The Wandering Wagon",
+    "url": "stories/the-wandering-wagon/",
+    "audio": "stories/the-wandering-wagon/narration.mp3",
+    "duration": 968
   },
   {
     "slug": "the-whispering-woods",

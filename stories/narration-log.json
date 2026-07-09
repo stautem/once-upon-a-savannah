@@ -464,5 +464,100 @@
       "speed": 0.85,
       "use_speaker_boost": true
     }
+  },
+  {
+    "story": "the-wandering-wagon",
+    "timestamp": "2026-07-09T15:56:12+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10495,
+    "bytes": 15483054,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-forest-of-the-oldest-trees",
+    "timestamp": "2026-07-09T15:56:36+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11092,
+    "bytes": 16530504,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "pia-the-peacekeeper",
+    "timestamp": "2026-07-09T15:57:01+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11134,
+    "bytes": 15468052,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-market-where-fish-fly",
+    "timestamp": "2026-07-09T15:57:28+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11354,
+    "bytes": 16263009,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-village-of-the-friendly-longboats",
+    "timestamp": "2026-07-09T15:57:52+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11103,
+    "bytes": 15814121,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
   }
 ]
