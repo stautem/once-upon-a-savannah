@@ -110,7 +110,6 @@ Fallback provider:
 | `/revise` | Edit an existing story based on feedback |
 | `/narrate` | Generate audio narration for a story using ElevenLabs with AWS Polly fallback |
 | `/bedtime` | Pick a random story from the collection, ready to read aloud |
-| `/commit` | Stage and commit changes with a well-formatted message |
 | `/update-docs` | Update documentation to reflect recent changes |
 
 ### Command details
