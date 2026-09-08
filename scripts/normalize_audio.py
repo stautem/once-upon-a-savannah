@@ -9,6 +9,7 @@ Usage:
     python scripts/normalize_audio.py                 # all stories/*/narration.mp3
     python scripts/normalize_audio.py <story-name>    # one story
     python scripts/normalize_audio.py --measure       # report loudness only
+    python scripts/normalize_audio.py --force         # redo files already at target
 """
 
 import argparse
@@ -27,6 +28,8 @@ TARGET_LUFS = -20.0
 TARGET_LRA = 7.0
 TARGET_TRUE_PEAK = -1.5
 OUTPUT_BITRATE = "128k"
+# Files already this close to target are skipped to avoid needless re-encoding.
+TOLERANCE_LU = 0.7
 
 
 def require_ffmpeg():
@@ -48,11 +51,18 @@ def measure_loudness(path):
     return json.loads(match.group(0))
 
 
-def normalize_file(path, *, quiet=False):
-    """Two-pass normalize an MP3 in place. Returns (before_lufs, after_lufs)."""
+def normalize_file(path, *, quiet=False, force=False):
+    """Two-pass normalize an MP3 in place. Returns (before_lufs, after_lufs).
+
+    Skips files already within TOLERANCE_LU of the target unless force=True.
+    """
     path = Path(path)
     stats = measure_loudness(path)
     before = float(stats["input_i"])
+    if not force and abs(before - TARGET_LUFS) <= TOLERANCE_LU:
+        if not quiet:
+            print(f"  {path.parent.name}: {before:.1f} LUFS (already normalized, skipped)")
+        return before, before
 
     filt = (
         f"loudnorm=I={TARGET_LUFS}:LRA={TARGET_LRA}:TP={TARGET_TRUE_PEAK}"
@@ -94,6 +104,7 @@ def main():
     parser = argparse.ArgumentParser(description="Normalize narration loudness")
     parser.add_argument("story", nargs="?", help="Story folder name (default: all stories)")
     parser.add_argument("--measure", action="store_true", help="Report loudness without changing files")
+    parser.add_argument("--force", action="store_true", help="Re-normalize even files already at target")
     args = parser.parse_args()
 
     require_ffmpeg()
@@ -109,7 +120,7 @@ def main():
 
     print(f"Normalizing {len(files)} file(s) to {TARGET_LUFS} LUFS, LRA {TARGET_LRA}, TP {TARGET_TRUE_PEAK} dBTP")
     for path in files:
-        normalize_file(path)
+        normalize_file(path, force=args.force)
     print("Done.")
 
 

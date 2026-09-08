@@ -87,4 +87,4 @@ Common commands:
 - `python scripts/narrate.py <story-name>`
 - `python scripts/narrate.py <story-name> --provider polly`
 - `python scripts/narrate.py --list-voices --provider elevenlabs`
-- `python scripts/normalize_audio.py [story-name] [--measure]` to re-normalize existing narrations
+- `python scripts/normalize_audio.py [story-name] [--measure] [--force]` to re-normalize existing narrations; files already at target are skipped
