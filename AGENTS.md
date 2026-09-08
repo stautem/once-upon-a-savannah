@@ -63,6 +63,7 @@ Use [characters.md](./characters.md) as the character bible. Key recurring roles
 - `docs/` contains the generated GitHub Pages site
 - `scripts/build_site.py` rebuilds the site from the story drafts
 - `scripts/narrate.py` generates narration audio
+- `scripts/normalize_audio.py` normalizes narration loudness (ffmpeg loudnorm)
 - `scripts/voice_test.py` supports narration voice comparison
 - `site-templates/` contains the site HTML and CSS templates
 - `templates/fairy-tale.md` is the story template
@@ -79,9 +80,11 @@ Stories can be narrated with `scripts/narrate.py` using either ElevenLabs or AWS
 - Polly requires AWS credentials plus `boto3`
 - Voice settings are tuned for bedtime delivery: stability `0.65`, similarity `0.75`, style `0.3`, speed `0.85`, speaker boost on
 - Story extraction strips the draft header block, scene-break separators, and markdown formatting before synthesis
+- After chunks are combined, the file is re-encoded and loudness-normalized with ffmpeg to `-20` LUFS, LRA `7`, true peak `-1.5` dBTP; requires `ffmpeg` on PATH
 
 Common commands:
 
 - `python scripts/narrate.py <story-name>`
 - `python scripts/narrate.py <story-name> --provider polly`
 - `python scripts/narrate.py --list-voices --provider elevenlabs`
+- `python scripts/normalize_audio.py [story-name] [--measure]` to re-normalize existing narrations

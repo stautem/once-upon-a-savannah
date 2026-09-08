@@ -23,6 +23,9 @@ import requests
 from pathlib import Path
 from dotenv import load_dotenv
 
+sys.path.insert(0, str(Path(__file__).parent))
+from normalize_audio import normalize_file
+
 # Load .env from project root
 PROJECT_ROOT = Path(__file__).parent.parent
 load_dotenv(PROJECT_ROOT / ".env")
@@ -403,7 +406,11 @@ def narrate_story(
         for part in audio_parts:
             f.write(part)
 
-    total_bytes = sum(len(p) for p in audio_parts)
+    # Re-encode and normalize loudness so chunk seams and provider drift do not cause volume steps.
+    print("\nNormalizing loudness...")
+    normalize_file(output_path)
+
+    total_bytes = output_path.stat().st_size
     print(f"\nSaved: {output_path}")
     print(f"Total size: {total_bytes:,} bytes ({total_bytes / 1024:.0f} KB)")
     print(f"Characters used: {total_chars:,}")
