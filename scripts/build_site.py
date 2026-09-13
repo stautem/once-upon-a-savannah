@@ -2,12 +2,18 @@
 Build the GitHub Pages site from story markdown files.
 
 Usage:
-    python scripts/build_site.py
+    python scripts/build_site.py [--clean]
 
 Reads stories from stories/*/draft.md, generates HTML pages in docs/,
 and copies any narration.mp3 files alongside them.
+
+docs/stories/*/narration.mp3 is the only copy of the narration audio tracked
+in git (.gitignore excludes *.mp3 except under docs/). The default build keeps
+those files and falls back to them when stories/{slug}/narration.mp3 is absent,
+so a fresh clone can rebuild without losing audio. --clean wipes docs/ first.
 """
 
+import argparse
 import json
 import re
 import shutil
@@ -166,16 +172,44 @@ def build_audio_player():
       </div>"""
 
 
-def build_site():
+def is_narration(path):
+    """True for docs/stories/{slug}/narration.mp3."""
+    return (
+        path.name == "narration.mp3"
+        and path.parent.parent.name == "stories"
+        and path.parent.parent.parent == DOCS_DIR
+    )
+
+
+def clean_docs(clean):
+    """Reset docs/ for a build.
+
+    Default: delete generated files but keep docs/stories/*/narration.mp3 —
+    those are tracked in git and may be the only copy of the audio.
+    clean=True: wipe docs/ entirely (the old destructive behavior).
+    """
+    if not DOCS_DIR.exists():
+        DOCS_DIR.mkdir()
+        return
+    if clean:
+        shutil.rmtree(DOCS_DIR)
+        DOCS_DIR.mkdir()
+        return
+    for path in sorted(DOCS_DIR.rglob("*"), key=lambda p: len(p.parts), reverse=True):
+        if path.is_file() or path.is_symlink():
+            if not is_narration(path):
+                path.unlink()
+        elif path.is_dir() and not any(path.iterdir()):
+            path.rmdir()
+
+
+def build_site(clean=False):
     """Build the complete site."""
     # Load templates
     index_template = (TEMPLATES_DIR / "index.html").read_text(encoding="utf-8")
     story_template = (TEMPLATES_DIR / "story.html").read_text(encoding="utf-8")
 
-    # Clean and create docs directory
-    if DOCS_DIR.exists():
-        shutil.rmtree(DOCS_DIR)
-    DOCS_DIR.mkdir()
+    clean_docs(clean)
 
     # Copy static assets
     shutil.copy2(TEMPLATES_DIR / "style.css", DOCS_DIR / "style.css")
@@ -194,7 +228,13 @@ def build_site():
     for story_dir in story_dirs:
         slug = story_dir.name
         draft_path = story_dir / "draft.md"
+        story_out_dir = DOCS_DIR / "stories" / slug
         narration_path = story_dir / "narration.mp3"
+        existing_narration = story_out_dir / "narration.mp3"
+        copy_audio = narration_path.exists()
+        if not copy_audio and existing_narration.exists():
+            # No source audio (fresh clone) — keep the committed docs/ copy.
+            narration_path = existing_narration
         has_audio = narration_path.exists()
 
         print(f"  Building: {slug}", end="")
@@ -215,16 +255,17 @@ def build_site():
         page_html = page_html.replace("{{story_html}}", story_html)
 
         # Write story page
-        story_out_dir = DOCS_DIR / "stories" / slug
-        story_out_dir.mkdir(parents=True)
+        story_out_dir.mkdir(parents=True, exist_ok=True)
         (story_out_dir / "index.html").write_text(page_html, encoding="utf-8")
 
         # Copy narration if it exists
         duration = None
         if has_audio:
-            shutil.copy2(narration_path, story_out_dir / "narration.mp3")
+            if copy_audio:
+                shutil.copy2(narration_path, existing_narration)
             duration = story_duration(slug, narration_path, duration_lookup)
-            print(f" [+ audio, ~{duration // 60}m{duration % 60:02d}s]")
+            kept = "" if copy_audio else ", kept existing"
+            print(f" [+ audio, ~{duration // 60}m{duration % 60:02d}s{kept}]")
         else:
             print()
 
@@ -264,6 +305,24 @@ def build_site():
     print("Ready for GitHub Pages!")
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Build the GitHub Pages site in docs/ from stories/*/draft.md.",
+        epilog=(
+            "By default docs/stories/*/narration.mp3 is preserved and reused when "
+            "no source narration exists in stories/. Use --clean to wipe docs/ first."
+        ),
+    )
+    parser.add_argument(
+        "--clean",
+        action="store_true",
+        help="delete docs/ entirely before building (removes tracked narration audio "
+        "unless stories/*/narration.mp3 exists to re-copy)",
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
+    args = parse_args()
     print("Building Once Upon a Savannah...\n")
-    build_site()
+    build_site(clean=args.clean)

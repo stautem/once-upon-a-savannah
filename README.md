@@ -146,6 +146,8 @@ To rebuild the website after adding or editing stories:
 python scripts/build_site.py
 ```
 
+The build keeps `docs/stories/*/narration.mp3` in place. Those files are the only copy of the audio tracked in git (`.gitignore` excludes `*.mp3` everywhere else), so on a fresh clone the site rebuilds with audio even though `stories/` has no mp3s. `python scripts/build_site.py --clean` wipes `docs/` first; only use it when every `stories/{slug}/narration.mp3` exists locally.
+
 To enable the AWS Polly fallback, also set AWS credentials in `.env` and install:
 
 ```bash
