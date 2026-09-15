@@ -44,6 +44,18 @@ The recurring cast of once-upon-a-savannah. Characters can appear in different r
 
 ---
 
+## Prince Spencer
+
+**Role:** The prince. Earnest, a little nervous, tries hard. Loves the princess and is working up to telling her.
+**Core traits:** Kind, funny, strong. A wonderful cook and drink-maker. Musical (drums, bass, a little piano). Good with anything that hums or sparks; hopeless with anything that needs a saw. Words come out sideways when he writes them down. Brave about everything except saying how he feels.
+**What he does:** Shows up. Listens. Learns from everyone. Makes Savannah's favorite drinks (lavender anything, lemonades, root beer, matcha, teas, iced oat milk lavender lattes) and refills her water bottle a hundred times a day. Gets teased by critters and takes it well.
+**With Savannah:** They are a team. He carries and centers and wires; she measures and levels and hangs. Neither finishes a project alone, and together they finish everything.
+**With Luna:** Loves her every bit as much as Savannah does, which is almost unfathomable. Luna knows it.
+**What he doesn't do:** Rescue Savannah. Boast. Give up. Savannah is still the hero in his stories; he is the one learning to be worthy of her.
+**Based on:** The real Spencer.
+
+---
+
 ## Mom & Dad
 
 **Melissa (Mom)** — Savannah's mother. *Not yet fleshed out.* Placeholder for future stories.

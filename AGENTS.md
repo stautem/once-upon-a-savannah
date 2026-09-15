@@ -54,6 +54,7 @@ Use [characters.md](./characters.md) as the character bible. Key recurring roles
 - Luna: black dragon, brave, cuddly, loud, based on the real dog
 - Big Al: big, strong, protective, wise elder
 - Wilma: elegant, gentle, knowing elder
+- Spencer: the prince, kind, strong, a great cook, learning to be worthy of Savannah
 - Mom and Dad: available for future use
 - Woodland critters: flexible supporting cast
 
