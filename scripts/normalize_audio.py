@@ -22,10 +22,12 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent
 STORIES_DIR = PROJECT_ROOT / "stories"
+DOCS_STORIES_DIR = PROJECT_ROOT / "docs" / "stories"
 
-# Bedtime targets: quieter than podcast norms, with headroom on small speakers.
-TARGET_LUFS = -20.0
-TARGET_LRA = 7.0
+# Bedtime targets: well below podcast norms so overnight playback stays quiet
+# even at low device volume, with a tight range so nothing jumps out.
+TARGET_LUFS = -24.0
+TARGET_LRA = 5.0
 TARGET_TRUE_PEAK = -1.5
 OUTPUT_BITRATE = "128k"
 # Files already this close to target are skipped to avoid needless re-encoding.
@@ -92,12 +94,20 @@ def normalize_file(path, *, quiet=False, force=False):
 
 
 def story_files(story_name=None):
+    """Narration files to process.
+
+    Prefers stories/{slug}/narration.mp3 and falls back to the git-tracked copy
+    under docs/stories/ when the working copy is absent (e.g. a fresh clone).
+    """
     if story_name:
-        path = STORIES_DIR / story_name / "narration.mp3"
-        if not path.exists():
-            sys.exit(f"No narration found at {path}")
-        return [path]
-    return sorted(STORIES_DIR.glob("*/narration.mp3"))
+        for base in (STORIES_DIR, DOCS_STORIES_DIR):
+            path = base / story_name / "narration.mp3"
+            if path.exists():
+                return [path]
+        sys.exit(f"No narration found for {story_name}")
+    found = {p.parent.name: p for p in DOCS_STORIES_DIR.glob("*/narration.mp3")}
+    found.update({p.parent.name: p for p in STORIES_DIR.glob("*/narration.mp3")})
+    return [found[k] for k in sorted(found)]
 
 
 def main():
