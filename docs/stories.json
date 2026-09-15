@@ -1,5 +1,12 @@
 [
   {
+    "slug": "big-als-only-question",
+    "title": "Big Al's Only Question",
+    "url": "stories/big-als-only-question/",
+    "audio": "stories/big-als-only-question/narration.mp3",
+    "duration": 860
+  },
+  {
     "slug": "luna-in-the-fog",
     "title": "Luna in the Fog",
     "url": "stories/luna-in-the-fog/",
@@ -14,6 +21,13 @@
     "duration": 760
   },
   {
+    "slug": "lunas-approval",
+    "title": "Luna's Approval",
+    "url": "stories/lunas-approval/",
+    "audio": "stories/lunas-approval/narration.mp3",
+    "duration": 931
+  },
+  {
     "slug": "pia-the-peacekeeper",
     "title": "Pia the Peacekeeper",
     "url": "stories/pia-the-peacekeeper/",
@@ -21,11 +35,25 @@
     "duration": 967
   },
   {
+    "slug": "the-bench-that-took-all-winter",
+    "title": "The Bench That Took All Winter",
+    "url": "stories/the-bench-that-took-all-winter/",
+    "audio": "stories/the-bench-that-took-all-winter/narration.mp3",
+    "duration": 887
+  },
+  {
     "slug": "the-colors-that-went-missing",
     "title": "The Colors That Went Missing",
     "url": "stories/the-colors-that-went-missing/",
     "audio": "stories/the-colors-that-went-missing/narration.mp3",
     "duration": 989
+  },
+  {
+    "slug": "the-cup-of-exactly-right",
+    "title": "The Cup of Exactly Right",
+    "url": "stories/the-cup-of-exactly-right/",
+    "audio": "stories/the-cup-of-exactly-right/narration.mp3",
+    "duration": 919
   },
   {
     "slug": "the-dragon-who-loved-jigsaw-puzzles",
@@ -63,6 +91,13 @@
     "duration": 1031
   },
   {
+    "slug": "the-great-makeover",
+    "title": "The Great Makeover of Prince Spencer",
+    "url": "stories/the-great-makeover/",
+    "audio": "stories/the-great-makeover/narration.mp3",
+    "duration": 875
+  },
+  {
     "slug": "the-lantern-festival",
     "title": "The Lantern Festival",
     "url": "stories/the-lantern-festival/",
@@ -77,11 +112,25 @@
     "duration": 1042
   },
   {
+    "slug": "the-letter-that-wouldnt-hold-still",
+    "title": "The Letter That Wouldn't Hold Still",
+    "url": "stories/the-letter-that-wouldnt-hold-still/",
+    "audio": "stories/the-letter-that-wouldnt-hold-still/narration.mp3",
+    "duration": 777
+  },
+  {
     "slug": "the-locked-up-lullabies",
     "title": "The Locked-Up Lullabies",
     "url": "stories/the-locked-up-lullabies/",
     "audio": "stories/the-locked-up-lullabies/narration.mp3",
     "duration": 1042
+  },
+  {
+    "slug": "the-map-of-favorite-places",
+    "title": "The Map of Favorite Places",
+    "url": "stories/the-map-of-favorite-places/",
+    "audio": "stories/the-map-of-favorite-places/narration.mp3",
+    "duration": 922
   },
   {
     "slug": "the-market-where-fish-fly",
@@ -105,6 +154,20 @@
     "duration": 1144
   },
   {
+    "slug": "the-night-spencer-got-lost",
+    "title": "The Night Spencer Got Lost",
+    "url": "stories/the-night-spencer-got-lost/",
+    "audio": "stories/the-night-spencer-got-lost/narration.mp3",
+    "duration": 814
+  },
+  {
+    "slug": "the-prince-who-asked-the-eldest-tree",
+    "title": "The Prince Who Asked the Eldest Tree",
+    "url": "stories/the-prince-who-asked-the-eldest-tree/",
+    "audio": "stories/the-prince-who-asked-the-eldest-tree/narration.mp3",
+    "duration": 947
+  },
+  {
     "slug": "the-puzzle-garden",
     "title": "The Puzzle Garden",
     "url": "stories/the-puzzle-garden/",
@@ -124,6 +187,13 @@
     "url": "stories/the-seeds-that-sang/",
     "audio": "stories/the-seeds-that-sang/narration.mp3",
     "duration": 1026
+  },
+  {
+    "slug": "the-song-for-savannah",
+    "title": "The Song for Savannah",
+    "url": "stories/the-song-for-savannah/",
+    "audio": "stories/the-song-for-savannah/narration.mp3",
+    "duration": 918
   },
   {
     "slug": "the-song-the-kingdom-forgot",
