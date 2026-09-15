@@ -39,7 +39,7 @@ A collection of original fairy tales written as a gift. Savannah's grandparents 
 
 ## How to Use
 
-- **Online:** Visit the [website](https://stautem.github.io/once-upon-a-savannah/) on any phone or tablet — read along, tap play to listen, tap **Shuffle** for a random story, or tap **Sleep mix** for ~1 hour of stories in a row
+- **Online:** Visit the [website](https://stautem.github.io/once-upon-a-savannah/) on any phone or tablet — read along, tap play to listen, tap **Shuffle** for a random story, or tap **Sleep mix** for six stories in a row (about 1.5 hours)
 
 - **In person:** Pick a story from `stories/` and read it aloud at bedtime
 - **With Claude Code:** Use the commands below to brainstorm, generate, review, revise, and narrate stories
@@ -79,7 +79,7 @@ once-upon-a-savannah/
 
 ## Narration Voices
 
-Audio narration is generated with `scripts/narrate.py`. By default it runs in `auto` mode: it tries [ElevenLabs](https://elevenlabs.io/) first using the flash model (`eleven_flash_v2_5`), then falls back to AWS Polly if ElevenLabs returns a quota, credit, or rate-limit style error. The default ElevenLabs voice is **Imogen** (warm British storyteller). The default Polly fallback voice is **Amy**. Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Finished narrations are loudness-normalized with ffmpeg (-20 LUFS) so every story plays at the same gentle level.
+Audio narration is generated with `scripts/narrate.py`. By default it runs in `auto` mode: it tries [ElevenLabs](https://elevenlabs.io/) first using the flash model (`eleven_flash_v2_5`), then falls back to AWS Polly if ElevenLabs returns a quota, credit, or rate-limit style error. The default ElevenLabs voice is **Imogen** (warm British storyteller). The default Polly fallback voice is **Amy**. Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Finished narrations are loudness-normalized with ffmpeg (-24 LUFS) so every story plays at the same gentle level.
 
 | Voice | ID | Style |
 |---|---|---|
