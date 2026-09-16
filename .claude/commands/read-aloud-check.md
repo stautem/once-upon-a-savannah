@@ -4,9 +4,9 @@ You are reviewing a draft for how it sounds when read aloud. This is a rhythm, p
 
 ## What to do
 
-1. **Read project context.** Read `CLAUDE.md` to understand the project's voice, tone, and prose style. This determines your calibration:
+1. **Read project context.** Read `AGENTS.md` to understand the project's voice, tone, and prose style. This determines your calibration:
    - If the project calls for spare/precise/literary prose: use a ~30-word sentence threshold, check for overwriting, dead air, and complex rhythm breaks. Dense sentences are fine if they have internal rhythm.
-   - If the project calls for simple/clear/bedtime/children's prose: use a ~20-word sentence threshold, check for wind-down quality, pacing, and rule violations from CLAUDE.md. Flag vocabulary that would trip up a reader.
+   - If the project calls for simple/clear/bedtime/children's prose: use a ~20-word sentence threshold, check for wind-down quality, pacing, and rule violations from AGENTS.md. Flag vocabulary that would trip up a reader.
    - If the project has no clear prose style guidance: default to 25 words, note that calibration may need adjustment.
 
 2. **Identify the content.** If `$ARGUMENTS` names a file or story, find it. Check these locations in order:
@@ -29,7 +29,7 @@ You are reviewing a draft for how it sounds when read aloud. This is a rhythm, p
    For **bedtime/children's prose**, also check:
    - **Missing rhythm** — patterns of three, repeated phrases, call-and-response that could be stronger.
    - **The wind-down** — the last quarter should feel like settling. Flag if energy stays too high too late.
-   - **Rule violations** — anything that breaks CLAUDE.md rules (scary content, moral lecturing, etc.).
+   - **Rule violations** — anything that breaks AGENTS.md rules (scary content, moral lecturing, etc.).
 
 4. **Report findings as a list:**
    - Quote the specific line or passage

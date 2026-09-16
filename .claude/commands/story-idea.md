@@ -7,7 +7,7 @@ You are brainstorming fairy tale ideas for the once-upon-a-savannah project. No 
 1. **Check for a theme.** If `$ARGUMENTS` provides a theme or direction (e.g., "ocean," "winter," "Luna gets lost," "something with fireflies"), use it as a starting point. Otherwise, generate ideas freely.
 
 2. **Read the project context:**
-   - Read `CLAUDE.md` for voice, tone, and rules
+   - Read `AGENTS.md` for voice, tone, and rules
    - Read `characters.md` for the character palette
    - Scan `stories/` to see what already exists — don't repeat premises
 
@@ -27,7 +27,7 @@ You are brainstorming fairy tale ideas for the once-upon-a-savannah project. No 
 
 ## Rules
 - Don't create any files. This is brainstorming only.
-- Every idea must fit the `CLAUDE.md` rules — nothing scary, nothing sad, always solvable through kindness.
+- Every idea must fit the `AGENTS.md` rules — nothing scary, nothing sad, always solvable through kindness.
 - Vary the ideas — don't make all 5 about the same type of adventure.
 - Pull from the full critter palette in `characters.md`. Don't default to the same crew every time.
 - If existing stories are in `stories/`, make sure the new ideas feel distinct from them.

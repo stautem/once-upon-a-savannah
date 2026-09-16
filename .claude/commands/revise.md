@@ -10,7 +10,7 @@ You are revising a bedtime fairy tale in the once-upon-a-savannah project.
    - "What would you like to change? Pacing, characters, a specific scene, the ending — anything goes."
 
 3. **Read the project rules:**
-   - Read `CLAUDE.md` for voice, tone, and story structure rules
+   - Read `AGENTS.md` for voice, tone, and story structure rules
    - Read `characters.md` for the character bible
    - Read the story's `draft.md` and `outline.md`
 
@@ -26,7 +26,7 @@ You are revising a bedtime fairy tale in the once-upon-a-savannah project.
    - Ask if they want further tweaks
 
 ## Rules
-- All `CLAUDE.md` rules apply — voice, tone, structure, what-not-to-do. Re-read them before editing.
+- All `AGENTS.md` rules apply — voice, tone, structure, what-not-to-do. Re-read them before editing.
 - Don't rewrite sections that weren't flagged. Respect what's already working.
 - If the revision changes characters, make sure they match `characters.md`.
 - Read every changed sentence aloud in your head. If it stumbles, simplify.
