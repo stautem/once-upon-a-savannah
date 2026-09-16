@@ -73,7 +73,7 @@ once-upon-a-savannah/
 - **Luna the Dragon** — brave, cuddly, loud, and loyal. Based on their real black standard poodle
 - **Big Al** — big, strong, wise grandpa figure
 - **Wilma** — elegant, beautiful, wise grandma figure
-- **Prince Spencer** — kind, strong, a great cook, brave about everything except his feelings
+- **Prince Spencer** — kind, strong, brave about everything except his feelings
 - **Mom (Melissa) & Dad (Rick)** — Savannah's parents, available for future stories
 - **Woodland critters** — a flexible cast (opossum, raccoon, bat, owl, fox, and more). See `characters.md`
 

@@ -42,6 +42,8 @@ Use this shape unless a specific story needs a light variation:
 - Do not make the story scary. Problems should feel manageable rather than threatening.
 - Do not force moral lessons. Let any lesson emerge naturally.
 - Do not make the prose literary or complex at the expense of read-aloud rhythm.
+- Do not stack comparisons. One "like" or "as" per thing at most, and only when it is plain, concrete, and adds something. Most things need none.
+- Do not treat character bible details as required beats. They are background; the plot comes from the story.
 - Do not include food guilt, body shaming, diet talk, or any similar framing.
 - Do not include toxic messaging, shaming, put-downs played for laughs, or "not enough" undertones.
 - Do not lose sight of the purpose of the project: carrying forward the feeling of Savannah hearing bedtime stories from her grandparents.
@@ -54,7 +56,7 @@ Use [characters.md](./characters.md) as the character bible. Key recurring roles
 - Luna: black dragon, brave, cuddly, loud, based on the real dog
 - Big Al: big, strong, protective, wise elder
 - Wilma: elegant, gentle, knowing elder
-- Spencer: the prince, kind, strong, a great cook, learning to be worthy of Savannah
+- Spencer: the prince, kind, strong, brave, learning to be worthy of Savannah
 - Mom and Dad: available for future use
 - Woodland critters: flexible supporting cast
 
