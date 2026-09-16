@@ -68,6 +68,7 @@ Use [characters.md](./characters.md) as the character bible. Key recurring roles
 ## Repository Structure
 
 - `stories/` contains each story folder with `outline.md`, `draft.md`, and optional `narration.mp3`
+- `stories/narration-log.json` records each narration run; `scripts/build_site.py` reads it for audio durations
 - `docs/` contains the generated GitHub Pages site
 - `scripts/build_site.py` rebuilds the site from the story drafts
 - `scripts/narrate.py` generates narration audio
@@ -75,6 +76,7 @@ Use [characters.md](./characters.md) as the character bible. Key recurring roles
 - `scripts/voice_test.py` supports narration voice comparison
 - `site-templates/` contains the site HTML and CSS templates
 - `templates/fairy-tale.md` is the story template
+- `future/WISHLIST.md` holds future feature ideas
 
 ## Audio Narration
 

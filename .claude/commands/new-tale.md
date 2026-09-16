@@ -8,13 +8,13 @@ You are creating a new bedtime fairy tale for the once-upon-a-savannah project.
    - "What's the adventure about? Even one sentence is enough — 'Luna gets lost in the fog' or 'the kingdom's flowers won't bloom.'"
 
 2. **Read the project rules:**
-   - Read `CLAUDE.md` for voice, tone, and story structure rules
+   - Read `AGENTS.md` for voice, tone, and story structure rules
    - Read `characters.md` for the character bible
    - Read `templates/fairy-tale.md` for the story template
 
 3. **Create the outline first:**
    - Pick a short, hyphenated name for the story (e.g., `frozen-garden`, `lost-little-owl`)
-   - Create `stories/{name}/outline.md` — brief beat-by-beat outline following the story structure in `CLAUDE.md`
+   - Create `stories/{name}/outline.md` — brief beat-by-beat outline following the story structure in `AGENTS.md`
    - Include which characters and critters will appear
    - **Present the outline to the user and ask for approval before writing the full draft.** This is the checkpoint — let them steer before 2,000 words are on the page. They may want to swap characters, adjust the twist, or change direction entirely.
 

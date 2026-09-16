@@ -12,30 +12,32 @@ A collection of original fairy tales written as a gift. Savannah's grandparents 
 
 ## Stories
 
-| Story | Reading Time | Voice |
-|---|---|---|
-| Luna the Dragon | ~7 min | Imogen |
-| Luna in the Fog | ~8 min | Morgan |
-| The Grand Riddle Faire | ~8 min | Josh |
-| The Puzzle Garden | ~8 min | Grandma Rachel |
-| The Locked-Up Lullabies | ~8 min | Tarquin |
-| The Mixed-Up Map | ~10 min | Sillyman Oxley |
-| The Dragon Who Loved Jigsaw Puzzles | ~8 min | Andrew |
-| The Quilt That Wouldn't Stay Still | ~8 min | Sillyman Oxley |
-| The Colors That Went Missing | ~7 min | Imogen |
-| The Lantern Festival | ~8 min | Morgan |
-| The Moonlight Garden | ~8 min | Grandma Rachel |
-| The Seeds That Sang | ~8 min | Imogen |
-| The Garden That Grew Backwards | ~8 min | Imogen |
-| The Enchanted Music Faire | ~8 min | Imogen |
-| The Song the Kingdom Forgot | ~8 min | Imogen |
-| The Whispering Woods | ~9 min | Imogen |
-| The Lantern Trail | ~7 min | Imogen |
-| The Wandering Wagon | ~8 min | Imogen |
-| The Forest of the Oldest Trees | ~8 min | Imogen |
-| Pia the Peacekeeper | ~8 min | Imogen |
-| The Market Where Fish Fly | ~8 min | Imogen |
-| The Village of the Friendly Longboats | ~8 min | Imogen |
+| Story | Reading Time |
+|---|---|
+| Luna the Dragon | ~7 min |
+| Luna in the Fog | ~8 min |
+| The Grand Riddle Faire | ~8 min |
+| The Puzzle Garden | ~8 min |
+| The Locked-Up Lullabies | ~8 min |
+| The Mixed-Up Map | ~10 min |
+| The Dragon Who Loved Jigsaw Puzzles | ~8 min |
+| The Quilt That Wouldn't Stay Still | ~8 min |
+| The Colors That Went Missing | ~7 min |
+| The Lantern Festival | ~8 min |
+| The Moonlight Garden | ~8 min |
+| The Seeds That Sang | ~8 min |
+| The Garden That Grew Backwards | ~8 min |
+| The Enchanted Music Faire | ~8 min |
+| The Song the Kingdom Forgot | ~8 min |
+| The Whispering Woods | ~8 min |
+| The Lantern Trail | ~8 min |
+| The Wandering Wagon | ~8 min |
+| The Forest of the Oldest Trees | ~8 min |
+| Pia the Peacekeeper | ~8 min |
+| The Market Where Fish Fly | ~8 min |
+| The Village of the Friendly Longboats | ~8 min |
+| The River That Changed Its Mind | ~8 min |
+| The Dragon's Bad Day | ~8 min |
 
 ## How to Use
 
@@ -55,7 +57,8 @@ once-upon-a-savannah/
 │   │   ├── outline.md
 │   │   ├── draft.md
 │   │   └── narration.mp3
-│   └── ...
+│   ├── ...
+│   └── narration-log.json ← record of narration runs (used for site durations)
 ├── docs/                 ← GitHub Pages site (built from stories/)
 ├── scripts/
 │   ├── build_site.py     ← generates the website from story files
@@ -64,7 +67,8 @@ once-upon-a-savannah/
 │   └── voice_test.py     ← voice comparison tool
 ├── site-templates/       ← HTML/CSS templates for the website
 ├── characters.md         ← the cast and their personalities
-└── templates/            ← story template for generating new tales
+├── templates/            ← story template for generating new tales
+└── future/               ← wishlist of future ideas
 ```
 
 ## Characters
@@ -73,13 +77,13 @@ once-upon-a-savannah/
 - **Luna the Dragon** — brave, cuddly, loud, and loyal. Based on their real black standard poodle
 - **Big Al** — big, strong, wise grandpa figure
 - **Wilma** — elegant, beautiful, wise grandma figure
-- **Prince Spencer** — kind, strong, brave about everything except his feelings
+- **Prince Spencer** — kind, strong, steady. Fond of Savannah and hasn't told her yet
 - **Mom (Melissa) & Dad (Rick)** — Savannah's parents, available for future stories
 - **Woodland critters** — a flexible cast (opossum, raccoon, bat, owl, fox, and more). See `characters.md`
 
 ## Narration Voices
 
-Audio narration is generated with `scripts/narrate.py`. By default it runs in `auto` mode: it tries [ElevenLabs](https://elevenlabs.io/) first using the flash model (`eleven_flash_v2_5`), then falls back to AWS Polly if ElevenLabs returns a quota, credit, or rate-limit style error. The default ElevenLabs voice is **Imogen** (warm British storyteller). The default Polly fallback voice is **Amy**. Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Finished narrations are loudness-normalized with ffmpeg (-24 LUFS) so every story plays at the same gentle level.
+Audio narration is generated with `scripts/narrate.py`. By default it runs in `auto` mode: it tries [ElevenLabs](https://elevenlabs.io/) first using the flash model (`eleven_flash_v2_5`), then falls back to AWS Polly if ElevenLabs returns a quota, credit, or rate-limit style error. The default ElevenLabs voice is **Imogen** (warm British storyteller). The default Polly fallback voice is **Amy**. Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Finished narrations are loudness-normalized with ffmpeg (-24 LUFS) so every story plays at the same gentle level. All current narrations use Imogen; the other voices below are available for variety.
 
 | Voice | ID | Style |
 |---|---|---|
@@ -113,6 +117,7 @@ Fallback provider:
 | `/narrate` | Generate audio narration for a story using ElevenLabs with AWS Polly fallback |
 | `/bedtime` | Pick a random story from the collection, ready to read aloud |
 | `/update-docs` | Update documentation to reflect recent changes |
+| `/vuln-check` | Scan dependencies and secrets for vulnerabilities, or check for new advisories |
 
 ### Command details
 
@@ -128,9 +133,9 @@ Fallback provider:
 
 **`/bedtime [preference]`** — Pass an optional filter (e.g., `/bedtime something with Luna`, `/bedtime a short one`). Picks a random matching story and presents it ready to read aloud.
 
-**`/commit`** — Stages changes and creates a commit with a descriptive message. Reviews the diff before committing.
-
 **`/update-docs [change | audit]`** — Updates all project documentation to reflect a described change, or pass `audit` for a full consistency review.
+
+**`/vuln-check [scan]`** — Scans dependencies, secrets, and advisories; pass `scan` for a full baseline audit, or leave blank to check for new threats since the last scan.
 
 ## Setup
 

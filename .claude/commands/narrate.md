@@ -1,17 +1,17 @@
 # /narrate — Generate Audio Narration
 
-Generate audio narration using ElevenLabs text-to-speech. Configuration is read from the project's CLAUDE.md.
+Generate audio narration using ElevenLabs text-to-speech. Configuration is read from the project's AGENTS.md.
 
 ## What to do
 
-1. **Read narration config.** Find the "Audio Narration" section in `CLAUDE.md`. Extract:
+1. **Read narration config.** Find the "Audio Narration" section in `AGENTS.md`. Extract:
    - Script path (e.g., `scripts/narrate.py`)
    - Default voice name and ID
    - Output file pattern (e.g., `stories/{name}/audio.mp3`)
    - Any additional options (section support, voice tables, etc.)
 
-   If there is no "Audio Narration" section in CLAUDE.md, stop and tell the user:
-   "This project doesn't have an Audio Narration section in CLAUDE.md. The `/narrate` skill needs this to know how to run narration. Here's what to add:"
+   If there is no "Audio Narration" section in AGENTS.md, stop and tell the user:
+   "This project doesn't have an Audio Narration section in AGENTS.md. The `/narrate` skill needs this to know how to run narration. Here's what to add:"
    ```
    ## Audio Narration
    - Script: `scripts/narrate.py`
@@ -28,11 +28,11 @@ Generate audio narration using ElevenLabs text-to-speech. Configuration is read 
 3. **Check for a draft.** The content must exist. If it only has a concept or outline but no draft, tell the user there's nothing to narrate yet.
 
 4. **Handle options from arguments:**
-   - If `$ARGUMENTS` includes a voice name, look it up in the voice table (check README.md and CLAUDE.md) and pass the voice ID to the script.
+   - If `$ARGUMENTS` includes a voice name, look it up in the voice table (check README.md and AGENTS.md) and pass the voice ID to the script.
    - If `$ARGUMENTS` asks for a specific section (e.g., `--section 3`) and the script supports `--section`/`--sections` flags, handle section listing and narration.
    - If `$ARGUMENTS` is "all", narrate every item that doesn't already have an audio file.
 
-5. **Run the narration script** using the path from CLAUDE.md config. Use the default voice unless overridden.
+5. **Run the narration script** using the path from AGENTS.md config. Use the default voice unless overridden.
 
 6. **Report the result:**
    - Content narrated
