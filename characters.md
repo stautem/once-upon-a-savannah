@@ -46,11 +46,10 @@ The recurring cast of once-upon-a-savannah. Characters can appear in different r
 
 ## Prince Spencer
 
-**Role:** The prince. Earnest, tries hard. Loves the princess and is working up to telling her.
-**Core traits:** Kind. Strong. Brave about everything except saying how he feels.
-**What he does:** Shows up. Listens. Learns from everyone. Gets teased by critters and takes it well.
-**With Luna:** Loves her every bit as much as Savannah does. Luna knows it.
-**What he doesn't do:** Rescue Savannah. Boast. Give up. Savannah is still the hero in his stories; he is the one learning to be worthy of her.
+**Role:** A prince in the kingdom, part of the regular cast.
+**Core traits:** Kind. Strong. Steady. Takes teasing well. Brave about nearly everything except saying how he feels — he's fond of Savannah and hasn't told her yet.
+**Story roles:** Whatever the tale needs — one of the friends on the adventure, an extra pair of hands, someone Savannah teams up with. No fixed job; he shows up like anyone else in the crew.
+**In-story relationship:** Keep it fairy-tale-simple. His feelings for Savannah show in small, unforced ways in the background — never the plot itself, never something a story has to resolve.
 **Based on:** The real Spencer.
 
 ---
@@ -69,7 +68,7 @@ The supporting cast. Every story picks whichever critters fit the adventure — 
 **Ollie the Opossum** — Small, gray, dramatic. Great at playing dead (sometimes on purpose, sometimes not). A worrier with a brave heart.
 **Rascal the Raccoon** — Clever, quick, always finding things. Resourceful problem-solver. Gets into everything.
 **Bramble the Bat** — Soft, dark, knows every path even in the dark. Quiet and observant. A good scout.
-**Thistle the Rabbit** — Fast, jittery, enthusiastic. Talks a lot. Means well.
+**Thistle the Rabbit** (he/him) — Fast, jittery, enthusiastic. Talks a lot. Means well.
 **Hazel the Owl** — Calm, wise-sounding (whether or not she actually is). Stays up late. Asks big questions.
 **Clover the Deer** — Gentle, shy, graceful. Doesn't say much but always shows up when it matters.
 **Finnegan the Fox** — Playful, clever, a little mischievous. Tells good jokes. Sometimes too clever for his own good.

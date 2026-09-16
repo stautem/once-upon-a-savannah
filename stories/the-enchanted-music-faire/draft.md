@@ -48,7 +48,7 @@ At four o'clock sharp, the first act took the stage.
 
 Velvet the Fox stepped into the spotlight, and the whole meadow went quiet.
 
-Velvet was tall and sleek, with fur the color of dark amber and a cape — a real, actual cape — made of midnight-blue velvet and covered in tiny jewels that caught the light. He wore it like he'd been born wearing it. He moved like the music had already started, even when it hadn't.
+Velvet was tall and sleek, with fur the color of dark amber and a cape — a real, actual cape — made of midnight-blue velvet and covered in tiny jewels that caught the light. He wore it like he'd been born wearing it.
 
 He opened his mouth. And he sang.
 
@@ -56,13 +56,13 @@ His voice was deep and smooth and warm, like honey poured over thunder. It rolle
 
 And from the Enchanted Stage, light began to rise.
 
-Red light. Deep, rich, velvety red — swirling up like ribbons into the sky. And then purple, dark and shimmering, spiraling around the red like a dance.
+Red light. Deep, rich, velvety red — swirling up like ribbons into the sky. And then purple, dark and shimmering, spiraling around the red.
 
 The crowd gasped. Luna's tail swished so hard it knocked over a lemonade stand.
 
 "Oops," said Luna.
 
-Velvet finished his song with a long, low note that seemed to hang in the air like a bell. He swept his cape, took a bow so deep his nose nearly touched the stage, and the meadow erupted in cheers.
+Velvet finished his song with a long, low note that hung in the air and slowly faded. He swept his cape, took a bow so deep his nose nearly touched the stage, and the meadow erupted in cheers.
 
 "Thank you, thank you," said Velvet, in a voice that somehow sounded like velvet too. "You're too kind. Well — just kind enough, really."
 
@@ -72,13 +72,13 @@ Next came the Lily Pads.
 
 The Lily Pads were five singing frogs who sat on five little stools in a row, each one a slightly different shade of green. They didn't play instruments. They didn't need to. They sang in harmonies so sweet and clear that the air itself seemed to hum along.
 
-From the Enchanted Stage, green light rose up. Gentle green, like new leaves in spring. And then blue, soft and cool, like a quiet stream. The green and the blue wove together and drifted over the meadow like a lullaby you could see.
+From the Enchanted Stage, green light rose up. Gentle green, like new leaves in spring. And then blue, soft and cool. The green and the blue wove together and drifted out over the meadow.
 
 "Ribbit-doo-wop," sang the smallest frog.
 
 "Ribbit-doo-wop," echoed the rest.
 
-Luna hummed along. Luna was not a good hummer. But she hummed with great enthusiasm, and that was what mattered.
+Luna hummed along. Luna was not a good hummer.
 
 The crowd clapped and cheered, and the Lily Pads took a bow — all five of them at once, perfectly in time.
 
@@ -116,7 +116,7 @@ Then she said, "Can I tell you something?"
 
 Crescendo nodded.
 
-"When you play your fiddle," said Savannah, "nobody is going to see how small you are. They're going to hear how big your music is. And that's what the Enchanted Stage cares about — not the size of the musician, but the size of the song."
+"When you play your fiddle," said Savannah, "nobody is going to see how small you are. They're going to hear how big your music is."
 
 Crescendo sniffled. "You really think so?"
 
@@ -132,9 +132,9 @@ Velvet's ears perked up. He forgot his cape immediately. "What does she need?"
 
 "She's afraid she's too small for the stage," said Savannah.
 
-Velvet knelt down — which was quite a sight, cape and all — and looked at Crescendo. "Little one," he said, in that deep, warm voice, "I have played on stages from here to the mountains. And I will tell you a secret." He leaned in close. "The stage has never once cared how big you are. It only cares how true you play."
+Velvet knelt down — which was quite a sight, cape and all — and looked at Crescendo. "Little one," he said, in that deep, warm voice, "I have played on stages from here to the mountains. And every single time, my knees shook." He leaned in close. "I'll be right there in the wings."
 
-Luna appeared next, because Luna always appeared when something important was happening. She pushed her big dragon nose right up to Crescendo and sniffed. Then she sat down with a thump and let out a low, rumbly growl — the kind that meant "I am here and I am on your side."
+Luna appeared next, because Luna always appeared when something important was happening. She pushed her big dragon nose right up to Crescendo and sniffed. Then she sat down with a thump and let out a low, rumbly growl.
 
 "She says if anyone laughs, she'll roar," said Savannah.
 
@@ -182,7 +182,7 @@ And something magical happened.
 
 The golden light reached out and found the other colors still hanging in the evening air. Velvet's red and purple. The Lily Pads' green and blue. The golden light wove through them all, braiding and spinning until the whole sky was alive with color — red and gold and purple and green and blue, swirled together like the world's most beautiful painting.
 
-The Lily Pads hummed, soft and low, just as they'd promised. Luna's tail swished in time with the music. Pepper clasped her paws together. Velvet stood with his cape over his heart.
+The Lily Pads hummed, soft and low, just as they'd promised. Luna's tail swished in time with the music. Pepper clasped her paws together.
 
 And Savannah smiled.
 
@@ -192,13 +192,13 @@ The meadow was silent for one breath. Two breaths.
 
 And then the cheering began.
 
-Every creature in the meadow was on their feet, clapping and stomping and cheering. The Lily Pads croaked with joy. Finnegan threw his clipboard in the air. Luna roared — not because anyone had laughed, but because she was so happy she couldn't hold it in.
+Every creature in the meadow was on their feet, clapping and stomping and cheering. Finnegan threw his clipboard in the air. Luna roared — not because anyone had laughed, but because she was so happy she couldn't hold it in.
 
 Crescendo stood on the great big stage, tiny and trembling and glowing with golden light. She looked out at the cheering crowd. She looked at her friends in the wings.
 
 And she took a bow.
 
-It was a very small bow, from a very small cricket. But it was the biggest moment of the whole Enchanted Music Faire.
+It was a very small bow, from a very small cricket.
 
 ---
 
@@ -206,7 +206,7 @@ Afterward, the meadow glowed.
 
 The woven light hung in the sky like a canopy of color, soft and warm, turning the whole world gentle shades of gold and green and blue. Creatures sat on blankets in the grass, talking and laughing, still humming the tune Crescendo had played.
 
-Savannah sat with her friends under the colored sky. Luna was curled up beside her, snoring softly, her tail still twitching in time to a song only she could hear. Pepper leaned against a hay bale. Finnegan had found his clipboard and was already making plans for next year.
+Savannah sat with her friends under the colored sky. Luna was curled up beside her, snoring softly, her tail still twitching in time to a song only she could hear. Finnegan had found his clipboard and was already making plans for next year.
 
 Velvet sat nearby, his cape spread out like a blanket. "Finest faire I've ever played," he said.
 

@@ -62,13 +62,13 @@ Savannah stood very still and listened.
 
 At first she heard only the normal sounds — wind in the bare branches, a distant bird, Luna crunching one last puddle. But underneath all of that, she heard it.
 
-A whisper. Not words, exactly. More like the feeling of words. Like someone speaking very far away, or very softly, or both.
+A whisper. Not words, exactly. More like the feeling of words.
 
 Ollie shivered. "See? Spooky."
 
 But Savannah tilted her head.
 
-She remembered something Wilma had told her once, on a night when the wind was howling and everything outside sounded big and wild. Wilma had said, very gently, "When something sounds frightening, listen closer. Fear makes things louder than they are."
+She remembered something Wilma had told her once, very gently: "When something sounds frightening, listen closer. Fear makes things louder than they are."
 
 So Savannah cupped her hands behind her ears and listened closer.
 
@@ -76,7 +76,7 @@ The whisper didn't sound angry.
 
 It didn't sound scary.
 
-It sounded... frustrated. Like someone trying very, very hard to say something, and not being heard. Like someone calling from the bottom of a well.
+It sounded... frustrated. Like someone trying to say something, and not being heard.
 
 "That's not spooky," said Savannah. "That's someone who needs help."
 
@@ -102,7 +102,7 @@ At the edges, the trees were young and thin, with bare twigs that clicked togeth
 
 Bramble flew ahead, her dark wings silent against the green light. "This way," she called softly. "Stay on the path."
 
-Clover walked beside Savannah, her hooves quiet on the mossy ground. She didn't speak, but her presence was warm and steady, and somehow that was enough.
+Clover walked beside Savannah, her hooves quiet on the mossy ground. She didn't speak, but her presence was warm and steady.
 
 Luna huffed warm dragon-breath as they walked, and it glowed faintly orange in the dim light. Ollie, still perched on her back, wrapped his tail around one of her spines and held on tight.
 
@@ -114,13 +114,13 @@ It was. The whispering filled the air now — not from any one direction, but fr
 
 "Listen," said Savannah.
 
-Ollie listened. The whisper was warm. Not sharp or hissing or cold. Round and soft, like the sound of someone humming a song they almost remember but can't quite find the words for.
+Ollie listened. The whisper was warm. Not sharp or hissing or cold. Round and soft.
 
 "Oh," said Ollie. "That's... actually not so bad."
 
 They walked on. The trees got older still, so wide it would take ten Savannahs holding hands to reach around them. The light that filtered through the branches was green and gold and gentle, like light through stained glass.
 
-And the whispering grew clearer. Not louder — clearer. As if the voice was pushing toward the surface like a green shoot pushing through soil.
+And the whispering grew clearer. Not louder — clearer. The voice was pushing toward the surface like a green shoot through soil.
 
 "We're close," said Bramble, landing on Savannah's shoulder. "Just ahead. There's a clearing."
 
@@ -132,7 +132,7 @@ The Great Grandmother Oak stood in the center.
 
 She was the biggest tree anyone had ever seen. Her trunk was wider than a house, and it rose up and up and up until her branches spread across the sky like arms reaching out to hold the whole forest. Her bark was thick and deep, carved with whorls and ridges that looked, if you tilted your head just right, like stories.
 
-Her roots spread out in every direction, running across the clearing and diving into the earth, reaching toward the rest of the forest like fingers laced through the soil.
+Her roots spread out in every direction, running across the clearing and diving into the earth, reaching toward the rest of the forest.
 
 And she was whispering.
 
@@ -158,7 +158,7 @@ She listened. And this time, this close, she could almost hear the words.
 
 The whispering faltered, as if the old tree had heard her and was surprised.
 
-Savannah didn't try to fix anything. She didn't look for a spell or a potion or a magical key. She didn't try to make the tree louder or teach her new words.
+Savannah didn't look for a spell or a potion or a magical key.
 
 She sat down right there among the Great Grandmother Oak's roots, on a cushion of soft moss. She leaned her back against the enormous trunk and felt its warmth press against her shoulders.
 
@@ -166,11 +166,11 @@ She sat down right there among the Great Grandmother Oak's roots, on a cushion o
 
 And she waited.
 
-Luna padded over and curled up beside her, resting her big black head on Savannah's lap. Bramble settled on a root nearby, wrapping her wings around herself like a small dark blanket. Clover folded her legs gracefully and lay down in the moss. Even Ollie crept over and sat still — really, truly still — for perhaps the first time in his life.
+Luna padded over and curled up beside her, resting her big black head on Savannah's lap. Bramble settled on a root nearby, wrapping her wings around herself like a small dark blanket. Even Ollie crept over and sat still — really, truly still — for perhaps the first time in his life.
 
-The whispering continued — soft and uncertain, stopping and starting, like someone clearing their throat before a speech they have practiced a thousand times but never given.
+The whispering continued — soft and uncertain, stopping and starting.
 
-Savannah didn't fidget. She didn't hurry. She just listened the way Wilma had taught her — with her whole self, patient and open and kind.
+Savannah didn't fidget. She didn't hurry. She just listened.
 
 A minute passed. The whisper grew steadier.
 
@@ -182,7 +182,7 @@ Savannah smiled. "I hear you."
 
 *"Spring... is... here."*
 
-And the voice was not a whisper anymore. It was soft, yes. Gentle. But it was a voice — warm and deep and full, like the sound of wind through a forest of leaves, like the hum of the earth itself.
+And the voice was not a whisper anymore. It was soft, yes. Gentle. But it was a voice — warm and deep and full, like wind through a forest of leaves.
 
 *"Spring is here,"* said the Great Grandmother Oak. *"I have been waiting so long to tell someone."*
 
@@ -198,9 +198,7 @@ Luna lifted her head and watched a flower bloom right between her front paws. Sh
 
 Ollie stared as a cluster of tiny white blossoms sprouted from the moss beside him. "Oh," he said very quietly. "Oh, that's lovely."
 
-Bramble unfolded one wing and watched a vine of pale green leaves curl gently around the root where she was resting. She smiled her small bat smile.
-
-Clover stood, and where she had been lying, a patch of soft clover — her namesake — had sprung up, thick and green.
+And around Clover's hooves, a patch of soft clover sprang up, thick and green.
 
 The Great Grandmother Oak rustled all her new leaves at once, and the sound was not a whisper anymore. It was full and warm and glad.
 
@@ -220,7 +218,7 @@ Ollie walked on his own two feet the whole way back, tail held high. "I was brav
 
 Luna stomped in a puddle that was no longer frozen. It splashed. She looked deeply satisfied.
 
-At the edge of the forest, Savannah turned and looked back. The trees that had been bare and gray that morning were soft with green now, and if she listened — really listened — she could hear the Great Grandmother Oak, far away in her clearing, speaking in her full, warm voice. Telling the forest her news. Telling the roots and the branches and the sleeping seeds in the soil.
+At the edge of the forest, Savannah turned and looked back. The trees that had been bare and gray that morning were soft with green now. And if she listened — really listened — she could hear the Great Grandmother Oak, far away in her clearing, speaking in her full, warm voice. Telling the forest her news. Telling the roots and the branches and the sleeping seeds in the soil.
 
 Spring is here. Spring is here. Wake up and grow.
 
@@ -230,8 +228,8 @@ Savannah smiled.
 
 The trees rustled — not a whisper, but a warm, full, happy sound.
 
-Like laughter. Like a thank-you. Like the forest saying, *We'll be here.*
+Like the forest saying, *We'll be here.*
 
-And from that day on, the Great Forest bloomed earlier than any other forest in the land, because at its heart there lived an ancient, wonderful tree who had found her voice again — all because a princess sat down, leaned back, and listened.
+And from that day on, the Great Forest bloomed earlier than any other forest in the land.
 
 And they all lived happily ever after.

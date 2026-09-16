@@ -8,7 +8,7 @@
 
 Once upon a time, in a kingdom tucked between a great green forest and a range of misty mountains, there lived a princess named Savannah.
 
-Princess Savannah lived in a cozy castle with tall windows and a garden full of wildflowers. She wasn't the kind of princess who sat around waiting for things to happen. She was the kind of princess who went looking for them.
+Princess Savannah lived in a cozy castle with tall windows and a garden full of wildflowers. She wasn't a princess who sat around waiting for things to happen. She was a princess who went looking for them.
 
 Every morning, she'd lace up her boots and head into the forest to meet her three best friends.
 
@@ -48,9 +48,9 @@ Ollie looked at Rascal. Rascal looked at Bramble. Bramble looked at Ollie.
 
 Before they set off, Savannah went to visit Big Al and Wilma.
 
-Big Al and Wilma lived in a cottage at the forest's edge, where the trees grew tall and the fire was always warm. Big Al was the biggest man Savannah had ever known — broad as a barn door, strong as a mountain, with a voice that made the floorboards hum. He knew about dragons. He'd seen one, once, a long time ago.
+Big Al and Wilma lived in a cottage at the forest's edge, where the trees grew tall and the fire was always warm. Big Al was the biggest man Savannah had ever known — broad as a barn door, with a voice that made the floorboards hum. He knew about dragons. He'd seen one, once, a long time ago.
 
-Wilma was elegant and beautiful, with silver hair and eyes that saw everything twice — once as it was, and once as it could be. She knew things that weren't in any book.
+Wilma was elegant and beautiful, with silver hair and gentle, knowing eyes. She knew things that weren't in any book.
 
 "A dragon in the mountains," said Big Al, stroking his chin. "Well. That's something."
 
@@ -118,7 +118,7 @@ And then Savannah remembered what Wilma had told her.
 
 She began to sing.
 
-It wasn't a fancy song. It wasn't loud or complicated. It was the kind of song you hum when you're falling asleep — warm and slow and steady, like a heartbeat, like a rocking chair, like rain on a roof when you're safe inside.
+It wasn't a fancy song. It wasn't loud or complicated. It was the kind of song you hum when you're falling asleep — warm and slow and steady, like rain on a roof when you're safe inside.
 
 The dragon closed her eyes.
 
@@ -152,8 +152,8 @@ Wilma smiled. She'd known, of course. She always did.
 
 "Welcome home, Luna," she said.
 
-And from that day on, the kingdom wasn't afraid anymore. Because the dragon in the mountains wasn't a monster at all — she was just someone who needed a friend. And Princess Savannah, who was brave and kind, had been exactly the right person to find her.
+And from that day on, when the ground rumbled, nobody in the kingdom ran inside. They came out to wave.
 
-Luna slept in the meadow beside the castle, curled up like a great dark cat, and every evening Savannah would sit with her and sing the song that Wilma taught her, and Luna would purr, and the stars would come out one by one, and everything was exactly as it should be.
+Luna slept in the meadow beside the castle, curled up like a great dark cat, and every evening Savannah would sit with her and sing the song that Wilma taught her, and Luna would purr, and the stars would come out one by one.
 
 And they all lived happily ever after.

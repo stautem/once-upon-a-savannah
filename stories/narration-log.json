@@ -559,5 +559,461 @@
       "speed": 0.85,
       "use_speaker_boost": true
     }
+  },
+  {
+    "story": "luna-in-the-fog",
+    "timestamp": "2026-09-16T10:48:02+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 9642,
+    "bytes": 15138943,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "luna-the-dragon",
+    "timestamp": "2026-09-16T10:49:54+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 7669,
+    "bytes": 11331753,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "pia-the-peacekeeper",
+    "timestamp": "2026-09-16T10:51:00+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10606,
+    "bytes": 15227551,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-colors-that-went-missing",
+    "timestamp": "2026-09-16T10:52:06+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 9959,
+    "bytes": 15481670,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-dragon-who-loved-jigsaw-puzzles",
+    "timestamp": "2026-09-16T10:53:10+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10525,
+    "bytes": 14716386,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-enchanted-music-faire",
+    "timestamp": "2026-09-16T10:54:21+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10997,
+    "bytes": 16592187,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-forest-of-the-oldest-trees",
+    "timestamp": "2026-09-16T10:55:31+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10530,
+    "bytes": 16418734,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-garden-that-grew-backwards",
+    "timestamp": "2026-09-16T10:56:44+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11410,
+    "bytes": 17081199,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-grand-riddle-faire",
+    "timestamp": "2026-09-16T10:57:50+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10710,
+    "bytes": 15295260,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-lantern-festival",
+    "timestamp": "2026-09-16T10:58:58+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10936,
+    "bytes": 15590757,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-lantern-trail",
+    "timestamp": "2026-09-16T10:59:51+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 9916,
+    "bytes": 14910319,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-locked-up-lullabies",
+    "timestamp": "2026-09-16T11:01:03+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10555,
+    "bytes": 16528657,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-market-where-fish-fly",
+    "timestamp": "2026-09-16T11:02:13+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10693,
+    "bytes": 16027942,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-mixed-up-map",
+    "timestamp": "2026-09-16T11:03:21+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10460,
+    "bytes": 15334548,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-moonlight-garden",
+    "timestamp": "2026-09-16T11:04:38+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11383,
+    "bytes": 17656729,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-puzzle-garden",
+    "timestamp": "2026-09-16T11:05:53+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11191,
+    "bytes": 17238770,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-quilt-that-wouldnt-stay-still",
+    "timestamp": "2026-09-16T11:07:05+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 11080,
+    "bytes": 16372759,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-seeds-that-sang",
+    "timestamp": "2026-09-16T11:08:14+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10375,
+    "bytes": 15825232,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-song-the-kingdom-forgot",
+    "timestamp": "2026-09-16T11:09:25+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10636,
+    "bytes": 16094816,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-village-of-the-friendly-longboats",
+    "timestamp": "2026-09-16T11:10:33+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10754,
+    "bytes": 15497970,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-wandering-wagon",
+    "timestamp": "2026-09-16T11:11:40+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10208,
+    "bytes": 15413960,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-whispering-woods",
+    "timestamp": "2026-09-16T11:12:47+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 10867,
+    "bytes": 16052602,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-river-that-changed-its-mind",
+    "timestamp": "2026-09-16T15:30:44+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 5341,
+    "bytes": 7445986,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "story": "the-dragons-bad-day",
+    "timestamp": "2026-09-16T15:31:10+00:00",
+    "providers": [
+      "elevenlabs"
+    ],
+    "voices": {
+      "elevenlabs": "jv41DhCf464zw0TI7I1w"
+    },
+    "chars": 4591,
+    "bytes": 6732948,
+    "elevenlabs_settings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.3,
+      "speed": 0.85,
+      "use_speaker_boost": true
+    }
   }
 ]

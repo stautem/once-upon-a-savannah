@@ -10,9 +10,9 @@ Once upon a time, in a green and gentle kingdom where the trees grew tall and th
 
 Princess Savannah had a best friend, and her best friend was a dragon.
 
-The dragon's name was Luna. She was big and black-scaled and beautiful, with wings like velvet and a tail that swished through the tall grass wherever she went. She was brave and smart and cuddly and very, very loud — and she went everywhere Savannah went. That was not a suggestion. That was the rule.
+The dragon's name was Luna. She was big and black-scaled and beautiful, with wings like velvet and a tail that swished through the tall grass wherever she went. And she went everywhere Savannah went. That was not a suggestion. That was the rule.
 
-Every evening, when the sky turned gold and the air turned soft, Savannah and Luna walked along the forest edge. It was their favorite time. The world was quiet, the light was warm, and the trees whispered gently to each other the way old friends do.
+Every evening, when the sky turned gold and the air turned soft, Savannah and Luna walked along the forest edge. It was their favorite time. The world was quiet, the light was warm, and the trees whispered gently to each other.
 
 They were never alone on their walks. Bramble the Bat came too, fluttering silently overhead, her bright little ears turning this way and that, listening to everything the forest had to say. And Thistle the Rabbit came bouncing along beside them, because Thistle came bouncing along beside everything.
 
@@ -36,7 +36,7 @@ There, between two old oaks, a path opened into the forest. A path that had not 
 
 And along the path, floating in the air like golden bubbles, were lanterns.
 
-Small lanterns. Warm lanterns. They hung at the height of Savannah's eyes, glowing softly, golden as honey, each one no bigger than her fist. They drifted in a long, gentle line, curving away into the trees and out of sight.
+Small lanterns. Warm lanterns. They hung at the height of Savannah's eyes, glowing softly, each one no bigger than her fist. They drifted in a long, gentle line, curving away into the trees and out of sight.
 
 Luna tilted her head. Her black scales caught the golden light.
 
@@ -60,7 +60,7 @@ The path was soft with moss and pine needles, and it curved through the trees li
 
 And here was the strange thing.
 
-As Savannah walked toward a lantern, it glowed brighter. Warmer. As if it were happy to see her. But when she passed it and looked back, the lantern behind her dimmed — gently, slowly, like a candle being turned down low.
+As Savannah walked toward a lantern, it glowed brighter. Warmer. As if it were happy to see her. But when she passed it and looked back, the lantern behind her dimmed, gently and slowly.
 
 The light was always ahead. Always guiding them forward.
 
@@ -78,19 +78,19 @@ Bramble flew ahead to scout, clicking softly. The little sounds bounced off the 
 
 They walked deeper.
 
-The trees grew taller. The sky above became a narrow ribbon of purple and dark blue, threaded between the branches. The lanterns were the brightest things in the world now, glowing like drops of sunlight caught in jars.
+The trees grew taller. The sky above became a narrow ribbon of purple and dark blue, threaded between the branches. The lanterns were the brightest things in the world now, warm and steady in the dark.
 
-Thistle bounded through a cluster of them and laughed as golden sparks drifted off like tiny fireworks. They settled in his fur and twinkled there, making him look like a rabbit made of stars.
+Thistle bounded through a cluster of them and laughed as golden sparks drifted off. They settled in his fur and twinkled there, making him look like a rabbit made of stars.
 
 "Look at me!" he cried. "I'm sparkling! I've never sparkled before!"
 
 "You've always been a little sparkly," said Bramble, and Thistle beamed.
 
-Luna paused beside a lantern that hung low over the path. She leaned close and breathed on it — just a soft, warm breath, the kind she used when she was being gentle.
+Luna paused beside a lantern that hung low over the path. She leaned close and breathed on it — just a soft, warm breath.
 
 The lantern hummed.
 
-A single, clear note. Sweet and round, like a bell made of honey.
+A single, clear note. Sweet and round.
 
 Luna's eyes went wide. She hurried to the next lantern and breathed on it.
 
@@ -100,7 +100,7 @@ She breathed on the next.
 
 Lower. Deeper. Warm as a hug.
 
-Luna looked at Savannah. Then she turned and walked down the path, breathing softly on every lantern she passed. And each one sang its note — and the notes began to layer, one on top of the other, building into a melody that floated through the trees like a lullaby the forest had always known but never sung out loud.
+Luna looked at Savannah. Then she turned and walked down the path, breathing softly on every lantern she passed. And each one sang its note, and the notes began to layer, one on top of the other. They built into a melody that floated through the trees like a lullaby the forest had always known but never sung out loud.
 
 "Luna," Savannah whispered. "You're making them sing."
 
@@ -122,7 +122,7 @@ Bramble swooped down and hovered beside a lantern, her ears twitching.
 
 "They're alive," said Bramble. "I can hear their wings."
 
-Savannah cupped her hands around the nearest lantern, very gently, the way you hold something precious. Through the warm glow, she could see them — tiny creatures with soft wings and bodies that shone like embers. Three of them, maybe four, flying in a tight little cluster, their light blending together into one golden glow.
+Savannah cupped her hands around the nearest lantern, very gently. Through the warm glow, she could see them — tiny creatures with soft wings and bodies that shone like embers. Three of them, maybe four, flying in a tight little cluster, their light blending together into one golden glow.
 
 "They're not lanterns," said Savannah. "They're fireflies."
 
@@ -144,7 +144,7 @@ It was the most beautiful thing Savannah had ever seen.
 
 The fireflies answered.
 
-They drifted toward her — a dozen of them, then two dozen, then more — and they swirled around her in a slow, warm spiral. They blinked in a pattern. A rhythm. Like a heartbeat. Like a hello.
+They drifted toward her — a dozen of them, then two dozen, then more — and they swirled around her in a slow, warm spiral. They blinked in a pattern. A rhythm. Like a hello.
 
 And Savannah understood.
 
@@ -155,10 +155,6 @@ The fireflies blinked brighter.
 "You lit the trail for me. You wanted me to come."
 
 Brighter still. The whole clearing pulsed with warm light, and it felt like a smile.
-
-There was nothing to fix. Nothing to solve. Nothing to save. The fireflies had simply seen a princess who walked by their forest every evening, and they had decided she belonged at their gathering.
-
-It was an invitation. And Savannah accepted it.
 
 "Thank you," she said.
 
@@ -176,9 +172,9 @@ And Luna — Luna lay down beside her, stretching out her great black wings, and
 
 One at a time, then ten at a time, then more than anyone could count.
 
-They landed on her wings. They settled along her back. They dotted her tail and lined her neck and nestled in the curves of her ears. They covered her black scales in points of golden light until Luna looked like a piece of the night sky — a dragon-shaped constellation, glowing and glittering and absolutely magnificent.
+They landed on her wings. They settled along her back. They dotted her tail and lined her neck and nestled in the curves of her ears. They covered her black scales in points of golden light until Luna looked like a dragon-shaped constellation, glowing and glittering and absolutely magnificent.
 
-Luna did not move. She held very, very still — which, for Luna, was remarkable. She knew something wonderful was happening, and for once in her life, she had no opinions about it. She just let it be.
+Luna did not move. She held very, very still — which, for Luna, was remarkable. For once in her life, she had no opinions at all.
 
 "You look beautiful," Savannah told her.
 
@@ -221,7 +217,5 @@ But now, at the tree line, one small light waited for them.
 Just one. Blinking softly. Blinking hello.
 
 And Savannah always stopped, and smiled, and blinked back.
-
-Because some invitations last forever. And some friendships start with a single light in the dark, saying: *We see you. We're glad you're here. Come and glow with us.*
 
 And they all lived happily ever after.

@@ -34,7 +34,7 @@ Her beautiful black scales had gone dull and ashy — like charcoal left out in 
 
 Luna let out a bark so loud it rattled the window. She shook herself from nose to tail, as if she could shake the gray right off. She could not.
 
-Luna had opinions about many things, and "gray" was not one she approved of.
+Luna had opinions about many things, and she did not approve of gray.
 
 "I know," said Savannah, kneeling beside her. "I know. We'll fix it."
 
@@ -56,11 +56,11 @@ At the tree line, they found Clover.
 
 Clover the Deer was standing very still among the gray trees. Her coat, usually the warm brown of autumn leaves, had turned silver.
 
-Clover didn't say much. She never did. But she fell into step beside Savannah — quiet and steady, the way Clover always was.
+Clover didn't say much. She never did. But she fell into step beside Savannah, quiet and steady.
 
 So the three of them walked together. Savannah in front, Luna sniffing and sneezing beside her, and Clover stepping softly behind.
 
-The forest was strange without color. The shadows were pale. The moss was gray. Even the songbirds sounded quieter, as if they weren't sure what to sing about when everything looked the same.
+The forest was strange without color. The shadows were pale. The moss was gray. Even the songbirds sounded quieter.
 
 But the trail kept going, and the farther they walked, the brighter it got. More drops. Closer together. Richer colors. Whatever had taken them was leaving them behind, little by little, like a cup that was too full.
 
@@ -94,11 +94,11 @@ They stood at the edge of a mossy hollow beneath a great old oak tree. The moss 
 
 But she was blazing.
 
-Every missing color was swirling across her tiny body — pinks and golds and blues and greens and sunset oranges, shifting and rippling like light on water. She looked like a living sunrise.
+Every missing color was swirling across her tiny body — pinks and golds and blues and greens and sunset oranges, shifting and rippling. She looked like a living sunrise.
 
 And she was trembling.
 
-When she saw Savannah, she squeezed herself tighter, and the colors pulsed brighter, as if they were trying to burst out of her all at once.
+When she saw Savannah, she squeezed herself tighter, and the colors pulsed brighter.
 
 Savannah knelt down, slowly.
 
@@ -108,7 +108,7 @@ Luna leaned in and sniffed loudly. The chameleon flinched.
 
 "Easy, Luna," Savannah murmured.
 
-This was Petal. She was a chameleon who changed color with her feelings. She had been so afraid of being seen. So afraid of being noticed. She had curled up tight and tried to disappear. But the harder she tried to hide, the more color she pulled in.
+This was Petal. She was a chameleon who changed color with her feelings. She had been so afraid of being seen that she had curled up tight and tried to disappear. But the harder she tried to hide, the more color she pulled in.
 
 She hadn't meant to. She was just scared.
 
@@ -126,7 +126,7 @@ Petal blinked. No one had ever said that before.
 
 Luna flopped down on the moss with a great big huff and nuzzled Petal with her big scaly nose. It was Luna's way of saying: *You're fine. Stop worrying.*
 
-Clover lay down nearby, calm and patient, just being there the way Clover always was.
+Clover lay down nearby in the moss, close enough to touch.
 
 "I bet you didn't mean to take those colors," said Savannah. "I bet you were just trying to be quiet. To be small. To not bother anyone."
 
@@ -152,13 +152,13 @@ They drifted off like dandelion seeds.
 
 Pink floated up, and the sky blushed. Gold settled down, and the sunlight warmed. Green drifted low, and the grass woke up. Blue slipped away, and the river sparkled.
 
-One by one, the colors returned to where they belonged. Not because anyone forced them. But because Petal wasn't trying to hide anymore.
+One by one, the colors returned to where they belonged.
 
-She sat in Savannah's palm, still colorful — but gently now. A soft rose. A quiet violet. The palest, happiest green. Her own colors. The colors she was always meant to have.
+She sat in Savannah's palm, still colorful — but gently now. A soft rose. A quiet violet. The palest, happiest green. Her own colors.
 
 "There you are," Savannah whispered. "There's the real you."
 
-They walked back through the forest, and the world bloomed around them with every step. The trees turned green. The wildflowers lit up in reds and yellows and purples. The songbirds started up again, bright and loud, as if they'd been waiting for permission.
+They walked back through the forest, and the world bloomed around them with every step. The trees turned green. The wildflowers lit up in reds and yellows and purples. The songbirds started up again, bright and loud.
 
 Luna pranced ahead, her scales black and gleaming again. She held her head very high. She was extremely pleased.
 
@@ -194,6 +194,6 @@ And she painted the sunrise.
 
 She painted the pinks and the golds and the blues. She painted the green meadow and the dark, shining dragon and the deer standing quietly at the edge. And right in the middle, she painted a tiny, bright chameleon, no bigger than a thumbprint, glowing with every color in the world.
 
-And Petal — the smallest, shyest creature in the whole kingdom — never disappeared again. She didn't need to. She had friends now. And that was more than enough.
+And Petal — the smallest, shyest creature in the whole kingdom — never disappeared again.
 
 And they all lived happily ever after.

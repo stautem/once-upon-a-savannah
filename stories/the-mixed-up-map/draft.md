@@ -10,19 +10,19 @@ Once upon a time, on a lazy golden afternoon in a kingdom of rolling green hills
 
 And she was very good at it.
 
-She sat on the front steps of Big Al's cottage with her legs stretched out and her chin in her hands, watching a cloud that looked a little bit like a turtle and a little bit like a hat. Luna the Dragon lay beside her, black scales warm in the sun, her long tail draped over the bottom step like a scaly blanket.
+She sat on the front steps of Big Al's cottage with her legs stretched out and her chin in her hands. Above her drifted a cloud that looked a little bit like a turtle and a little bit like a hat. Luna the Dragon lay beside her, black scales warm in the sun, her long tail draped over the bottom step like a scaly blanket.
 
 They had already chased butterflies that morning. They had already splashed in the creek. They had already rolled down the big hill behind the garden twice, and Luna had rolled down it a third time just to make sure it was still fun. (It was.)
 
 Now there was nothing left to do but lie there and listen to the afternoon hum.
 
-Luna sighed. It was a very big sigh, the kind only a dragon can make — the kind that ruffles the daisies and lets everyone within a mile know that she is bored and someone should really do something about it. She flopped to her left side. She flopped to her right side. She sighed again, even louder.
+Luna sighed. It was a very big sigh, big enough to ruffle the daisies. She flopped to her left side. She flopped to her right side. She sighed again, even louder.
 
 "I know, Luna," said Savannah. "I know."
 
 From inside the cottage came a thump. Then a clatter. Then Big Al's deep voice saying, "Well, I'll be."
 
-Then the front door swung open, and Big Al filled the doorway the way he always did — broad as an old oak, arms like branches, a grin spreading across his face like sunrise.
+Then the front door swung open, and Big Al filled the doorway, broad as an old oak, grinning from ear to ear.
 
 In his hand, he held a piece of old parchment. Yellowed and curled at the edges, with a bit of a drawing on one side and some faded writing on the other.
 
@@ -40,9 +40,7 @@ Luna was on her feet so fast the daisies didn't know what hit them.
 
 Big Al scratched his chin. "My memory's gotten a little fuzzy. I remember a hollow oak, the old stone bridge, and the bell tower. But I can't quite recall where in each spot I tucked the pieces away." He winked. "What I do remember is that each piece has a little riddle on it. Solve the riddle, and it'll point you to the next piece."
 
-Savannah was on her feet before he even finished the sentence.
-
-Luna was already at the garden gate, tail swishing, letting out a low, bossy rumble that clearly meant *we are going NOW and I will not be taking questions at this time.*
+Luna was already at the garden gate, tail swishing, rumbling low and bossy and stamping one big foot.
 
 Big Al laughed. "You'll want to find Rascal and Bramble," he said. "Rascal's clever paws are good for finding hidden things, and Bramble's sharp eyes can scout in the darkest places."
 
@@ -50,7 +48,7 @@ So Savannah rounded up her crew.
 
 Rascal the Raccoon was down by the creek, rearranging pebbles for reasons only Rascal understood. When he heard about the treasure map, his little masked face lit up. "Hidden things? That's my whole thing. Let's go!"
 
-Bramble the Bat was hanging upside down in a birch tree, thinking. She was always thinking. When she heard the plan, she unfolded her dark wings and nodded once. "I'm ready." She was already thinking three steps ahead.
+Bramble the Bat was hanging upside down in a birch tree, thinking. She was always thinking. When she heard the plan, she unfolded her dark wings and nodded once. "I'm ready."
 
 Big Al handed Savannah the first piece of the map. On the back, in faded ink, was a riddle:
 
@@ -69,11 +67,11 @@ They searched the base. They searched the roots. They peered into the hollow and
 
 "Look up where my arms divide," Bramble repeated, tilting her head toward the high branches. Way up above, where the trunk split into two mighty limbs, there was a dark crook wedged tight with bark and shadow.
 
-"I see it!" said Rascal. And before anyone could say another word, he was climbing — quick as a blink, nimble as you please, paws gripping bark, tail streaming behind him. He reached the crook where the branches split, dug his clever paws under a knot of bark, and pulled out a rolled-up piece of parchment.
+"I see it!" said Rascal. And before anyone could say another word, he was climbing — quick as a blink, paws gripping bark, tail streaming behind him. He reached the crook where the branches split, dug his clever paws under a knot of bark, and pulled out a rolled-up piece of parchment.
 
 "Got it!" he called down.
 
-Then he took a little bow from the branch, because he was Rascal, and Rascal always took a bow.
+Then he took a little bow from the branch, because he was Rascal.
 
 Savannah unrolled the second piece. On the back was another riddle:
 
@@ -104,7 +102,7 @@ This did two things. First, it blocked all the light. Second, it got her horns s
 
 "MMRRPH," said Luna, louder and with great dignity.
 
-It took all of them — Savannah pulling, Rascal pushing, Bramble giving very calm directions — to wiggle Luna free. When her head popped out, she snorted once and sat down with the very specific posture of a dragon who had absolutely meant to do that.
+It took all of them — Savannah pulling, Rascal pushing, Bramble giving very calm directions — to wiggle Luna free. When her head popped out, she snorted, shook the moss off her horns, and sat down very straight.
 
 "Very helpful, Luna," said Rascal, grinning. Luna gave him a look that could have curdled milk.
 
@@ -117,7 +115,7 @@ But Bramble had the third piece, and that was what mattered. Savannah unrolled i
 
 "The bell tower," said Bramble.
 
-They followed the path out of the woods and across the meadow to the village, where the bell tower stood tall against the sky — stone at the bottom, wood at the top, with a winding staircase inside that spiraled up and up and up.
+They followed the path out of the woods and across the meadow to the village, where the bell tower stood tall against the sky. Stone at the bottom, wood at the top, with a winding staircase inside that spiraled up and up and up.
 
 They climbed together. Luna barely fit, her wings folded tight, her tail bumping every other step, but she was not about to be left at the bottom. She was a dragon, and dragons do not wait outside.
 
@@ -157,7 +155,7 @@ He sat down and patted the spot beside him. Savannah sat next to him and looked 
 
 "This is the best treasure I've ever found," she said.
 
-Big Al put his arm around her. "The real adventure," he said, "was watching you find it."
+Big Al put his arm around her.
 
 One by one, they settled in. The sky turned from pink to deep, deep blue, and the stars came out — slowly at first, then more and more, like someone was lighting tiny candles across the whole sky.
 
@@ -167,13 +165,11 @@ Rascal curled up on the blanket and pointed at the stars. "That one looks like a
 
 Bramble, who knew the night sky better than anyone, named the constellations in her quiet voice. "The Great Wing. The Silver River. The Fox's Tail." She said each name like it was a secret she was sharing.
 
-Luna stretched herself out long across the blanket, warm as a furnace, her black scales soaking up the starlight. One by one, everyone leaned against her — Rascal tucked against her side, Bramble nestled near her wing, Savannah resting against her warm belly. Luna was the world's best dragon-shaped couch, and she knew it, and she was not even a little bit humble about it. She let out a low, rumbly purr that vibrated through the whole blanket.
+Luna stretched herself out long across the blanket, warm as a furnace, her black scales soaking up the starlight. One by one, everyone leaned against her — Rascal tucked against her side, Bramble nestled near her wing, Savannah resting against her warm belly. Luna was the world's best dragon-shaped couch, and she knew it. She let out a low, rumbly purr that vibrated through the whole blanket.
 
 Rascal's eyes were already half-closed. Bramble spread her wings once, softly, then tucked them in. Luna hummed her deep dragon-hum, steady as a heartbeat.
 
 Savannah leaned against Big Al's arm and watched one bright star wink at her from the very top of the sky.
-
-The treasure wasn't gold. It wasn't gems. It wasn't anything you could put in a chest or lock away. It was this — all of them, together, on the best hill in the kingdom, watching the stars come out.
 
 And if you ever find that hill on a clear night, they say you can still see them there — a princess, a dragon, a raccoon, a bat, and a big, strong man with a warm heart — all together under the wide, bright sky.
 

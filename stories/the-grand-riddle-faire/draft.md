@@ -52,7 +52,7 @@ Bramford the Badger.
 
 He was tall and serious, with silver-streaked fur. He'd won the Grand Riddle Faire three years running, and he walked through the Great Green like the whole thing belonged to him.
 
-"A bit young for this, aren't you?" he said, not unkindly — but not kindly, either.
+"A bit young for this, aren't you?" he said, and walked on without waiting for an answer.
 
 Luna growled. A low, rumbling growl that made the chalkboard rattle.
 
@@ -60,13 +60,13 @@ Luna growled. A low, rumbling growl that made the chalkboard rattle.
 
 Finnegan leaned over and whispered, "Bramford's not mean, exactly. He's just so focused on winning that he's forgotten how to have fun."
 
-Mossy nodded slowly. "Being nervous just means you care about something. That's not a bad thing."
+Mossy nodded slowly.
 
-Savannah took a deep breath. She wasn't entering because she needed to win. She was entering because riddles were fun, and she wanted to see how far she could go.
+Savannah took a deep breath. She wasn't entering to win. She just wanted to see how far she could go.
 
 Just then, Wilma appeared at the edge of the Faire.
 
-She moved the way she always did — unhurried, elegant, as if the whole world had agreed to wait for her.
+She moved slowly and gracefully, as if the whole world had agreed to wait for her.
 
 She knelt beside Savannah and said, quietly: "The best puzzle-solvers aren't the fastest, dear. They're the ones who look at things from more than one side."
 
@@ -150,8 +150,6 @@ Bramford was already at his handles, pulling hard, trying to force the stone to 
 
 Savannah could have stayed on her side. She could have waited for him to fail.
 
-But that wasn't how the puzzle worked. And it wasn't who she was.
-
 She walked across the room.
 
 "I think we're supposed to do this together," she said.
@@ -184,11 +182,11 @@ Click.
 
 Click.
 
-Slowly, the two halves of the circle moved toward each other, symbols lining up like pieces of a song finding their melody.
+Slowly, the two halves of the circle moved toward each other, and the symbols lined up one by one.
 
 Click.
 
-And when the last piece locked into place, the tower filled with warm golden light — soft and steady, like sunrise, like coming home.
+And when the last piece locked into place, the tower filled with warm golden light, soft and steady as sunrise.
 
 The circle opened to reveal a small wooden chest, old and beautiful. Savannah lifted the lid.
 
@@ -196,13 +194,9 @@ Inside were two silver pins.
 
 Each one was shaped like half of a puzzle piece, and when you held them side by side, they fit together perfectly.
 
-There was never meant to be one winner. The riddle's answer, all along, was partnership.
-
 Savannah held out one pin to Bramford. He took it. And for the first time all day, he smiled — a real smile, warm and wide.
 
-"Thank you," he said quietly. "I forgot that puzzles are supposed to be fun."
-
-"They're the most fun," said Savannah, "when you have someone to solve them with."
+"Thank you," he said quietly. "Three years I've been up here on my own."
 
 They walked out of the Riddle Tower together, side by side, each wearing a silver pin that caught the afternoon light. And when the crowd saw them — both of them, together — they erupted.
 
@@ -214,17 +208,17 @@ Finnegan pushed through the crowd, tail high. "I knew it!" he announced. "I knew
 
 "That was ALSO a valid answer."
 
-Mossy blinked slowly. "Some things," he said, in his calm, steady way, "are worth being slow about."
+Mossy blinked slowly, and said nothing at all.
 
 Luna didn't wait for the crowd to clear. She barreled through them like a black-scaled boulder, knocked Savannah clean off her feet, and tackled her into the grass in a hug so big and so enthusiastic that they rolled three full times before stopping.
 
-"You did it! You did it! You did it!" Luna roared, her tail thumping the ground like a drum.
+"You did it! You did it! You did it!" Luna roared, her tail thumping the ground.
 
 "WE did it," Savannah laughed, grass in her hair and the silver pin still shining on her chest.
 
-From the edge of the crowd, Wilma caught Savannah's eye and gave a small, knowing nod — the kind that said *I knew you would* and *I'm so proud*, all without a single word.
+From the edge of the crowd, Wilma caught Savannah's eye and gave a small, knowing nod.
 
-The Faire went on into the evening. Lanterns glowed like earthbound stars. Friends shared riddles just for the joy of it — not to win, not to prove anything, just because riddles were fun and sharing them was better.
+The Faire went on into the evening. Lanterns glowed like earthbound stars. Friends traded riddles back and forth across the long tables, and the Great Green hummed with guessing.
 
 Bramford stayed the whole night. He laughed at Finnegan's jokes. He let Luna knock him over once, which Luna considered a great honor.
 

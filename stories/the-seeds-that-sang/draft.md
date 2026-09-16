@@ -8,7 +8,7 @@
 
 Once upon a time, on a bright spring morning when the world smelled like warm dirt and new things growing, Princess Savannah went to visit Wilma in her garden.
 
-Wilma was kneeling beside a wooden table covered in clay pots and trowels and bundles of dried herbs. Her silver hair was swept up with a ribbon, and her hands were gentle and sure, the way they always were — whether she was planting seeds, pouring tea, or brushing the tangles from Savannah's hair.
+Wilma was kneeling beside a wooden table covered in clay pots and trowels and bundles of dried herbs. Her silver hair was swept up with a ribbon, and her hands were gentle and sure — whether she was planting seeds, pouring tea, or brushing the tangles from Savannah's hair.
 
 "I have something for you," said Wilma.
 
@@ -62,7 +62,7 @@ Savannah sat on the garden wall and thought.
 
 "They're in the wrong order," she said. "The notes don't match because the flowers aren't in the right places. If I move them around, maybe the song will come together."
 
-Luna tilted her head. She had opinions about this. She always had opinions.
+Luna tilted her head. She had opinions about this.
 
 "I need help," said Savannah.
 
@@ -76,7 +76,7 @@ She found Cora the Crow on the highest branch of the oak tree, preening her glos
 
 "Cora," called Savannah, "can you listen from up high? Maybe the song sounds different from the sky."
 
-Cora puffed up with delight. "You need an aerial report? A bird's-ear view? A sky-level sound assessment?" She spread her wings dramatically. "I am *exactly* the crow for the job."
+Cora puffed up with delight. "You need an aerial report? A bird's-ear view?" She spread her wings dramatically. "I am *exactly* the crow for the job."
 
 And so they began.
 
@@ -114,7 +114,7 @@ Savannah replanted the others around it — red, orange, gold, green, blue, viol
 
 The flowers hummed.
 
-*Much* better. The gold flower in the center held the melody together like a warm hand holding a thread. The colors on either side rose and fell around it, and for a moment — just a moment — it almost sounded like a song.
+*Much* better. The gold flower in the center held the melody together. The colors on either side rose and fell around it, and for a moment — just a moment — it almost sounded like a song.
 
 But then it slipped. A gap in the melody, a place where the notes reached for something that wasn't there. The music stumbled, like a sentence missing a word.
 
@@ -122,7 +122,7 @@ The flowers drooped again. Not much. But enough.
 
 "So close," said Savannah. "There's something missing."
 
-Luna growled at the dirt, as though she could scold the answer out of the ground.
+Luna growled at the dirt and dug one more small, hopeful hole.
 
 ---
 
@@ -172,7 +172,7 @@ Just long enough.
 
 And then the green flower picked it up, and the blue, and the violet, and the song came all the way around again, and this time — this time — it was perfect.
 
-A melody. A real one. Soft and sweet and clear, rising and falling like a lullaby, with just enough quiet in the middle to make every note shine.
+A melody. A real one. Soft and sweet and clear, rising and falling, with just enough quiet in the middle to make every note shine.
 
 Savannah sat very still and listened.
 
@@ -184,13 +184,13 @@ Luna lay down right next to the flowers, pressed her chin to the ground, and let
 
 Wilma put her arm around Savannah's shoulders.
 
-"You found it," she said. "The song was always there. It just needed someone patient enough to listen for what was missing."
+"You found it," she said, and she kissed the top of Savannah's head.
 
 ---
 
 The singing garden bloomed every evening after that.
 
-As the sun went down and the sky turned gold and pink and soft, the flowers would open their petals and begin to hum. The melody would rise from the garden — red, orange, yellow, gold, *pause*, green, blue, violet — and drift across the meadow like a lullaby carried on the breeze.
+As the sun went down and the sky turned gold and pink and soft, the flowers would open their petals and begin to hum. The melody would rise from the garden — red, orange, yellow, gold, *pause*, green, blue, violet — and drift across the meadow on the evening breeze.
 
 Digby could hear it underground, and it made his tunnels feel warm.
 
@@ -198,7 +198,7 @@ Cora could hear it from the treetops, and she told everyone in the forest about 
 
 Luna slept beside the garden every evening, curled in a great black circle around the flowers like a scaly, snoring fence. She had decided the garden was hers to protect, and that was not up for discussion.
 
-And Savannah would sit on the garden wall with Wilma as the last light faded, listening to the flowers sing their little song — the one that only worked because of the quiet note in the middle. The one that proved that sometimes, the most important part of a melody is the place where it takes a breath.
+And Savannah would sit on the garden wall with Wilma as the last light faded, listening to the flowers sing their little song.
 
 The white flower never made a sound. But every evening, it glowed just a little brighter than the rest.
 

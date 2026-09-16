@@ -20,7 +20,7 @@ This year, she had a plan.
 
 She was going to make the most perfect lantern anyone had ever seen.
 
-She sat at a long wooden table in the village square with jars of paint lined up in a row, sheets of colored tissue paper stacked just so, pots of glue, and three big bowls of glitter — silver, gold, and blue.
+She sat at a long wooden table in the village square. There were jars of paint lined up in a row, sheets of colored tissue paper stacked just so, pots of glue, and three big bowls of glitter — silver, gold, and blue.
 
 Finnegan the Fox sat across from her, carefully cutting perfect star shapes out of yellow paper. He was very proud of his scissors work. "Look at this one," he said, holding up a star. "Five points. Not a wobble in sight."
 
@@ -38,7 +38,7 @@ Families worked side by side at the long tables, chatting and laughing and getti
 
 And that was when Luna arrived.
 
-Luna was a dragon — a big, black-scaled, bright-eyed dragon with a long swishy tail and a nose that was always poking into things. She was brave and smart and cuddly and loud, and she loved Savannah more than anything in the whole wide world.
+Luna was a dragon — a big, black-scaled, bright-eyed dragon with a long swishy tail and a nose that was always poking into things. She had smelled the glue pots from three streets away.
 
 And right now, she wanted to help. She wanted to help *so much.*
 
@@ -70,7 +70,7 @@ Luna sniffed.
 
 And then Luna sneezed.
 
-It was an enormous sneeze. A great, big, thundering dragon-sneeze that shook the table and rattled the jars and sent glitter flying everywhere — silver and gold and blue — into Savannah's hair, across Finnegan's perfect star shapes, over Hazel's feathers, and all across the village square like a sparkling snowstorm.
+It was an enormous sneeze. A great, big, thundering dragon-sneeze that shook the table and rattled the jars and sent glitter flying everywhere — silver and gold and blue. It went into Savannah's hair, across Finnegan's perfect star shapes, over Hazel's feathers, and all across the village square like a sparkling snowstorm.
 
 Finnegan blinked. He was covered in glitter from nose to tail. "Well," he said. "That happened."
 
@@ -96,17 +96,15 @@ Other families walked past, carrying their beautiful lanterns — tall ones and 
 
 Finnegan sat down beside her.
 
-"It's got character, Savannah," he said. "That's better than perfect."
+"Mine's covered in glitter now too," he said. "We match."
 
-Hazel floated down from the sky and landed softly on a nearby rock. "The lake doesn't judge lanterns," she said. "It just holds them."
+Hazel floated down from the sky and landed softly on a nearby rock. "Do you think the lake will remember this one?" she asked.
 
 They were kind. They were good friends. But Savannah still felt the gap between what she had imagined and what she held in her hands.
 
 Then she looked up.
 
 Luna was sitting a little way off, by herself, at the edge of the grass. Her head was low. Her tail was still. She wasn't bouncing or sniffing or nudging anything. She was just sitting there, quiet and small — which was not like Luna at all.
-
-Luna could tell Savannah was disappointed. And now Luna felt bad, too.
 
 That was the thing that made Savannah stand up.
 
@@ -122,7 +120,7 @@ Luna's tail gave one slow wag. Then a faster one. Then she was up and trotting o
 
 "It's just a lantern," Savannah whispered, hugging her tight. "You're more important than any lantern."
 
-Luna rumbled softly — the sound she made when she was happy and close and exactly where she wanted to be.
+Luna rumbled softly.
 
 ---
 
@@ -144,15 +142,13 @@ They reached the water's edge and found their place among the other families. Th
 
 And there, standing tall and lovely by the water, was Wilma.
 
-Wilma was one of the kingdom's elders — elegant and beautiful, with kind eyes that saw everything. Her own lantern was simple and graceful, like she was.
+Wilma was one of the kingdom's elders — elegant and beautiful, with kind eyes that saw everything. Her own lantern was simple and graceful.
 
-She saw Savannah coming and smiled. She knelt beside her and looked at the messy lantern without a single word of criticism.
+She saw Savannah coming and smiled. She knelt beside her and looked at the messy lantern for a long, quiet moment.
 
 She ran a gentle hand over the crinkled paper, the smeared paint, the glitter that was everywhere, catching the last of the sunset light.
 
-"This one," said Wilma, "was made with a lot of love." She looked at Savannah with those warm, knowing eyes. "You can always tell."
-
-She helped Savannah set a small candle inside the lantern and showed her how to ease it out onto the water — gently, gently, like setting a baby bird on a branch.
+Then she helped Savannah set a small candle inside the lantern and showed her how to ease it out onto the water — gently, gently, like setting a baby bird on a branch.
 
 "Go on," said Wilma. "It's ready."
 
@@ -188,11 +184,7 @@ Luna was sitting behind her, watching the glowing lantern with big, proud, shini
 
 And Savannah understood.
 
-While she wasn't looking — while she was busy fixing and smoothing and worrying — Luna had leaned in close and breathed one tiny, gentle puff of dragon-fire into the lantern. Just a whisper of flame. The smallest gift she knew how to give.
-
-Luna couldn't help with scissors. She couldn't help with paint. She couldn't keep her tail still or her nose out of the glitter.
-
-But she could give it this.
+While she wasn't looking — while she was busy fixing and smoothing and worrying — Luna had leaned in close and breathed one tiny, gentle puff of dragon-fire into the lantern. Just a whisper of flame.
 
 Savannah's eyes filled up with happy tears. She threw her arms around Luna's neck and held on tight.
 
@@ -202,7 +194,7 @@ Luna rumbled — a deep, happy, proud rumble that echoed across the water.
 
 Finnegan grinned from ear to ear. "I *knew* that lantern had something extra."
 
-Hazel nodded slowly. "The best things," she said, "are never the ones you planned."
+Hazel blinked her big calm eyes. "The lake will remember that one," she said.
 
 The other families gathered around to admire the brightest lantern on the lake, and Savannah told every one of them — "Luna made it glow."
 
@@ -222,10 +214,10 @@ Wilma came and draped a soft blanket over Savannah's shoulders. She tucked it in
 
 Savannah smiled. Luna rumbled. The lanterns floated on and on.
 
-And the brightest one — the messy, lumpy, crinkled, glitter-crusted, dragon-lit one — glowed the longest of all.
+And the dragon-lit one glowed the longest of all.
 
 And every autumn after that, when the Lantern Festival came around, Savannah never made her lantern alone. She always made it with Luna — paint spills and crinkled paper and glitter-sneezes and all.
 
 And it was always, *always* the brightest one on the lake.
 
-The end.
+And they all lived happily ever after.

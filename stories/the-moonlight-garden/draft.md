@@ -12,13 +12,13 @@ It was a good place to be.
 
 The cottage smelled like dried lavender and old books and something sweet simmering on the stove. Jars lined the shelves — jars of things that shimmered, jars of things that glowed, and one jar that hummed softly when no one was looking. Wilma stood behind Savannah, brushing her hair with long, gentle strokes.
 
-Luna was sprawled across the entire rug in front of the fireplace, taking up far more room than any dragon should. Her black scales caught the firelight, and she was snoring softly with one eye half-open, keeping watch the way she always did.
+Luna was sprawled across the entire rug in front of the fireplace, taking up far more room than any dragon should. Her black scales caught the firelight, and she was snoring softly with one eye half-open.
 
 Through the window, Savannah could see Wilma's garden — a beautiful tangle of wildflowers and climbing vines. But in one corner, near the old stone wall, there was a bare patch of dark earth where nothing grew. No flowers. No weeds. Just smooth, dark soil, waiting.
 
 "Wilma," said Savannah, "why doesn't anything grow in that corner?"
 
-Wilma's hands paused in Savannah's hair. She smiled — the slow, knowing smile she always wore when she had a story to tell.
+Wilma's hands paused in Savannah's hair. She smiled her slow, knowing smile.
 
 "Something did grow there once," said Wilma. "A long time ago."
 
@@ -40,13 +40,13 @@ But Savannah had already made up her mind.
 
 "I want to plant them," she said. "I want to see the flowers bloom. I want the kingdom to have its nightlight back."
 
-On the rug, Luna's head shot straight up. Both eyes open now. If Savannah was staying up until midnight, then Luna was staying up until midnight. That was not a discussion.
+On the rug, Luna's head shot straight up. Both eyes open now. If Savannah was staying up until midnight, then Luna was staying up until midnight.
 
 Wilma looked at Savannah for a long moment. Then she nodded and placed the velvet pouch in Savannah's hands.
 
 "You will need help," she said. "Midnight is darker than you think. Find Hazel the Owl — she knows the night better than anyone. And watch for the Fireflies. They will show you when the moonlight is right." She squeezed Savannah's hand. "I will turn the soil and wait."
 
-Savannah tucked the seeds into her pocket. Luna stood up, shook herself fully awake — loudly, knocking over a stack of books and a jar of dried rosemary — and marched to the door.
+Savannah tucked the seeds into her pocket and took the lantern down from its hook by the door. Luna stood up, shook herself fully awake — loudly, knocking over a stack of books and a jar of dried rosemary — and marched to the door.
 
 "We'll be back by midnight," said Savannah.
 
@@ -66,23 +66,23 @@ They found Hazel the Owl perched in the old oak tree at the meadow's edge, wide 
 
 "Midnight," said Hazel thoughtfully. "That is when the sky holds its breath." She ruffled her feathers and spread her wings. "Follow me."
 
-Hazel lifted off the branch without a sound and flew ahead. Savannah and Luna followed, making their way along the meadow path that curved back toward Wilma's garden. But they were not going straight there. Not yet. Midnight was still far away.
+Hazel lifted off the branch without a sound and flew ahead. Savannah and Luna followed, making their way along the meadow path that curved back toward Wilma's garden. But they were not going straight there. Midnight was still far away.
 
 The world got darker.
 
-The purple sky deepened to a blue so dark it was almost black. The trees became tall, still shapes, and the path that Savannah had walked a hundred times in daylight looked different now — wider in some places, narrower in others, full of shadows that weren't there before.
+The purple sky deepened to a blue so dark it was almost black. The trees became tall, still shapes, and the path that Savannah had walked a hundred times in daylight looked different now. Softer at the edges. Quieter.
 
-Luna pressed close against Savannah's side. Warm. Solid. She growled softly at every odd sound.
+Luna pressed close against Savannah's side. Warm. Solid. She grumbled at every little sound.
 
-A branch cracked somewhere in the woods. Luna growled.
+A branch cracked somewhere in the woods. Luna grumbled.
 
 "That is just the wind," called Hazel from above. "It does that."
 
-A frog croaked from the creek. Luna growled again, louder.
+A frog croaked from the creek. Luna grumbled again, louder.
 
 "That is just a frog," said Hazel. "He is singing to his friends."
 
-Something rustled in the tall grass. Luna's growl became a proper snarl.
+Something rustled in the tall grass. Luna stopped walking and sat down on Savannah's foot.
 
 "That," said Hazel, "is just a sleepy hedgehog. He is no trouble at all."
 
@@ -90,7 +90,7 @@ Savannah put her hand on Luna's neck. "It's okay. Hazel knows."
 
 Luna grumbled but relaxed. She stayed close, though. Very close.
 
-They walked on. The night got quieter and deeper. Savannah's lantern made a small circle of golden light around them, but beyond it, the dark stretched wide and far.
+They walked on. The night got quieter and deeper. Savannah's lantern made a small circle of golden light around them, and beyond it the meadow lay quiet and sleeping.
 
 Savannah yawned.
 
@@ -104,7 +104,7 @@ Savannah yawned again.
 
 They walked a little farther still.
 
-Savannah yawned a third time — the biggest yawn yet, the kind that makes your eyes water.
+Savannah yawned a third time — the biggest yawn yet.
 
 And then Luna yawned too.
 
@@ -126,7 +126,7 @@ They came up from the grass one by one, then by the dozen, swirling around Savan
 
 Savannah sat up straighter. She blinked in wonder.
 
-The Fireflies weren't just beautiful. They were making the dark feel friendly instead of big. Warm instead of empty.
+The Fireflies made the dark feel friendly instead of big. Warm instead of empty.
 
 "There they are," said Hazel. "The Fireflies always know when someone needs a little light."
 
@@ -138,7 +138,7 @@ Luna watched them with wide eyes. One Firefly landed right on the tip of her nos
 
 The Fireflies led them back to Wilma's garden.
 
-Wilma was there, kneeling beside the bare patch of earth. She had turned the soil so it was soft and dark and ready. She looked up at Savannah with a gentle smile that said she had never doubted, not for a moment.
+Wilma was there, kneeling beside the bare patch of earth. She had turned the soil so it was soft and dark and ready. She looked up at Savannah and smiled.
 
 Hazel settled on the garden wall, tucking her wings.
 
@@ -162,7 +162,7 @@ It was midnight.
 
 Savannah opened the pouch.
 
-The seeds inside didn't look like seeds at all. They looked like tiny silver stars — no bigger than apple seeds, but bright, cool to the touch, and humming. Savannah could feel them humming against her fingertips, a sound so small it was almost a feeling.
+The seeds inside didn't look like seeds at all. They looked like tiny silver stars — bright, cool to the touch, and humming against her fingertips. It was a sound so small it was almost a feeling.
 
 Luna sniffed them, and her eyes went wide.
 
@@ -182,13 +182,13 @@ Nothing happened.
 
 And then — a glow.
 
-Not from flowers. Not yet. From the earth itself, as though the ground was waking up after a very long sleep. Soft silver light rose from the soil like mist, and in that glow, something moved.
+Not from flowers. Not yet. From the earth itself, as though the ground was waking up after a very long sleep. Soft silver light rose from the soil, and in that glow, something moved.
 
 Thin silver stems pushed up from the earth, unfurling pale leaves that caught the moonlight and held it. At the tip of each stem, a bud formed — small and tight and shining — and then, one by one, the buds opened.
 
-Silver petals spread wide, and each bloom shone like captured moonlight. Like a nightlight left on in a hallway so you know you are safe.
+Silver petals spread wide, and each bloom shone like a nightlight left on in a hallway so you know you are safe.
 
-The garden filled with a gentle, steady glow — not bright like daylight, but soft and silver, the kind of light that lets you know someone is watching over you while you sleep.
+The garden filled with a gentle, steady glow, soft and silver, all the way to the old stone wall.
 
 Savannah stood up slowly. There was dirt on her knees and silver light on her face, and she looked around at what they had done.
 
@@ -216,11 +216,11 @@ And another.
 
 "She's playing them like bells," said Savannah, laughing softly.
 
-Hazel ruffled her feathers and said, quiet and warm, "A hundred years. And all it needed was someone willing to stay up."
+Hazel ruffled her feathers. "A hundred years," she said, quiet and warm. "And look at them now."
 
 The Fireflies drifted among the silver blooms like they had found long-lost cousins.
 
-Wilma put her arm around Savannah's shoulders. From the garden wall, they could see the glow carrying out across the meadow. Not far — but far enough. Anyone looking out their window tonight would see a soft silver shine and know that something good was growing.
+Wilma put her arm around Savannah's shoulders. From the garden wall, they could see the glow carrying out across the meadow. Anyone looking out their window tonight would see a soft silver shine and know that something good was growing.
 
 "You gave the kingdom back its nightlight," said Wilma.
 
@@ -230,9 +230,9 @@ Savannah was tired now. Wonderfully, perfectly tired — the kind of tired that 
 
 Wilma brought a soft quilt out to the garden. Savannah lay down beside the glowing flowers, and Luna curled around her like a warm, scaly wall — her chin on Savannah's ankles, her tail wrapped close, her breathing slow and steady.
 
-Hazel settled on a branch above them, keeping watch in her quiet owl way. She would be there all night. Owls always are.
+Hazel settled on a branch above them, keeping watch in her quiet owl way. She would be there all night.
 
-The Fireflies dimmed, one by one, until their glow matched the gentle pulse of the silver blooms. Bright, then soft. Bright, then soft. Like breathing. Like a lullaby made of light.
+The Fireflies dimmed, one by one, until their glow matched the gentle pulse of the silver blooms. Bright, then soft. Bright, then soft. Like breathing.
 
 Wilma tucked the quilt around Savannah's shoulders and smoothed her hair back from her face.
 
@@ -242,6 +242,6 @@ Savannah closed her eyes.
 
 The last thing she saw was soft silver light glowing through her eyelids. The last thing she felt was Luna's steady breathing beside her, warm and close. The last thing she heard was the garden, humming — quiet and silver and safe.
 
-And from that night on, the Moonlight Garden glowed in the corner of Wilma's yard. Every single night, all night long, the silver flowers opened their petals and shone — a nightlight for the whole kingdom, planted by a princess who was brave enough to stay up past bedtime, just once, to make something beautiful for everyone.
+And from that night on, the Moonlight Garden glowed in the corner of Wilma's yard. Every single night, all night long, the silver flowers opened their petals and shone — a nightlight for the whole kingdom.
 
 And they all lived happily ever after.

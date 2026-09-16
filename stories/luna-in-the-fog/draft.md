@@ -10,13 +10,13 @@ Once upon a time, in a little village at the edge of a silver lake, there lived 
 
 Princess Savannah had a best friend, and her best friend was a dragon.
 
-The dragon's name was Luna. She was big and black-scaled and shining, with wings like velvet and a tail that knocked over fence posts when she wagged it. She was brave and smart and cuddly and very, very loud.
+The dragon's name was Luna. She was big and black-scaled and shining, with wings like velvet and a tail that knocked over fence posts when she wagged it. She was brave, and she was very, very loud.
 
 Every morning, Savannah and Luna walked down to the lake together. Luna would splash in the shallows and roar at the ducks. The ducks would look at her, shake their feathers, and paddle away slowly, because ducks are not easily impressed.
 
 Every afternoon, they explored the old woods behind the village, finding mushrooms and mossy rocks and little streams that sang over the stones.
 
-And every evening, they sat together on the dock and watched the sun sink into the silver water, and Luna would rest her big dark head in Savannah's lap, and Savannah would scratch behind her ears, and Luna would purr — a deep, rumbling sound, like thunder that had decided to be gentle.
+And every evening, they sat together on the dock and watched the sun sink into the silver water, and Luna would rest her big dark head in Savannah's lap, and Savannah would scratch behind her ears, and Luna would purr — a deep, rumbling sound, like faraway thunder.
 
 It was a very good life.
 
@@ -50,19 +50,19 @@ Savannah pulled on her boots. She was going to find her.
 
 But first, she went to see Big Al.
 
-Big Al lived in a stone cottage by the old bridge, where the moss grew thick on the walls and the chimney always had smoke curling from it. He was the biggest man in the village — broad as a barn door, strong as the bridge itself. He knew things about the lake and the fog and the woods that nobody else remembered.
+Big Al lived in a stone cottage by the old bridge, where the moss grew thick on the walls and the chimney always had smoke curling from it. He was the biggest man in the village, broad as a barn door. He knew things about the lake and the fog and the woods that nobody else remembered.
 
-"A fog like this," said Big Al, leaning in his doorway and looking out at the white, "it comes and goes. Won't last forever. But Luna won't know that." He scratched his chin. "She'll be scared because she can't see you. That's the hardest kind of scared — when you can't find the person you love."
+"A fog like this," said Big Al, leaning in his doorway and looking out at the white, "it comes and goes. Won't last forever. But Luna won't know that." He scratched his chin. "She'll be scared because she can't see you."
 
 He reached inside and brought out a horn, carved from pale wood, smooth and curved like a seashell.
 
-"Blow this as you go," he said. "So she can hear you coming. Sometimes knowing someone's on their way is enough."
+"Blow this as you go," he said. "So she can hear you coming."
 
 Savannah hugged him — Big Al's hugs always made her feel like nothing in the world could go wrong — and set off into the fog.
 
 She blew the horn.
 
-It made a sound like the wind singing through a hollow tree — low, warm, and steady. It carried through the fog the way a lantern carries through the dark.
+It made a sound like the wind singing through a hollow tree — low, warm, and steady.
 
 She blew it again and walked toward the lake.
 
@@ -98,8 +98,6 @@ Ollie opened both eyes. He looked at the fog. He looked at Savannah. He looked a
 
 "I'll come," he said, very quietly. "But I'm staying close."
 
-"That's the whole point," said Savannah.
-
 So the three of them went on together — Bramble flying ahead, clicking and calling, Savannah blowing the horn, and Ollie walking so close behind Savannah that he kept stepping on her heels.
 
 "Sorry," said Ollie.
@@ -113,6 +111,8 @@ They followed Luna's roars. Through the fog, past the old dock, along the lakesh
 "That's not Luna," said Bramble, tilting her ears.
 
 "No," said Savannah. "That's something smaller."
+
+She blew the horn one more time. From just ahead, Luna answered.
 
 They came around a bend in the reeds, and there she was.
 
@@ -148,7 +148,7 @@ She knelt by the reeds at the water's edge and called out, gently: "Hello? Firef
 
 For a moment, nothing happened.
 
-Then — one by one, like tiny stars deciding to wake up — the Fireflies rose from the reeds.
+Then — one by one — the Fireflies rose from the reeds.
 
 First one. Then three. Then a dozen. Then more than Savannah could count. They lifted out of the tall grass and drifted over the water, glowing soft and gold, until the surface of the lake shimmered with a hundred little lanterns.
 

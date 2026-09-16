@@ -16,7 +16,7 @@ The Midsummer Song was the most beautiful song anyone had ever heard. It was war
 
 At least, they used to.
 
-Princess Savannah walked through the village that morning with her dragon, Luna, trotting beside her. Luna was a big, black-scaled, bright-eyed dragon with a long swishy tail and a rumble in her chest that never quite stopped. She was brave and loud and cuddly, and she went wherever Savannah went.
+Princess Savannah walked through the village that morning with her dragon, Luna, trotting beside her. Luna was a big, black-scaled, bright-eyed dragon with a long swishy tail and a rumble in her chest that never quite stopped.
 
 The village was getting ready. Garlands hung from every doorway. The great stage was draped in ribbons of gold and green. But something was wrong. People stood around looking puzzled. A woman hummed a few notes, then stopped and shook her head. A man opened his mouth to sing, then closed it again with a frown.
 
@@ -24,9 +24,9 @@ Nobody could remember the song.
 
 Savannah found Big Al standing by the stage, his big arms folded across his chest, his brow creased with thought.
 
-Big Al was one of the kingdom's elders — big and strong and burly, the kind of man who made you feel safe just by standing nearby. He knew more songs and stories than anyone. But when Savannah looked up at him, he shook his head.
+Big Al was one of the kingdom's elders — the kind of man who made you feel safe just by standing nearby. He knew more songs and stories than anyone. But when Savannah looked up at him, he shook his head.
 
-"I can remember the feeling of it," he said. "Warm. Bright. But the notes..." He pressed a hand to his chest. "They've gone. Slipped away in the night, like a dream you can't quite hold onto."
+"I can remember the feeling of it," he said. "Warm. Bright. But the notes..." He pressed a hand to his chest. "They've gone. Slipped away in the night."
 
 Big Al knelt down so he was eye to eye with her. "The Midsummer Song is made of four pieces," he said. "The melody — the part you hum. The rhythm — the heartbeat underneath. The harmony — the brightness that makes it shimmer. And the hum — the deep, steady hum that holds it all together." He held up four big fingers. "Without all four, there is no song. And the concert is at sunset."
 
@@ -40,15 +40,13 @@ Big Al smiled. "I believe you will," he said.
 
 Hazel the Owl was waiting on the fence post at the edge of the village, calm and still, as if she had been expecting them.
 
-"I heard," said Hazel. "The song is lost."
-
-Hazel blinked slowly. "When old songs are lost," she said, "they don't disappear. They settle into the places that remember sound. The hollow trees. The rivers. The singing hills. We just have to go and listen."
+"I heard," said Hazel. "The song is lost." She blinked slowly. "When old songs are lost, they don't disappear. They settle into the places that remember sound. The hollow trees. The rivers. The singing hills. We just have to go and listen."
 
 So off they went — Savannah, Luna, and Hazel — down the winding path and out into the wide, green world. Luna trotted close to Savannah's side, her chest rumbling with that low, warm hum she always made when she was happy and close to the people she loved.
 
 Their first stop was the Old Hollow.
 
-The Old Hollow was a tree so ancient and so wide that you could walk right inside it. Its roots spread across the ground like the arms of someone settling in for a long rest. Inside, the air was cool and still, and every sound echoed.
+The Old Hollow was a tree so ancient and so wide that you could walk right inside it. Its roots spread across the ground in long, slow ridges. Inside, the air was cool and still, and every sound echoed.
 
 Savannah and Luna stepped through the opening in the trunk. Hazel perched on a ridge of bark high above.
 
@@ -56,13 +54,13 @@ Savannah and Luna stepped through the opening in the trunk. Hazel perched on a r
 
 They listened. At first, nothing. Just the quiet of old wood and still air.
 
-Then — faintly — a thread of something. A few notes, soft as a whisper, caught in the rings of the ancient tree. The melody, humming inside the wood the way a seashell hums with the memory of the ocean.
+Then — faintly — a thread of something. A few notes caught in the rings of the ancient tree. The melody, humming inside the wood.
 
-Hazel tilted her head. She was very good at asking exactly the right question at exactly the right time.
+Hazel tilted her head.
 
 "Old tree," she said gently, "will you share what you've been keeping?"
 
-The tree creaked. The air shimmered. And the melody drifted out from the heartwood like a golden ribbon — soft and bright, curling through the air.
+The tree creaked. The air shimmered. And the melody drifted out from the heartwood — soft and bright, curling through the air.
 
 Savannah held out her hands, and the melody settled into them, glowing faintly, humming its little tune. Luna sniffed it and sneezed — but only a small sneeze, and the melody didn't mind.
 
@@ -110,7 +108,7 @@ Savannah knelt down. "Cricket, I think you have something we've been looking for
 
 Cricket's eyes went wide. "Is THAT what this is? I thought I was just having a very musical day!"
 
-He puffed out his tiny chest and chirped the harmony — bright and clear, like bells ringing across a meadow.
+He puffed out his tiny chest and chirped the harmony — bright and clear.
 
 The harmony leaped from his song and joined the melody and the rhythm in Savannah's hands. The three pieces wove together, and for the first time, the air began to sound like a real song — warm and bright and almost, almost whole.
 
@@ -140,7 +138,7 @@ And in the silence, they heard it. A deep, steady, warm hum. It had been there t
 
 It was coming from Luna.
 
-Luna's rumble. The deep, rolling hum she always made when she was happy and close to Savannah. She had been making it the whole journey — through the Old Hollow, by the river, up the hills. She had been carrying the fourth piece the entire time.
+Luna's rumble. The deep, rolling hum she always made when she was happy and close to Savannah. She had been making it the whole journey — through the Old Hollow, by the river, up the hills.
 
 She just didn't know it.
 
@@ -162,13 +160,13 @@ The Midsummer Song shone whole and bright, all four pieces woven together.
 
 They raced back to the village as the sun dipped toward the hills.
 
-Savannah ran through the clover and the wildflowers, the song glowing in her hands. Luna galloped beside her. Hazel flew ahead. Cricket rode on Luna's back, chirping the whole way. And Mossy — well, Mossy took his time, but he got there eventually.
+Savannah ran through the clover and the wildflowers, the song glowing in her hands. Luna galloped beside her. Cricket rode on Luna's back, chirping the whole way. And Mossy — well, Mossy took his time, but he got there eventually.
 
 The whole kingdom was gathered around the great stage, standing quietly, the song still missing. Then Savannah came running through the crowd, and Big Al saw her, and he smiled.
 
 "We found it," she said, breathless. "All of it."
 
-Big Al knelt down and cupped his big hands around hers. The melody, the rhythm, the harmony flowed back to him like water finding its way home.
+Big Al knelt down and cupped his big hands around hers. The melody, the rhythm, and the harmony flowed back to him.
 
 "And the hum?" he asked.
 
@@ -182,21 +180,21 @@ And the moment the first notes rang out, the whole kingdom remembered. Just like
 
 The melody soared. The rhythm pulsed. The harmony shimmered. And underneath it all, holding everything together, Luna hummed — deep and steady and proud.
 
-Cricket chirped from the tall grass. Mossy tapped along on his shell. Hazel swayed on her branch. And Savannah stood between them all, singing with the whole kingdom, her heart so full it felt like it might float right out of her chest.
+Cricket chirped from the tall grass. Mossy tapped along on his shell. And Savannah stood between them all, singing with the whole kingdom, her heart so full it felt like it might float right out of her chest.
 
 ---
 
 The kingdom sang together in the golden evening light until the stars came out.
 
-Savannah sat in the soft grass with Luna curled beside her, still humming. Hazel perched overhead. Mossy sat on a warm stone, content. Cricket had finally stopped singing — but only because he had fallen asleep on a clover blossom, tired out from the best musical day of his life.
+Savannah sat in the soft grass with Luna curled beside her, still humming. Hazel perched overhead. Cricket had finally stopped singing — but only because he had fallen asleep on a clover blossom, tired out from the best musical day of his life.
 
 Big Al came and sat beside Savannah. He looked up at the stars.
 
-"The song was never really lost," he said. "It was just spread out — a piece here, a piece there, carried by friends who didn't even know they were keeping it safe."
+"You brought it all the way home," he said.
 
 Savannah leaned against Luna's warm side. "And Luna had the most important piece the whole time."
 
-"The hum that holds it all together," said Big Al. He looked at Luna and smiled. "Some things you carry so close, you forget they're there. But they're the things that matter most."
+"The hum that holds it all together," said Big Al. He looked at Luna and smiled.
 
 Luna rumbled happily, loud and proud.
 
@@ -206,4 +204,4 @@ Because Luna was always humming.
 
 And the song was always there.
 
-The end.
+And they all lived happily ever after.

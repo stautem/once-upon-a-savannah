@@ -12,7 +12,7 @@ Every morning, they walked down to the shore together. The lake was calm and coo
 
 Luna liked to dig.
 
-She dug in the shallows. She dug in the mud. She sniffed every rock on the shore as if each one had a secret to tell. Sometimes she found an especially good rock and carried it around in her mouth for the rest of the morning, very pleased with herself.
+She dug in the shallows. She dug in the mud. She sniffed every rock on the shore. Sometimes she found an especially good rock and carried it around in her mouth for the rest of the morning, very pleased with herself.
 
 Their friends were always nearby.
 
@@ -30,7 +30,7 @@ Luna found it first. Of course she did.
 
 When Savannah arrived at the shore that morning, Luna was already there, knee-deep in the mud, sniffing and nudging and pawing at the ground. Hundreds of flat stone pieces lay scattered in the wet earth — all different shapes, all different sizes. They were covered in faded colors — blue and gold and black and green.
 
-Luna had already arranged a dozen of them into a little cluster, pushing them together with her nose. Her tail thumped the ground. Her eyes were wide and bright. She growled softly at the pile — not an angry growl, but a thinking growl, the kind she made when she was figuring something out.
+Luna had already arranged a dozen of them into a little cluster, pushing them together with her nose. Her tail thumped the ground. Her eyes were wide and bright. She growled softly at the pile — not an angry growl, but a thinking growl.
 
 "Luna?" said Savannah. "What did you find?"
 
@@ -44,7 +44,7 @@ The trouble was, the puzzle was enormous. There were hundreds and hundreds of pi
 
 Savannah knelt down and picked up a stone piece. It was smooth and flat, with a curve of faded blue painted on one side. She studied the cluster Luna had started, found a spot where the blue might continue, and set the piece down.
 
-Luna's head snapped around. She looked at the piece. She looked at Savannah. And she gave a deep, rumbling growl — the kind that said, very clearly: *No. Not there.*
+Luna's head snapped around. She looked at the piece. She looked at Savannah. And she gave a deep, rumbling growl that said, very clearly: *No. Not there.*
 
 She nudged the piece right back out with her nose.
 
@@ -90,9 +90,9 @@ Ollie helped too — dramatically.
 
 Then he picked up three more pieces and carried them all the way to the green without stopping.
 
-Mossy was slow, as Mossy always was. But he never dropped a single piece. He carried each one carefully, setting it down gently in the sorting area, and then turning around to go get another. Step by step. Stone by stone. That was Mossy's way.
+Mossy never dropped a single piece. He carried each one carefully, setting it down gently in the sorting area, and then turning around to go get another. Step by step. Stone by stone.
 
-And Clover appeared silently with a basket balanced on her back. She set it down at the edge of the green without a word, and disappeared to get another. Then another. Then another. She never asked for thanks. She never made a fuss. She was just there, every time they needed her, steady as the dawn.
+And Clover appeared silently with a basket balanced on her back. She set it down at the edge of the green without a word, and disappeared to get another. Then another. Then another.
 
 By afternoon, the village green looked like a giant colorful carpet. Thousands of stone pieces spread across the grass, sorted into piles — blues here, golds there, greens along the edge, blacks in the middle.
 
@@ -142,13 +142,13 @@ Everyone stepped back.
 
 And there it was.
 
-A dragon. Black scales shining with flecks of gold. Bright, knowing eyes. Wings stretched wide as if ready to fly. A face that was strong and kind at the same time — the face of someone who was brave enough to be gentle.
+A dragon. Black scales shining with flecks of gold. Bright, knowing eyes. Wings stretched wide.
 
 She looked exactly like Luna.
 
-The village was still. The evening light fell golden across the green, and the mosaic glowed as if it had been waiting all those long, buried years for this exact moment.
+The village was still. The evening light fell golden across the green, and the mosaic glowed.
 
-This picture had been made long, long ago — a monument to the very first dragon who had ever befriended the kingdom. And that dragon, painted in stone long before anyone could remember, looked just like Luna.
+This picture had been made long, long ago — a monument to the very first dragon who had ever befriended the kingdom.
 
 Luna stared at the mosaic for a long time.
 
@@ -160,11 +160,11 @@ Savannah sat down beside her. She rested her hand on Luna's neck, feeling the wa
 
 Ollie curled up against Luna's side, tucking himself in tight. Clover settled in the grass nearby, folding her legs beneath her. Mossy found a warm spot at the edge of the mosaic and pulled his head partway into his shell, content.
 
-"She knew," Mossy said quietly. "The whole time, she knew it was hers."
+"She knew," Mossy said quietly.
 
-Savannah smiled and leaned her head against Luna's shoulder. "Of course she did."
+Savannah smiled and leaned her head against Luna's shoulder.
 
-The village decided, right then and there, to keep the mosaic on the green forever. They would keep it right there on the green, where everyone could see it — the kingdom's oldest treasure, found by its newest dragon.
+The village decided, right then and there, to keep the mosaic on the green forever, where everyone could see it — the kingdom's oldest treasure, found by its newest dragon.
 
 That evening, the whole village gathered on the green under the first stars. Someone brought blankets. Someone brought tea. The fireflies came out over the lake, blinking their tiny lights like a second sky.
 
