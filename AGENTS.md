@@ -40,10 +40,15 @@ Use this shape unless a specific story needs a light variation:
 ## What Not To Do
 
 - Do not make the story scary. Problems should feel manageable rather than threatening.
-- Do not force moral lessons. Let any lesson emerge naturally.
+- Do not force moral lessons. Let any lesson emerge naturally. The takeaway may be said out loud at most once — in narration or in one character's line, never both, and never again in the closing paragraph on top of it. Zero is better than one.
 - Do not make the prose literary or complex at the expense of read-aloud rhythm.
-- Do not stack comparisons. One "like" or "as" per thing at most, and only when it is plain, concrete, and adds something. Most things need none.
-- Do not treat character bible details as required beats. They are background; the plot comes from the story.
+- Do not stack comparisons. One "like" or "as" per thing at most, and only when it is plain, concrete, and adds something. Most things need none. This includes personifying scenery or objects with "as if it had decided to..." chains — treat that as a comparison too.
+- Do not pad a sentence, or add a follow-up sentence, that only restates what was just shown — in any shape: "the way X does/is/always has," "the kind that...," or a flat sentence that just re-asserts the one before it. This includes narrating the meaning of a nonverbal cue (a growl, a tail-thump) right after showing it. Trust the scene.
+- Avoid "the kind of X that/who..." as a default descriptive frame. Fine once; a crutch at three or more.
+- Keep roll-call sequences (one line per critter/villager doing the same beat) to three, and don't repeat the same roll-call twice in one story.
+- Keep humor physical and situational, not dry narrator irony pitched over a child's head.
+- Vary how the problem resolves. Not every story needs to end with "it was here/true all along, it just needed someone to notice."
+- Do not treat character bible details as required beats. They are background; the plot comes from the story. This includes reciting a character's bible description verbatim (e.g. Luna's "brave and smart and cuddly and loud") as a scene beat.
 - Do not include food guilt, body shaming, diet talk, or any similar framing.
 - Do not include toxic messaging, shaming, put-downs played for laughs, or "not enough" undertones.
 - Do not lose sight of the purpose of the project: carrying forward the feeling of Savannah hearing bedtime stories from her grandparents.
@@ -56,7 +61,7 @@ Use [characters.md](./characters.md) as the character bible. Key recurring roles
 - Luna: black dragon, brave, cuddly, loud, based on the real dog
 - Big Al: big, strong, protective, wise elder
 - Wilma: elegant, gentle, knowing elder
-- Spencer: the prince, kind, strong, brave, learning to be worthy of Savannah
+- Spencer: a prince in the regular cast, kind, strong, steady, fond of Savannah and hasn't told her yet
 - Mom and Dad: available for future use
 - Woodland critters: flexible supporting cast
 

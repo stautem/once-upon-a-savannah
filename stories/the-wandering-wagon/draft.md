@@ -12,7 +12,7 @@ Every meadow. Every stream. Every mossy stone worth turning over -- and Savannah
 
 Her dragon, Luna, had explored it all right beside her. Luna was big and black-scaled and loud, and she liked to finish every adventure by announcing to the whole kingdom that it was finished, whether the kingdom asked or not.
 
-But lately, Savannah had started climbing the farthest hill at the edge of the kingdom -- not to explore it, because she already had, but just to stand at the top and look at the road on the other side.
+But lately, Savannah had started climbing the farthest hill at the edge of the kingdom. Not to explore it -- she already had. Just to stand at the top and look at the road on the other side.
 
 The road went on and on, over the next hill, and the next, and the next, until it was only a thin ribbon in the distance.
 
@@ -28,7 +28,7 @@ It was a wagon -- but not an ordinary wagon. It was a snug wooden wagon with a r
 
 "There she is," Big Al rumbled, in his voice like a friendly mountain.
 
-And beside him, unfolding a map that seemed to have more places on it every time she unfolded it, sat Wilma, elegant as always, smiling as if she had known exactly where Savannah would be standing.
+And beside him sat Wilma, elegant as always, smiling as if she had known exactly where Savannah would be standing. In her hands was a map that seemed to have more places on it every time she opened it.
 
 "We've come to take you on a journey," Wilma said. "The wagon comes around once in a great while -- when someone is ready."
 
@@ -56,7 +56,7 @@ Just then there was a flutter and a thump on the roof, and a glossy black head p
 
 And the lantern glowed. And the wagon rolled.
 
-Over the farthest hill they went, and the road unspooled before them like a pulled ribbon, and Savannah watched her whole kingdom grow small behind them until it fit in the palm of the valley.
+Over the farthest hill they went, and the road unspooled before them, and Savannah watched her whole kingdom grow small behind them until it fit in the palm of the valley.
 
 Inside, the wagon was the coziest place Savannah had ever been. Bunks folded down from the walls. A little iron kettle steamed on a little iron stove and never quite stopped steaming. And above the lantern's hook, just inside the round door, there was a small wooden shelf.
 
@@ -82,7 +82,7 @@ And the lantern glowed. And the wagon rolled.
 
 The second wonder came slowly, the land folding and wrinkling until the hills turned to stone -- and the stone was striped.
 
-Ribbons of rose and gold and dusty purple ran through every hill and canyon, layer upon layer upon layer, as if a sunset had come down to rest one evening, long ago, and decided to stay.
+Ribbons of rose and gold and dusty purple ran through every hill and canyon, layer upon layer upon layer, like a sunset that had come down to rest long ago and stayed.
 
 "The Painted Canyons," said Wilma.
 
@@ -140,7 +140,7 @@ There was a beetle climbing a grass stem, and its shell shone green and gold and
 
 And Luna discovered her own shadow.
 
-She stared at it. She stalked it. She pounced on it, and it escaped, because shadows always do. She barked at it, and it said nothing, which Luna found suspicious, and she pounced again, and missed again, and this went on for some time.
+She stared at it. She stalked it. She pounced on it, and it escaped, because shadows always do. She barked at it. The shadow opened its mouth and barked nothing at all. She pounced again, and missed again, and this went on for some time.
 
 Savannah laughed until her sides hurt. And when she looked up --
 
@@ -152,7 +152,7 @@ Not glowing. Blazing -- brighter than it had shone at the corn palace, brighter 
 
 And the lantern glowed. And the wagon rolled.
 
-It rolled faster and lighter than it had rolled the whole journey, because now everything fed the lantern. Ordinary birds on ordinary fences. Puddles that held the whole sky. The moon, following them home the way it does, keeping perfect pace no matter how fast they went. Savannah noticed all of it, and the lantern drank it in, and the wheels fairly sang.
+It rolled faster and lighter than it had rolled the whole journey, because now everything fed the lantern. Ordinary birds on ordinary fences. Puddles that held the whole sky. The moon, following them home, keeping perfect pace no matter how fast they went. Savannah noticed all of it, and the lantern drank it in, and the wheels fairly sang.
 
 They crested the last hills as the sun came down, and there was the sea, wide and shining. Far off, in a busy harbor, silver fish leapt through the air like birds. Farther still, a green island sat in the fog, crowded with trees so old and tall they seemed to be drinking the clouds.
 
@@ -160,7 +160,7 @@ They crested the last hills as the sun came down, and there was the sea, wide an
 
 Then the road bent for home.
 
-The kingdom came up out of the valley to meet them -- every meadow, every stream, every mossy stone, exactly where Savannah had left them. But she looked at it all closely now, the way Wilma had taught her, and she found she was seeing it for the very first time, all over again.
+The kingdom came up out of the valley to meet them -- every meadow, every stream, every mossy stone, exactly where Savannah had left them. But she looked at it all closely now, and she saw it for the very first time.
 
 That night, home in her own bed, Savannah set her treasures on the windowsill: the golden kernel, the striped pebble, the tiny bottle of stardust.
 
@@ -168,14 +168,8 @@ And in the dark, they glowed.
 
 Each one glowed softly with the light of the place it came from -- warm gold, sunset rose, silver star-shimmer -- like three little windows into three far places.
 
-Because that is the secret of the Wandering Wagon, and of every good journey:
-
-it comes home with you.
-
 Luna was asleep before the first star came out, sprawled across the foot of the bed, one wing over her nose, dreaming of shadows she would definitely catch next time.
 
 Outside, in the meadow, the resting wagon glowed gently all night long.
-
-Because home, looked at closely, is full of wonder too.
 
 And they all lived happily ever after.

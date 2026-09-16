@@ -14,7 +14,7 @@ She wanted it to be perfect. Every square told a little piece of what made Big A
 
 Savannah hummed while she worked. One stitch, then another, then another.
 
-Under the table, Luna the dragon was curled up in a great black heap. Every now and then she poked her head up, snorted at the fabric, and grumbled her opinion about the colors.
+Under the table, Luna the dragon was curled up in a great black heap. Every now and then she poked her head up, snorted at the fabric, and grumbled.
 
 "Blue is fine, Luna," said Savannah.
 
@@ -28,7 +28,7 @@ Thistle the rabbit was bouncing around the room, trying to be helpful. "Do you n
 
 And in a basket of fabric scraps in the corner, Ollie the opossum was fast asleep, curled up so tight he looked like just another scrap of gray cloth.
 
-It was a peaceful afternoon. Warm light through the window. The hum of the meadow outside. Everything was exactly as it should be.
+It was a peaceful afternoon. Warm light through the window. The hum of the meadow outside.
 
 Until it wasn't.
 
@@ -54,13 +54,13 @@ She stitched the fish square next, hoping it was a fluke. A beautiful silver fis
 
 The fish wiggled. It flopped. And then — *splish* — it hopped right off the fabric, slid across the table, and splashed into Luna's water bowl.
 
-Luna lifted her head and stared at the little cloth fish swimming circles in her bowl. She looked at Savannah. She looked back at the fish. She did not seem amused.
+Luna lifted her head and stared at the little cloth fish swimming circles in her bowl. She looked at Savannah. She looked back at the fish. Then she pushed the whole bowl away with her nose.
 
 "Oh no, no, no," said Savannah.
 
-She tried the mountain square. Surely a mountain would stay put. Mountains don't go anywhere.
+She tried the mountain square. Surely a mountain would stay put.
 
-But this one did. The moment she finished stitching, the proud little mountain crumbled into a pile of tiny cloth pebbles that tumbled off the table and rolled under every piece of furniture in the room.
+But it didn't. The moment she finished stitching, the proud little mountain crumbled into a pile of tiny cloth pebbles that tumbled off the table and went rolling away in every direction.
 
 Luna sneezed as one rolled past her nose.
 
@@ -74,11 +74,11 @@ Ollie closed his eye. "That does sound like a problem."
 
 ---
 
-Savannah looked at the table. Her beautiful quilt squares were empty — blank patches of fabric with nothing on them. The bluebird was outside, somewhere in the trees. The fish was doing laps in Luna's water bowl. The mountain pebbles were under every chair and cupboard in the cottage.
+Savannah looked at the table. Her beautiful quilt squares were empty.
 
 And Big Al was coming for supper.
 
-Luna nudged Savannah's hand with her big black snout and grumbled — low, bossy, the way she always did when she thought Savannah was worrying too much and not doing enough.
+Luna nudged Savannah's hand with her big black snout and grumbled — low and bossy.
 
 "We could catch them!" said Thistle, vibrating with excitement. "I'm fast! I could catch them! Let me catch them! Please let me catch them!"
 
@@ -106,11 +106,11 @@ The bluebird was first.
 
 They found it up in a tall oak tree at the edge of the garden, perched on a real branch among the real birds, singing its little heart out. Its cloth wings fluttered in the breeze, and the real birds didn't seem to mind one bit that it was made of thread.
 
-"I'll get it!" said Thistle, and she scrambled up the trunk so fast that she missed a branch and had to grab on with her back feet, dangling upside down.
+"I'll get it!" said Thistle, and he scrambled up the trunk so fast that he missed a branch and had to grab on with his back feet, dangling upside down.
 
 "Careful!" called Savannah.
 
-"I'm fine! I'm totally fine! I'm just — upside down!" Thistle righted herself, tried again — slower this time — and crept along the branch toward the bluebird.
+"I'm fine! I'm totally fine! I'm just — upside down!" Thistle righted himself, tried again — slower this time — and crept along the branch toward the bluebird.
 
 But the bluebird just hopped to a higher branch.
 
@@ -150,7 +150,7 @@ Luna nudged him toward the stream with her nose. It was not a gentle nudge.
 
 "Fine!" said Ollie. "Fine, fine, fine."
 
-He crept to the edge of the stream. He put one paw in. He winced. He put another paw in. He whimpered. He waded in belly-deep. He held his tail straight up in the air. He made a face like the whole world was ending.
+He crept to the edge of the stream. He put one paw in. He winced. He waded in belly-deep, holding his tail straight up in the air.
 
 "It's cold," he announced. "It's wet. I would like everyone to know that I am very unhappy."
 
@@ -158,7 +158,7 @@ He crept to the edge of the stream. He put one paw in. He winced. He put another
 
 Ollie spotted the little cloth fish. He cupped his paws together, very carefully, very gently — and scooped.
 
-The fish wriggled once in his paws, flicked its tail, and then went still, as if it knew it was caught fair and square.
+The fish wriggled once in his paws, flicked its tail, and then went still.
 
 Ollie waded out of the stream, dripping and miserable, and placed the fish in Savannah's hands.
 
@@ -168,7 +168,7 @@ Ollie waded out of the stream, dripping and miserable, and placed the fish in Sa
 
 ---
 
-The mountain pebbles were last, and they were everywhere.
+The mountain pebbles were last.
 
 Some had rolled into the garden. Some had tumbled across the yard. Some were hiding under leaves and behind flower pots and between the roots of the old oak tree.
 
@@ -180,9 +180,9 @@ She found the second under a rosebush. *Pounce. Thwap.* Into the pile.
 
 The third, hiding in a clump of clover. *Pounce. Thwap.* Into the pile.
 
-One by one, Luna hunted them all down. She was very serious about it. Her tail wagged the entire time. She did not see the contradiction.
+One by one, Luna hunted them all down. She was very serious about it. Her tail wagged the entire time.
 
-When the last pebble was dropped into place, Luna sat down beside her pile and looked at Savannah as if to say, *You're welcome. I accept treats.*
+When the last pebble was dropped into place, Luna sat down beside her pile, thumped her tail twice, and waited for somebody to say something about it.
 
 "Three down," said Savannah. "All of them. Let's go home."
 
@@ -192,7 +192,7 @@ Back at the cottage, Savannah spread the empty squares across the big wooden tab
 
 She began to sew them into place.
 
-But the bluebird wriggled. The fish squirmed. The mountain pebbles shifted and slid. She tried pinning them down with her thumbs. The bluebird pecked at her fingers. It was no use. Every stitch she made, they pulled against. They would not stay still.
+But the bluebird wriggled. The fish squirmed. The mountain pebbles shifted and slid. She tried pinning them down with her thumbs. The bluebird pecked at her fingers. Every stitch she made, they pulled against.
 
 Savannah sat back and pressed her hands against her face.
 
@@ -200,43 +200,41 @@ Savannah sat back and pressed her hands against her face.
 
 And then she saw it.
 
-The bluebird square was next to the fish square. And neither one was moving.
+The bluebird square was next to the fish square.
 
-The bird sat still on its branch. The fish swam gently in its river. Side by side, they were calm.
+The bird sat still on its branch. The fish swam gently in its river.
 
 She moved the mountain square next to the fish. The pebbles stopped shifting. The mountain held firm.
 
-Savannah looked at her quilt. She looked at the squares. And she understood.
+Savannah looked at the squares. And she understood.
 
-They didn't want to be separate little pictures, all alone in their own squares. They wanted to be *together*. Part of the same world. The same sky, the same river, the same story.
+They didn't want to be separate little pictures. They wanted to be *together*. Part of the same world. The same sky, the same river, the same story.
 
-The pictures had come alive because Savannah stitched them with so much love that they became real. And real things want to be close to the things they belong with.
+"You want to be home," she said softly.
 
-"You don't want to be apart," she said softly. "You want to be home."
-
-The bluebird ruffled its wings, as if to say, *Yes, exactly.*
+The bluebird ruffled its wings and chirped once, right in her ear.
 
 ---
 
 Savannah picked up her needle and got to work.
 
-She rearranged every square so they all connected. The bird perched on a branch above the river. The fish swam in water that flowed down from the mountain. The mountain rose tall behind them all. She stitched golden threads between each square, linking one picture to the next. No edges. No gaps. No lonely squares. Just one big, beautiful scene.
+She rearranged every square so they all connected. The bird perched on a branch above the river. The fish swam in water that flowed down from the mountain. The mountain rose tall behind them all. She stitched golden threads between each square, linking one picture to the next. No gaps. No lonely squares. Just one big, beautiful scene.
 
 And as each piece found its place beside the others, it settled in — happily, quietly, like a sigh.
 
-Then Savannah did something she hadn't planned. Right in the center, she stitched one more figure. A big, warm bear — big and tall, standing in the middle of everything, holding it all together. If you looked closely, the bear had kind eyes and a gentle smile. He looked an awful lot like someone Savannah loved very much.
+Then Savannah did something she hadn't planned. Right in the center, she stitched one more figure. A big, warm bear, holding everything together. If you looked closely, the bear had kind eyes and a gentle smile. He looked an awful lot like someone Savannah loved very much.
 
 She tied the last knot. She snipped the thread.
 
-The whole quilt shimmered once — a soft, golden glow — and then it went still. Content. Complete.
+The whole quilt shimmered once — a soft, golden glow — and then it went still.
 
-Luna put her chin on the table and sniffed the quilt. She did not grumble. That was her highest compliment.
+Luna put her chin on the table and sniffed the quilt. She did not grumble.
 
 ---
 
 Big Al arrived just as the sun was setting.
 
-He filled the doorway the way he always did — big and warm and steady, the kind of person who made the whole cottage feel safer just by walking in.
+He filled the doorway, ducking his head to get through it, and the little cottage felt warmer the moment he was inside.
 
 "I made you something," said Savannah.
 
@@ -246,21 +244,19 @@ Big Al took it in his hands, and for a moment he didn't say anything at all. He 
 
 "Well now," he said, and his voice was soft the way it got when something mattered. "That's the finest quilt I ever saw."
 
-He wrapped it around his big shoulders, and it fit him perfectly, like it had always been his.
+He wrapped it around his big shoulders, and it fit him perfectly.
 
 Then Luna climbed into his lap.
 
-She was far too big for laps. She did not care. She had never cared. She turned around three times, knocked a cushion to the floor, and settled in on top of the quilt with a satisfied huff.
+She was far too big for laps. She did not care. She turned around three times, knocked a cushion to the floor, and settled in on top of the quilt with a satisfied huff.
 
-"There's room for everyone," said Big Al, because there always was.
+"There's room for everyone," said Big Al.
 
-Ollie curled up on one corner of the quilt, already half asleep. Thistle claimed another corner, tucked her ears against her back, and was out like a light in three seconds flat.
+Ollie curled up on one corner of the quilt, already half asleep. Thistle claimed another corner, tucked his ears against his back, and was out like a light in three seconds flat.
 
 Savannah leaned against Big Al's arm, with Luna's warm side pressed against her, and the quilt wrapped around all of them.
 
 And if you looked very closely — very, very closely — you could see the little stitched bluebird ruffle its wings. The silver fish flick its tail. The mountain standing tall and still and proud.
-
-All of them right where they belonged.
 
 All of them home.
 

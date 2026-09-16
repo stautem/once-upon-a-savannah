@@ -22,7 +22,7 @@ He cleared his throat, which took a while.
 
 "The rain has stopped on the Green Island."
 
-Now, Savannah had heard of the Green Island all her life. It sat far out in the water, wrapped in fog, and it was covered from shore to shore with the oldest trees in all the world -- trees so old they had opinions, trees so tall they drank the clouds. And on the Green Island, a soft silver rain fell nearly every day, and everything green and growing depended on it.
+Now, Savannah had heard of the Green Island all her life. It sat far out in the water, wrapped in fog. From shore to shore it was covered with the oldest trees in all the world -- trees so old they had opinions, trees so tall they drank the clouds. And on the Green Island, a soft silver rain fell nearly every day, and everything green and growing depended on it.
 
 "My cousins live there," said Mossy. "They sent word the fast way, by gull. Then they sent word the reliable way. That was me."
 
@@ -30,17 +30,17 @@ Now, Savannah had heard of the Green Island all her life. It sat far out in the 
 
 "Three days," said Mossy, "plus three days of travel. The moss is going crisp at the edges. Crisp moss is unhappy moss."
 
-Savannah packed a satchel and whistled for Luna -- her dragon, big and black-scaled and loud, who came galloping around the castle as if she'd been waiting all morning for exactly this -- and they set off for the harbor.
+Savannah packed a satchel and whistled for Luna -- her dragon, big and black-scaled and loud, who came galloping around the castle before the whistle had finished -- and they set off for the harbor.
 
 "I will guide you," said Mossy, riding in the satchel. "I know the island. Slowly. But I know it."
 
-The ferry was broad and friendly and smelled of salt and cedar, and it carried them out across the water, into the fog and through it, until the Green Island rose up ahead -- a great soft mountain of trees, green upon green upon green.
+The ferry was broad and friendly and smelled of salt and cedar. It carried them out across the water, into the fog and through it, until the Green Island rose up ahead -- a great soft mountain of trees, green upon green upon green.
 
 The ferry landed on a curve of gray-sand beach.
 
 And that was where Luna met the sea.
 
-She had never seen waves before. She stared at the first one. She galloped at the second one. She bit the third one, which did not go the way she expected. And when the waves slid back down the sand -- as waves do -- Luna was personally offended, and barked tremendous opinions at the entire ocean, and when the waves came back up the sand -- as waves also do -- she was overjoyed, and galloped and bit and barked all over again.
+She had never seen waves before. She stared at the first one. She galloped at the second one. She bit the third one, which did not go the way she expected. And when the waves slid back down the sand, Luna was personally offended, and barked tremendous opinions at the entire ocean, and when the waves came back up the sand, she was overjoyed, and galloped and bit and barked all over again.
 
 This went on for some time. The sea did not seem to mind. The sea has met many dragons.
 
@@ -52,7 +52,7 @@ They climbed the path from the beach, ducked under a curtain of ferns --
 
 Even Luna went quiet, which almost never happened.
 
-They were standing in the oldest forest there is. The trees rose up and up and up, wider than cottages, their bark folded and channeled like riverbeds standing on end. From every branch hung moss -- long, soft curtains of it, green-gold in the dim light, so that the path felt like a castle hall draped in velvet. The light came down green. The air stood still. It felt like being inside a held breath.
+They were standing in the oldest forest there is. The trees rose up and up and up, wider than cottages, their bark folded into deep ridges. From every branch hung moss -- long, soft curtains of it, green-gold in the dim light, so that the path felt like a castle hall draped in velvet. The light came down green. The air stood still.
 
 But Mossy was right. At the edges of the path, the moss had gone crisp and pale, curling like paper. The ferns drooped. The forest was thirsty.
 
@@ -66,7 +66,7 @@ They hadn't gone far when the ground ahead of them trembled, and up through the 
 
 "Then we'll wake her," said Savannah. "Which way is she?"
 
-Digby pointed his nose up the path. And there, between two mossy trunks, stood Clover the Deer -- appearing silently out of the green, the way she did, without so much as a rustle. Clover didn't say anything. Clover rarely did. She simply turned and stepped along a deer path, thin as a ribbon, and looked back once.
+Digby pointed his nose up the path. And there, between two mossy trunks, stood Clover the Deer -- appearing silently out of the green, without so much as a rustle. Clover didn't say anything. Clover rarely did. She simply turned and stepped along a deer path, thin as a ribbon, and looked back once.
 
 Follow me.
 
@@ -90,7 +90,7 @@ All those soft green curtains drank the roar right up, and what came out the oth
 
 The Eldest slept on.
 
-Luna stared at the moss with narrow eyes and filed a formal complaint, which the moss also swallowed.
+Luna stared at the moss with narrow eyes and roared again, louder. The moss swallowed that one too.
 
 Next, Digby ducked underground and came back with the woodpeckers -- four of them, professionals, who lined up on the Eldest's trunk and delivered their finest drumming: rat-a-tat-tat, rat-a-tat-tat.
 
@@ -106,7 +106,7 @@ Savannah sat down between two great roots and looked up at the sleeping giant. "
 
 And that was when Clover spoke.
 
-Clover, who almost never said anything, stepped up softly beside Savannah, and said, in a voice like the space between raindrops:
+Clover, who almost never said anything, stepped up softly beside Savannah, and said, very quietly:
 
 "She has listened for a thousand years."
 
@@ -124,7 +124,7 @@ She knew about bedtime stories. She knew what they were for, and how they worked
 
 "Then she'll have one," said Savannah. "Right now."
 
-She climbed into the hollow between the two greatest roots, right up close against the trunk, where the moss was thickest and the bark was warm -- for the Eldest was warm, the way sleeping things are. Luna curled around the outside of the roots like a great black wall, so that the hollow became the coziest room on the island. Digby settled in. Mossy was already settled; it was hard to tell the difference. Clover folded her legs and lay down in the ferns.
+She climbed into the hollow between the two greatest roots, right up close against the trunk, where the moss was thickest and the bark was warm. Luna curled around the outside of the roots like a great black wall, so that the hollow became the coziest room on the island. Digby settled in. Mossy was already settled; it was hard to tell the difference. Clover tucked herself into the ferns to listen.
 
 And Savannah pressed her hand to the bark, and told the Eldest Tree a story.
 
@@ -136,11 +136,11 @@ A waking-up story.
 
 And deep inside the Eldest Tree, something stirred.
 
-The sap, which had gone slow and dreaming, began to rise -- Savannah could feel it under her hand, like a great slow heartbeat remembering itself. Far, far overhead, in the dark of the canopy, the leaves began to shiver awake, a soft rushing sound like the beginning of applause.
+The sap, which had gone slow and dreaming, began to rise -- Savannah could feel it under her hand, slow and steady as a heartbeat. Far, far overhead, in the dark of the canopy, the leaves began to shiver awake with a soft rushing sound.
 
 And the Eldest Tree woke up.
 
-She woke gently, the way mountains would if they could, with a long, deep creak that ran from her roots to her crown. Her branches lifted. Her moss curtains swayed. And from somewhere in the middle of her, in a voice like wind through a thousand years of leaves, she laughed -- a warm, crackly, delighted laugh, like the world's largest rocking chair.
+She woke gently, with a long, deep creak that ran from her roots to her crown. Her branches lifted. Her moss curtains swayed. And from somewhere in the middle of her, she laughed -- a warm, crackly, delighted laugh, like the world's largest rocking chair.
 
 "Ohh," said the Eldest Tree. "I liked that."
 
@@ -152,18 +152,18 @@ And the Eldest Tree stretched her great branches wide over the whole forest, and
 
 It came as the softest silver mist -- the island's own rain, the gentle kind that never quite lands and yet leaves everything shining. It fell on the crisp moss, and the moss plumped up green. It fell on the drooping ferns, and the ferns unrolled like party favors. It fell on the whole thirsty island, shore to shore, and the whole island drank, and gleamed, and breathed out the greenest smell there has ever been.
 
-Luna tried to bite the mist, out of habit. The mist didn't mind. It settled on her scales in ten thousand tiny silver beads until she sparkled like the night sky, and she was so pleased with the effect that she forgave the mist for being unbiteable.
+Luna tried to bite the mist, out of habit. The mist didn't mind. It settled on her scales in ten thousand tiny silver beads until she sparkled like the night sky, and she was so pleased with the effect that she forgave the mist for being impossible to bite.
 
 That night, they slept in the hollow between the roots -- Savannah wrapped in her cloak against Luna's warm side, Digby curled like a small velvet bun, Mossy tucked in his shell, Clover folded in the ferns close by. High above them, the rain whispered down on a billion leaves.
 
-And if you have never fallen asleep to the sound of rain on a billion leaves, then you should know: it is the best sleeping-sound there is, and the Eldest Tree hummed along beneath it, very low, all night long.
+And beneath it, very low, the Eldest Tree hummed along all night long.
 
-In the morning, the ferry carried them home across the bright water. Luna barked farewell to the waves, and the waves waved back, over and over, the way they do.
+In the morning, the ferry carried them home across the bright water. Luna barked farewell to the waves, and the waves waved back, over and over.
 
 But before they left the clearing, Savannah had made the Eldest Tree a promise. Every year, she would ride the ferry through the fog, and walk the green halls under the moss, and climb into the hollow between the roots.
 
 And she would tell the Eldest Tree one new story.
 
-Because even the oldest, wisest, most listening ones -- even a tree who has heard every tale on her island for a thousand years -- need a story of their very own at bedtime.
+Behind them, all the way across the water, the silver rain was falling on the Green Island, and somewhere under it the moss was going soft again.
 
 And they all lived happily ever after.

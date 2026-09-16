@@ -32,7 +32,7 @@ Hazel the Owl was perched on the fountain beside Savannah, her big golden eyes t
 
 Nobody answered, because nobody ever could, and Hazel didn't seem to mind.
 
-It was the kind of evening where nothing needed to happen, and that was perfectly fine.
+It was a quiet, easy sort of evening.
 
 But then — something happened anyway.
 
@@ -68,7 +68,7 @@ Savannah gathered her friends. Rascal, because he was clever with his paws and c
 
 And she went to find Big Al.
 
-Big Al lived in the stone workshop at the edge of the square. He was big and strong and quiet, the kind of man who made you feel safe just by being nearby. When Savannah brought him the music box, he turned it over in his huge, careful hands and studied it for a long time.
+Big Al lived in the stone workshop at the edge of the square. He was big and strong and quiet, and being near him made you feel safe. When Savannah brought him the music box, he turned it over in his huge, careful hands and studied it for a long time.
 
 "Seven locks," he said. "You don't need to be the smartest to open them. You just need to be patient enough to listen to each one."
 
@@ -170,7 +170,7 @@ Hazel hummed low. The lock didn't move.
 
 Savannah hummed high. The lock didn't move.
 
-Luna leaned in close and let out a long, rumbling purr. Low and warm and steady, the way she purred when she was sleepy and happy and full of love.
+Luna leaned in close and let out a long, rumbling purr. Low and warm and steady.
 
 The lock shivered. It shimmered. And it clicked open.
 
@@ -190,8 +190,6 @@ Rascal tried pushing it. Nothing.
 
 Hazel tried tapping it in patterns. Nothing.
 
-Luna tried purring at it again. Nothing.
-
 Savannah tried turning it, sliding it, whispering to it. Nothing and nothing and nothing.
 
 They sat back. The square was quiet. The lanterns glowed. Wendell watched from his cart, his hands folded, his eyes gentle.
@@ -208,11 +206,9 @@ Savannah looked at the blank lock for a long moment. She placed her hand flat ag
 
 The seventh lock opened.
 
-It had never been a puzzle at all. It just needed someone kind enough to ask.
-
 Wendell's eyes shone bright. He pressed his hands together and nodded, again and again.
 
-"That's the one," he said, his voice thick with feeling. "That's the one nobody ever tried. Everyone was so busy being clever, nobody thought to just be gentle."
+"That's the one," he said, his voice thick with feeling. "That's the one nobody ever tried."
 
 ---
 
@@ -238,9 +234,9 @@ The whole village yawned. The whole village smiled. The whole village began to s
 
 Wendell gave the music box to Savannah the very next morning.
 
-"It belongs with someone who knows how to listen," he said. "And someone who remembers to say please."
+"It belongs with someone who knows how to listen," he said.
 
-And every night after that, when the stars came out and the lanterns glowed and the cobblestones were warm, Savannah would carry the music box to the square and open it, lock by lock by lock.
+And every night after that, when the stars came out and the lanterns glowed and the cobblestones were warm, Savannah would carry the music box to the square. And she would open it, lock by lock by lock.
 
 Rascal would slide the tiles. Hazel would press the stars. Savannah would whisper the riddle's answer. They'd untangle the silver thread together, patient and slow. Hazel and Savannah and Luna would hum until the sixth lock shivered open.
 

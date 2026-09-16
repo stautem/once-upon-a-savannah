@@ -8,7 +8,7 @@
 
 Once upon a time, in a kingdom where the flowers knew your name, there lived a princess named Savannah.
 
-Princess Savannah loved many things -- the forest, the meadow, the stream that sang over smooth stones, and her dragon, Luna, who was big and black-scaled and loud about everything.
+Princess Savannah loved many things — the forest, the meadow, the stream that sang over smooth stones, and her dragon, Luna, who was big and black-scaled and loud about everything.
 
 But most of all, she loved Wilma's garden.
 
@@ -18,7 +18,7 @@ But these were not ordinary flowers.
 
 These flowers only bloomed when you solved the puzzle.
 
-In the center of every flower bed sat a flat stone, and on every stone was carved a puzzle -- a riddle, or a shape to trace, or a question with no obvious answer. But if you knelt down and studied it, and thought carefully, and traced the answer with your finger -- the flowers around that stone would yawn open in a great wave of color, as if they had been waiting just for you.
+In the center of every flower bed sat a flat stone, and on every stone was carved a puzzle — a riddle, or a shape to trace, or a question with no obvious answer. But if you knelt down and thought carefully, and traced the answer with your finger, the flowers around that stone would yawn open in a great wave of color. It was as if they had been waiting just for you.
 
 Savannah had solved every puzzle in the garden, some of them twice. Luna loved the garden too, though not for the puzzles. Luna loved romping between the flower beds, sniffing everything, sneezing at the pollen, and roaring at butterflies who did not seem impressed.
 
@@ -32,11 +32,11 @@ Savannah arrived at the garden gate and stopped. Luna bumped into her legs and h
 
 The flowers were drooping.
 
-Not just drooping -- curling closed, losing their color like a painting left out in the rain. The reds faded to gray. The yellows dimmed to dust. The purples pulled their petals tight and turned away from the sun.
+Not just drooping — curling closed, losing their color like a painting left out in the rain. The reds faded to gray. The yellows dimmed to dust. The purples pulled their petals tight and turned away from the sun.
 
-And the stones -- every single puzzle stone -- were smooth and blank. Every riddle, every shape, every pattern. Vanished, as if they had never been there at all.
+And the stones — every single puzzle stone — were smooth and blank. Every riddle, every shape, every pattern. Vanished, as if they had never been there at all.
 
-Wilma stood at the garden gate, calm the way she always was, but with something sad in the tilt of her head.
+Wilma stood at the garden gate, calm, but with something sad in the tilt of her head.
 
 "The puzzles disappeared in the night," she said. "I've never seen the garden do this before."
 
@@ -44,11 +44,11 @@ Wilma stood at the garden gate, calm the way she always was, but with something 
 
 Wilma looked out across the wilting beds. "Then the magic may sleep for a very long time."
 
-Savannah looked at the garden -- her favorite place in all the kingdom, going quiet and gray.
+Savannah looked at the garden — her favorite place in all the kingdom, going quiet and gray.
 
 "I'm going to fix every single stone," she said.
 
-Wilma smiled her quiet smile. "I believe you can," she said. "But you'll need to listen carefully. The stones may have forgotten their puzzles -- but the flowers remember."
+Wilma smiled her quiet smile. "I believe you can," she said. "But you'll need to listen carefully. The stones may have forgotten their puzzles — but the flowers remember."
 
 Luna was already bounding toward the first stone bed, nose to the ground, tail swishing.
 
@@ -72,7 +72,7 @@ She traced an arrow on the smooth stone with her finger. An arrow pointing east,
 
 The stone hummed.
 
-The sunflowers lifted their heads, one by one, like sleepers waking from a dream. Their color came flooding back -- gold and amber and honey-bright -- and they opened wide, wide, wide, turning their faces to the sky.
+The sunflowers lifted their heads, one by one, like sleepers waking from a dream. Their color came flooding back — gold and amber and honey-bright — and they opened wide, wide, wide, turning their faces to the sky.
 
 "It worked!" Thistle shouted, hopping in a circle. "It worked, it worked, it WORKED!"
 
@@ -82,7 +82,7 @@ The next bed was the vine garden, where climbing vines twisted around a wooden t
 
 Curled into spirals. Every vine, every tendril, winding in the same slow, deliberate swirl.
 
-Thistle saw it first. He was jittery and fast and noticed everything at once, and he announced it by shouting, because Thistle did everything by shouting.
+Thistle saw it first.
 
 "SPIRALS!" he yelled. "Look! They're making spirals! The puzzle is a spiral!"
 
@@ -90,11 +90,11 @@ Savannah knelt and traced a spiral on the blank stone, round and round from the 
 
 The stone hummed.
 
-The vines burst into flower -- tiny purple blooms popping open all along the curling stems, spiraling up and up the trellis until the whole bed was a tower of color.
+The vines burst into flower — tiny purple blooms popping open all along the curling stems, spiraling up and up the trellis until the whole bed was a tower of color.
 
 "Two down," Savannah said.
 
-They moved from bed to bed. Each puzzle was different. In one bed, the flowers had arranged their fallen petals into the shape of a crescent moon, and Savannah traced the moon onto the stone. In another, the flowers had grown in a pattern -- tall, short, tall, short -- and the puzzle was to trace the rhythm.
+They moved from bed to bed. Each puzzle was different. In one bed, the flowers had arranged their fallen petals into the shape of a crescent moon, and Savannah traced the moon onto the stone. In another, the flowers had grown in a pattern — tall, short, tall, short — and the puzzle was to trace the rhythm.
 
 And then they came to the warm bed.
 
@@ -108,11 +108,11 @@ Luna looked back, her dark eyes bright.
 
 "Can you help?" Savannah asked.
 
-Luna stepped forward, lowered her great black head, and breathed a gentle, gentle puff of warmth onto the stone. Not fire. Not flame. Just a soft breath of dragon heat, like a summer breeze, like a blanket fresh from the dryer, like the warm spot where the sun falls through a window.
+Luna stepped forward, lowered her great black head, and breathed a gentle, gentle puff of warmth onto the stone. Not fire. Not flame. Just a soft breath of dragon heat, like the warm spot where the sun falls through a window.
 
 The stone glowed.
 
-The red flowers uncurled all at once, opening like tiny hands reaching for the warmth, and they blazed back to life -- red and orange and deep, deep crimson, the warmest colors in the garden.
+The red flowers uncurled all at once, opening like tiny hands reaching for the warmth, and they blazed back to life — red and orange and deep, deep crimson, the warmest colors in the garden.
 
 Luna sat back on her haunches and huffed, very satisfied.
 
@@ -122,7 +122,7 @@ Bed after bed, stone after stone, they worked their way through the garden. This
 
 Until they reached the center of the garden.
 
-The last stone was the biggest. It sat in the very middle of the garden, in the largest bed, surrounded by flowers that had once been the tallest and brightest of all. Now they were the most wilted -- bent nearly to the ground, colorless, barely holding on.
+The last stone was the biggest. It sat in the very middle of the garden, in the largest bed, surrounded by flowers that had once been the tallest and brightest of all. Now they were the most wilted — bent nearly to the ground, colorless, barely holding on.
 
 Savannah knelt beside the stone. She looked at the flowers. She waited for a clue.
 
@@ -146,7 +146,7 @@ One at first, drifting over the mossy wall like a tiny floating lantern. Then an
 
 They settled on the wilting flowers. They drifted across the blank stone. And where they landed, something appeared.
 
-Faint lines. Glowing traces on the stone, like a message written in light -- invisible by day, but shining now in the Firefly glow. The carvings were still there. They had been there all along. They were just waiting for the dark.
+Faint lines. Glowing traces on the stone, like a message written in light — invisible by day, but shining now in the Firefly glow. The carvings had been there all along, waiting for the dark.
 
 "It's a nighttime puzzle," Savannah whispered.
 
@@ -172,11 +172,11 @@ She traced the star.
 
 Point by point, line by line, careful and sure.
 
-The stone hummed -- louder than any of the others, a deep, warm sound like a bell ringing underground. The center flowers bloomed. Not slowly, not one by one, but all at once -- the tallest, brightest, most colorful flowers in the whole garden, bursting open in a wave of every color Savannah had ever seen and a few she hadn't.
+The stone hummed — louder than any of the others, a deep, warm sound like a bell ringing underground. The center flowers bloomed. Not slowly, not one by one, but all at once — the tallest, brightest, most colorful flowers in the whole garden, bursting open in a wave of every color Savannah had ever seen and a few she hadn't.
 
 And the light rippled outward.
 
-From the center stone it spread, flowing along the paths, washing over every bed, refreshing every stone and every bloom. The whole garden was glowing now -- not just alive, but more vivid and more beautiful than Savannah had ever seen it.
+From the center stone it spread, flowing along the paths, washing over every bed, refreshing every stone and every bloom. The whole garden was glowing now — not just alive, but more vivid and more beautiful than Savannah had ever seen it.
 
 Thistle hopped in circles, unable to contain himself. "Did you SEE that? Did you SEE? The whole garden! Every flower! ALL of them!"
 
@@ -184,13 +184,11 @@ Wilma put her hand on Savannah's shoulder. "The garden chose well," she said.
 
 Luna, for her part, walked straight to the biggest, brightest flower bed in the center of the garden, turned around three times, and flopped down on her back among the blooms. She wiggled once, stretched her wings out wide, and sighed the deepest, most contented sigh a dragon has ever sighed.
 
-She was completely satisfied.
+The Fireflies stayed. They drifted through the glowing garden like tiny floating lanterns, turning the paths to rivers of light and the flower beds to golden pools. The air smelled like every good thing at once — lavender and honey and warm grass and the first cool breath of night.
 
-The Fireflies stayed. They drifted through the glowing garden like tiny floating lanterns, turning the paths to rivers of light and the flower beds to golden pools. The air smelled like every good thing at once -- lavender and honey and warm grass and the first cool breath of night.
+Wilma and Savannah and Thistle sat together in the glow.
 
-Wilma and Savannah and Thistle sat together in the glow. The garden hummed the way it always had -- but a little louder now, a little warmer, the way a song sounds when more voices join in.
-
-Savannah knew she could come back anytime. The puzzles would be here. The flowers would be here. And the magic would keep growing, year after year, as long as someone was willing to kneel down in the dirt and look closely and listen.
+Savannah knew she could come back anytime. The puzzles would be here. The flowers would be here.
 
 Thistle yawned. It was the first time he'd been quiet all day.
 

@@ -1,7 +1,7 @@
 # Story: The Garden That Grew Backwards
 
 **Date:** 2026-03-30
-**Characters:** Princess Savannah, Luna the Dragon, Digby the Mole, Pip the Jumping Spider, Rosie the Mole Cricket (new)
+**Characters:** Princess Savannah, Luna the Dragon, Digby the Mole, Pip the Jumping Spider, Rosie the Mole Cricket
 **Reading time:** ~8 minutes
 
 ---
@@ -46,7 +46,7 @@ Savannah stood in the middle of it all and said, very quietly, "Good morning, ga
 
 But the garden didn't seem to answer back the way it used to.
 
-Luna lifted her big head from her dirt bed and sniffed the air. She made a low, rumbly sound — not a growl, not a purr, something in between. She could tell something was wrong, too.
+Luna lifted her big head from her dirt bed and sniffed the air. She made a low, rumbly sound — not a growl, not a purr, something in between.
 
 ---
 
@@ -58,7 +58,7 @@ He had come up from his burrow to look, pressing one soft velvet paw against the
 
 Pip bounced onto Savannah's shoulder and pointed one tiny leg at a carrot top poking out of the dirt. "Look! Look, look, look!" she said. "Tiny claw marks! On the roots! Something very small has been holding on and pulling!"
 
-Savannah knelt down and looked. She couldn't see the marks — they were too small for princess eyes. But she trusted Pip. Pip always saw what no one else could see.
+Savannah knelt down and looked. She couldn't see the marks — they were too small for princess eyes. But she trusted Pip.
 
 "Then we need to go down there," said Savannah. "We need to find out who's pulling my garden underground."
 
@@ -88,7 +88,7 @@ Savannah smiled. "All right, then. Everyone's coming."
 
 Down they went.
 
-Digby led the way, padding softly through the dark earth. Savannah followed, bent low, her hand trailing along the cool tunnel wall. Pip rode on Savannah's shoulder, her bright eyes glowing like tiny lanterns. And behind them came Luna — squeezing, grunting, grumbling, and absolutely refusing to turn back.
+Digby led the way, padding softly through the dark earth. Savannah followed, bent low, her hand trailing along the cool tunnel wall. Pip rode on Savannah's shoulder, her bright eyes shining in the dark. And behind them came Luna — squeezing, grunting, grumbling, and absolutely refusing to turn back.
 
 *Deeper and deeper. Darker and warmer. Closer and closer.*
 
@@ -114,7 +114,7 @@ And there, in the soft glow of a hundred tiny mushrooms, was a garden.
 
 But it was growing upside down.
 
-Roots hung from the ceiling of the cavern like chandeliers, and from those roots grew flowers and vegetables — dangling downward, reaching toward the cavern floor. Sunflower heads hung like golden lanterns. Tiny tomatoes clustered in bunches overhead. Carrot roots pointed down like orange icicles.
+Roots hung from the ceiling of the cavern like chandeliers, and from those roots grew flowers and vegetables — dangling downward, reaching toward the cavern floor. Sunflower heads hung heavy and golden. Tiny tomatoes clustered in bunches overhead. Carrot roots pointed straight down, orange and bright.
 
 Savannah's garden. All of it. Growing backwards, underground.
 
@@ -132,7 +132,7 @@ The little mole cricket spun around, her eyes wide.
 
 "Oh!" she said. "Oh, oh no. Oh dear."
 
-She looked at Savannah. She looked at the upside-down garden. She looked back at Savannah. And her small face crumpled.
+Her eyes went from Savannah to the upside-down garden and back again. And her small face crumpled.
 
 "I'm sorry," she whispered. "I'm so, so sorry. I didn't mean to — well, I did mean to, but I didn't mean for you to — oh, this is terrible."
 
@@ -146,7 +146,7 @@ She looked at Savannah. She looked at the upside-down garden. She looked back at
 
 Rosie told them everything.
 
-She lived underground, alone. She had always lived underground. And she loved it — the warm earth, the quiet, the glowing mushrooms. But she had never been able to grow anything.
+She lived underground, alone, and always had. And she loved it — the warm earth, the quiet, the glowing mushrooms. But she had never been able to grow anything.
 
 Then one day, she tunneled close to the surface and heard a voice, warm and kind, saying:
 
@@ -168,7 +168,7 @@ Rosie blinked. "You're not angry?"
 
 "Show me," said Savannah.
 
-So Rosie showed her. The crystal-clear stream that watered the roots from below. The clusters of glowing mushrooms arranged like little lamps. The soft, warm earth packed and smoothed into garden beds on the cavern ceiling. It was beautiful.
+So Rosie showed her. The crystal-clear stream that watered the roots from below. The clusters of glowing mushrooms, arranged and tended. The soft, warm earth packed and smoothed into garden beds on the cavern ceiling. It was beautiful.
 
 "Rosie," said Savannah. "What if we shared?"
 
@@ -184,9 +184,9 @@ Savannah grinned. "Let's find out."
 
 They got to work.
 
-Digby dug connecting tunnels between Rosie's cavern and the garden above — gentle sloping paths so Rosie could visit the surface and Savannah could visit below. The tunnels were smooth and round and perfect, because Digby always knew exactly where to dig.
+Digby dug connecting tunnels between Rosie's cavern and the garden above — gentle sloping paths so Rosie could visit the surface and Savannah could visit below. The tunnels came out smooth and round and perfect.
 
-Pip scouted every inch of both gardens, above and below, and found the best spots for new seeds. "Here!" she would bounce. "And here! And here, here, here!" She was very thorough.
+Pip scouted every inch of both gardens, above and below, and found the best spots for new seeds. "Here!" she would bounce. "And here! And here, here, here!"
 
 Luna helped in her own Luna way. She lay down in the connecting tunnel and rolled back and forth until the earth was packed flat and smooth. Then she crawled into Rosie's cavern and did the same, pressing it firm and even with her big warm belly. Rosie watched this enormous black dragon rolling around in her home and didn't know quite what to say.
 
@@ -196,7 +196,7 @@ Luna gave a satisfied rumble and a cloud of mushroom dust puffed up around her.
 
 And Rosie planted from below while Savannah planted from above. They chose flowers with deep roots and tall stems, and vegetables that grew long and strong in both directions. They planted seeds and watered them from the stream below and the watering can above.
 
-When they were done, Savannah stood in her garden in the late afternoon sunshine. The soil beneath her feet was full of new seeds and new friends and new tunnels that connected her world to Rosie's world, all the way down.
+When they were done, Savannah stood in her garden in the late afternoon sunshine, with new seeds and new tunnels under her feet, all the way down to Rosie.
 
 ---
 
