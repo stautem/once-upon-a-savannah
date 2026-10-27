@@ -1,15 +1,15 @@
 """
 Normalize narration loudness so every story plays at the same gentle level.
 
-Uses ffmpeg's two-pass EBU R128 loudnorm filter. Pass one measures the file,
-pass two applies linear gain plus gentle range compression so chunk boundaries
-and provider drift do not produce audible volume steps.
+Gains the file to the target loudness, compresses anything louder than normal
+speech (shouts, exclamations) so there are no volume peaks, then runs ffmpeg's
+two-pass EBU R128 loudnorm filter in linear mode to land exactly on target.
 
 Usage:
     python scripts/normalize_audio.py                 # all stories/*/narration.mp3
     python scripts/normalize_audio.py <story-name>    # one story
     python scripts/normalize_audio.py --measure       # report loudness only
-    python scripts/normalize_audio.py --force         # redo files already at target
+    python scripts/normalize_audio.py --force         # redo files already processed
 """
 
 import argparse
@@ -30,13 +30,37 @@ TARGET_LUFS = -24.0
 TARGET_LRA = 5.0
 TARGET_TRUE_PEAK = -1.5
 OUTPUT_BITRATE = "128k"
-# Files already this close to target are skipped to avoid needless re-encoding.
+# Runs after the file is gained to TARGET_LUFS, so the threshold sits just above
+# normal speech: shouts get pulled down to the level of everything else.
+COMPRESSOR = (
+    f"acompressor=threshold={TARGET_LUFS + 4:g}dB:ratio=8:attack=5:release=250"
+    ":knee=3:detection=rms"
+)
+# Stored in the MP3 comment tag; files carrying the current tag are skipped.
+PROCESSING_TAG = f"loudnorm I={TARGET_LUFS:g} TP={TARGET_TRUE_PEAK:g}; {COMPRESSOR}"
+# Processed files this close to target are skipped to avoid needless re-encoding.
 TOLERANCE_LU = 0.7
 
 
 def require_ffmpeg():
-    if shutil.which("ffmpeg") is None:
-        sys.exit("ffmpeg is required for loudness normalization but was not found on PATH.")
+    for tool in ("ffmpeg", "ffprobe"):
+        if shutil.which(tool) is None:
+            sys.exit(f"{tool} is required for loudness normalization but was not found on PATH.")
+
+
+def run_ffmpeg(args, path):
+    result = subprocess.run(["ffmpeg", "-y", "-nostats", "-hide_banner", *args], capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"ffmpeg failed for {path}:\n{result.stderr[-800:]}")
+
+
+def read_tag(path):
+    result = subprocess.run(
+        ["ffprobe", "-v", "error", "-show_entries", "format_tags=comment", "-of", "default=nw=1:nk=1", str(path)],
+        capture_output=True,
+        text=True,
+    )
+    return result.stdout.strip()
 
 
 def measure_loudness(path):
@@ -54,38 +78,43 @@ def measure_loudness(path):
 
 
 def normalize_file(path, *, quiet=False, force=False):
-    """Two-pass normalize an MP3 in place. Returns (before_lufs, after_lufs).
+    """Level and normalize an MP3 in place. Returns (before_lufs, after_lufs).
 
-    Skips files already within TOLERANCE_LU of the target unless force=True.
+    Skips files already processed with the current settings and within
+    TOLERANCE_LU of the target unless force=True.
     """
     path = Path(path)
     stats = measure_loudness(path)
     before = float(stats["input_i"])
-    if not force and abs(before - TARGET_LUFS) <= TOLERANCE_LU:
+    if not force and read_tag(path) == PROCESSING_TAG and abs(before - TARGET_LUFS) <= TOLERANCE_LU:
         if not quiet:
             print(f"  {path.parent.name}: {before:.1f} LUFS (already normalized, skipped)")
         return before, before
 
-    filt = (
-        f"loudnorm=I={TARGET_LUFS}:LRA={TARGET_LRA}:TP={TARGET_TRUE_PEAK}"
-        f":measured_I={stats['input_i']}:measured_LRA={stats['input_lra']}"
-        f":measured_TP={stats['input_tp']}:measured_thresh={stats['input_thresh']}"
-        f":offset={stats['target_offset']}:linear=true:print_format=summary"
-    )
+    leveled = path.with_suffix(".leveled.wav")
     tmp = path.with_suffix(".normalized.mp3")
-    result = subprocess.run(
-        [
-            "ffmpeg", "-y", "-nostats", "-hide_banner", "-i", str(path),
-            "-af", filt, "-ar", "44100", "-ac", "1", "-c:a", "libmp3lame", "-b:a", OUTPUT_BITRATE,
-            str(tmp),
-        ],
-        capture_output=True,
-        text=True,
-    )
-    if result.returncode != 0:
+    try:
+        run_ffmpeg(
+            ["-i", str(path), "-af", f"volume={TARGET_LUFS - before:.2f}dB,{COMPRESSOR}",
+             "-ac", "1", "-c:a", "pcm_f32le", str(leveled)],
+            path,
+        )
+        stats = measure_loudness(leveled)
+        filt = (
+            f"loudnorm=I={TARGET_LUFS}:LRA={TARGET_LRA}:TP={TARGET_TRUE_PEAK}"
+            f":measured_I={stats['input_i']}:measured_LRA={stats['input_lra']}"
+            f":measured_TP={stats['input_tp']}:measured_thresh={stats['input_thresh']}"
+            f":offset={stats['target_offset']}:linear=true:print_format=summary"
+        )
+        run_ffmpeg(
+            ["-i", str(leveled), "-af", filt, "-ar", "44100", "-ac", "1", "-c:a", "libmp3lame",
+             "-b:a", OUTPUT_BITRATE, "-metadata", f"comment={PROCESSING_TAG}", str(tmp)],
+            path,
+        )
+        tmp.replace(path)
+    finally:
+        leveled.unlink(missing_ok=True)
         tmp.unlink(missing_ok=True)
-        raise RuntimeError(f"ffmpeg failed for {path}:\n{result.stderr[-800:]}")
-    tmp.replace(path)
 
     after = float(measure_loudness(path)["input_i"])
     if not quiet:

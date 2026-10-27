@@ -83,7 +83,7 @@ once-upon-a-savannah/
 
 ## Narration Voices
 
-Audio narration is generated with `scripts/narrate.py`. By default it runs in `auto` mode: it tries [ElevenLabs](https://elevenlabs.io/) first using the flash model (`eleven_flash_v2_5`), then falls back to AWS Polly if ElevenLabs returns a quota, credit, or rate-limit style error. The default ElevenLabs voice is **Imogen** (warm British storyteller). The default Polly fallback voice is **Amy**. Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Finished narrations are loudness-normalized with ffmpeg (-24 LUFS) so every story plays at the same gentle level. All current narrations use Imogen; the other voices below are available for variety.
+Audio narration is generated with `scripts/narrate.py`. By default it runs in `auto` mode: it tries [ElevenLabs](https://elevenlabs.io/) first using the flash model (`eleven_flash_v2_5`), then falls back to AWS Polly if ElevenLabs returns a quota, credit, or rate-limit style error. The default ElevenLabs voice is **Imogen** (warm British storyteller). The default Polly fallback voice is **Amy**. Voice settings are tuned for bedtime: slightly slower pace (0.85x speed), expressive stability, and gentle style. Finished narrations are compressed and loudness-normalized with ffmpeg (-24 LUFS) so every story, and every line within it, plays at the same gentle level. All current narrations use Imogen; the other voices below are available for variety.
 
 | Voice | ID | Style |
 |---|---|---|
